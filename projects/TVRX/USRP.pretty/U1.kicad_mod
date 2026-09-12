@@ -185,4 +185,15 @@
 		(uuid "8c7859f6-4483-4235-a4e5-3baf1c64f8a6")
 	)
 	(embedded_fonts no)
+	(model "${KIPRJMOD}/3dmodels/SOIC-8_3.9x4.9mm_P1.27mm.step"
+		(offset
+			(xyz -2.463800 -1.905 -1.6)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 180 0 -180.0)
+		)
+	)
 )

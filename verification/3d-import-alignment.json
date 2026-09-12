@@ -1,0 +1,93 @@
+{
+  "units": "mm",
+  "tolerance_mm": 0.0011,
+  "models": [
+    {
+      "file": "projects/BasicRX/3dmodels/EasyEDA_XFMR-SMD_6P-L7.9-W5.6-P2.54-LS7.0-BL.step",
+      "STEP_bounds_mm": [
+        [
+          -3.9350001,
+          -3.455,
+          0.0
+        ],
+        [
+          3.9350001,
+          3.455,
+          2.81
+        ]
+      ],
+      "WRL_bounds_mm": [
+        [
+          -3.934968,
+          -3.454908,
+          0.0
+        ],
+        [
+          3.934968,
+          3.454908,
+          2.8100020000000003
+        ]
+      ],
+      "maximum_bound_difference_mm": 9.199999999998099e-05,
+      "pass": true
+    },
+    {
+      "file": "projects/WBX/3dmodels/EasyEDA_XFMR-SMD_TC1-1TX.step",
+      "STEP_bounds_mm": [
+        [
+          -1.9050001,
+          -1.9049745999999486,
+          -8.326672684688674e-17
+        ],
+        [
+          1.9050001,
+          1.9050254000000515,
+          4.06
+        ]
+      ],
+      "WRL_bounds_mm": [
+        [
+          -1.905,
+          -1.905,
+          0.0
+        ],
+        [
+          1.905,
+          1.905,
+          4.059936
+        ]
+      ],
+      "maximum_bound_difference_mm": 6.399999999917583e-05,
+      "pass": true
+    },
+    {
+      "file": "projects/WBX/3dmodels/EasyEDA_CONN-SMD_QTE-020-01-F-D.step",
+      "STEP_bounds_mm": [
+        [
+          -10.0076001,
+          -3.556,
+          -0.6999986
+        ],
+        [
+          10.008600099999999,
+          3.556,
+          4.2784014000001
+        ]
+      ],
+      "WRL_bounds_mm": [
+        [
+          -10.0076,
+          -3.5559999999999996,
+          -0.7000240000000001
+        ],
+        [
+          10.0076,
+          3.5559999999999996,
+          4.278376
+        ]
+      ],
+      "maximum_bound_difference_mm": 0.001000099999998838,
+      "pass": true
+    }
+  ]
+}

@@ -1,0 +1,798 @@
+{
+  "project": "TVRX",
+  "non_model_PCB_data_unchanged": true,
+  "non_model_sha256": "931f953742e6de23f40009e79169d4fd5442c8f56b0205d1ad89a4ce429c55d5",
+  "models": [
+    {
+      "ref": "C83",
+      "value": ".1uF",
+      "status": "bound",
+      "model": "${KIPRJMOD}/3dmodels/C_0603_1608Metric.step",
+      "source": "KiCad generic 0603 package",
+      "alignment_rms_mm": 0.1654,
+      "rotation_xyz": [
+        180.0,
+        0.0,
+        -270.0
+      ],
+      "offset_mm": [
+        0.0,
+        -0.0,
+        -1.6
+      ],
+      "legacy_bottom_pads_in_front_footprint": true
+    },
+    {
+      "ref": "Q1",
+      "value": "NDS355AN",
+      "status": "bound",
+      "model": "${KIPRJMOD}/3dmodels/SOT-23.step",
+      "source": "KiCad SOT23",
+      "alignment_rms_mm": 0.10341493552136903,
+      "rotation_xyz": [
+        180.0,
+        0.0,
+        -90.0
+      ],
+      "offset_mm": [
+        -0.9906,
+        1.006767,
+        -1.6
+      ],
+      "legacy_bottom_pads_in_front_footprint": true
+    },
+    {
+      "ref": "R1",
+      "value": "NONE",
+      "status": "bound",
+      "model": "${KIPRJMOD}/3dmodels/R_0603_1608Metric.step",
+      "source": "KiCad generic 0603 package",
+      "alignment_rms_mm": 0.21539999999999992,
+      "rotation_xyz": [
+        180.0,
+        0.0,
+        -90.0
+      ],
+      "offset_mm": [
+        0.0,
+        -0.0,
+        -1.6
+      ],
+      "legacy_bottom_pads_in_front_footprint": true
+    },
+    {
+      "ref": "R13",
+      "value": "NONE",
+      "status": "bound",
+      "model": "${KIPRJMOD}/3dmodels/R_0603_1608Metric.step",
+      "source": "KiCad generic 0603 package",
+      "alignment_rms_mm": 0.21539999999999992,
+      "rotation_xyz": [
+        180.0,
+        0.0,
+        -90.0
+      ],
+      "offset_mm": [
+        0.0,
+        -0.0,
+        -1.6
+      ],
+      "legacy_bottom_pads_in_front_footprint": true
+    },
+    {
+      "ref": "R2",
+      "value": "2.2K",
+      "status": "bound",
+      "model": "${KIPRJMOD}/3dmodels/R_0603_1608Metric.step",
+      "source": "KiCad generic 0603 package",
+      "alignment_rms_mm": 0.21539999999999992,
+      "rotation_xyz": [
+        180.0,
+        0.0,
+        -90.0
+      ],
+      "offset_mm": [
+        0.0,
+        -0.0,
+        -1.6
+      ],
+      "legacy_bottom_pads_in_front_footprint": true
+    },
+    {
+      "ref": "R5",
+      "value": "1K",
+      "status": "bound",
+      "model": "${KIPRJMOD}/3dmodels/R_0603_1608Metric.step",
+      "source": "KiCad generic 0603 package",
+      "alignment_rms_mm": 0.21539999999999992,
+      "rotation_xyz": [
+        180.0,
+        0.0,
+        -90.0
+      ],
+      "offset_mm": [
+        0.0,
+        -0.0,
+        -1.6
+      ],
+      "legacy_bottom_pads_in_front_footprint": true
+    },
+    {
+      "ref": "R10",
+      "value": "0",
+      "status": "bound",
+      "model": "${KIPRJMOD}/3dmodels/R_0603_1608Metric.step",
+      "source": "KiCad generic 0603 package",
+      "alignment_rms_mm": 0.21539999999999992,
+      "rotation_xyz": [
+        180.0,
+        0.0,
+        -270.0
+      ],
+      "offset_mm": [
+        0.0,
+        -0.0,
+        -1.6
+      ],
+      "legacy_bottom_pads_in_front_footprint": true
+    },
+    {
+      "ref": "H3",
+      "status": "bare mounting hole"
+    },
+    {
+      "ref": "U2",
+      "value": "MT4937DI5",
+      "status": "bound",
+      "model": "${KIPRJMOD}/3dmodels/MT4937DI5_APPROX_DISPLAY.wrl",
+      "source": "APPROXIMATE tuner display envelope; 15 mm height assumed; F connector omitted",
+      "alignment_rms_mm": 0.0,
+      "rotation_xyz": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "offset_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "legacy_bottom_pads_in_front_footprint": false
+    },
+    {
+      "ref": "C1",
+      "value": ".1uF",
+      "status": "bound",
+      "model": "${KIPRJMOD}/3dmodels/C_0603_1608Metric.step",
+      "source": "KiCad generic 0603 package",
+      "alignment_rms_mm": 0.1654,
+      "rotation_xyz": [
+        180.0,
+        0.0,
+        -90.0
+      ],
+      "offset_mm": [
+        0.0,
+        -0.0,
+        -1.6
+      ],
+      "legacy_bottom_pads_in_front_footprint": true
+    },
+    {
+      "ref": "R6",
+      "value": "1.6K",
+      "status": "bound",
+      "model": "${KIPRJMOD}/3dmodels/R_0603_1608Metric.step",
+      "source": "KiCad generic 0603 package",
+      "alignment_rms_mm": 0.21539999999999992,
+      "rotation_xyz": [
+        180.0,
+        0.0,
+        -270.0
+      ],
+      "offset_mm": [
+        0.0,
+        -0.0,
+        -1.6
+      ],
+      "legacy_bottom_pads_in_front_footprint": true
+    },
+    {
+      "ref": "R16",
+      "value": "10K",
+      "status": "bound",
+      "model": "${KIPRJMOD}/3dmodels/R_0603_1608Metric.step",
+      "source": "KiCad generic 0603 package",
+      "alignment_rms_mm": 0.21539999999999992,
+      "rotation_xyz": [
+        180.0,
+        0.0,
+        -90.0
+      ],
+      "offset_mm": [
+        0.0,
+        -0.0,
+        -1.6
+      ],
+      "legacy_bottom_pads_in_front_footprint": true
+    },
+    {
+      "ref": "C103",
+      "value": "470pF",
+      "status": "bound",
+      "model": "${KIPRJMOD}/3dmodels/C_0603_1608Metric.step",
+      "source": "KiCad generic 0603 package",
+      "alignment_rms_mm": 0.1654,
+      "rotation_xyz": [
+        180.0,
+        0.0,
+        -0.0
+      ],
+      "offset_mm": [
+        0.0,
+        -0.0,
+        -1.6
+      ],
+      "legacy_bottom_pads_in_front_footprint": true
+    },
+    {
+      "ref": "Q2",
+      "value": "NDS355AN",
+      "status": "bound",
+      "model": "${KIPRJMOD}/3dmodels/SOT-23.step",
+      "source": "KiCad SOT23",
+      "alignment_rms_mm": 0.10341493552136903,
+      "rotation_xyz": [
+        180.0,
+        0.0,
+        -90.0
+      ],
+      "offset_mm": [
+        -0.9906,
+        1.006767,
+        -1.6
+      ],
+      "legacy_bottom_pads_in_front_footprint": true
+    },
+    {
+      "ref": "R14",
+      "value": "10K",
+      "status": "bound",
+      "model": "${KIPRJMOD}/3dmodels/R_0603_1608Metric.step",
+      "source": "KiCad generic 0603 package",
+      "alignment_rms_mm": 0.21539999999999992,
+      "rotation_xyz": [
+        180.0,
+        0.0,
+        -0.0
+      ],
+      "offset_mm": [
+        0.0,
+        -0.0,
+        -1.6
+      ],
+      "legacy_bottom_pads_in_front_footprint": true
+    },
+    {
+      "ref": "R7",
+      "value": "2.2K",
+      "status": "bound",
+      "model": "${KIPRJMOD}/3dmodels/R_0603_1608Metric.step",
+      "source": "KiCad generic 0603 package",
+      "alignment_rms_mm": 0.21539999999999992,
+      "rotation_xyz": [
+        180.0,
+        0.0,
+        -270.0
+      ],
+      "offset_mm": [
+        0.0,
+        -0.0,
+        -1.6
+      ],
+      "legacy_bottom_pads_in_front_footprint": true
+    },
+    {
+      "ref": "C5",
+      "value": "10pF",
+      "status": "bound",
+      "model": "${KIPRJMOD}/3dmodels/C_0603_1608Metric.step",
+      "source": "KiCad generic 0603 package",
+      "alignment_rms_mm": 0.1654,
+      "rotation_xyz": [
+        180.0,
+        0.0,
+        -0.0
+      ],
+      "offset_mm": [
+        0.0,
+        -0.0,
+        -1.6
+      ],
+      "legacy_bottom_pads_in_front_footprint": true
+    },
+    {
+      "ref": "C105",
+      "value": "470pF",
+      "status": "bound",
+      "model": "${KIPRJMOD}/3dmodels/C_0603_1608Metric.step",
+      "source": "KiCad generic 0603 package",
+      "alignment_rms_mm": 0.1654,
+      "rotation_xyz": [
+        180.0,
+        0.0,
+        -0.0
+      ],
+      "offset_mm": [
+        0.0,
+        -0.0,
+        -1.6
+      ],
+      "legacy_bottom_pads_in_front_footprint": true
+    },
+    {
+      "ref": "C102",
+      "value": "4.7uF",
+      "status": "bound",
+      "model": "${KIPRJMOD}/3dmodels/C_1206_3216Metric.step",
+      "source": "KiCad generic 1206 package",
+      "alignment_rms_mm": 0.2558,
+      "rotation_xyz": [
+        180.0,
+        0.0,
+        -0.0
+      ],
+      "offset_mm": [
+        0.0,
+        -0.0,
+        -1.6
+      ],
+      "legacy_bottom_pads_in_front_footprint": true
+    },
+    {
+      "ref": "C82",
+      "value": "22uF",
+      "status": "bound",
+      "model": "${KIPRJMOD}/3dmodels/CP_EIA-6032-28_Kemet-C.step",
+      "source": "KiCad EIA6032 package; height class representative",
+      "alignment_rms_mm": 0.08240000000000025,
+      "rotation_xyz": [
+        180.0,
+        0.0,
+        -90.0
+      ],
+      "offset_mm": [
+        0.0,
+        -0.0,
+        -1.6
+      ],
+      "legacy_bottom_pads_in_front_footprint": true
+    },
+    {
+      "ref": "R9",
+      "value": "2.2K",
+      "status": "bound",
+      "model": "${KIPRJMOD}/3dmodels/R_0603_1608Metric.step",
+      "source": "KiCad generic 0603 package",
+      "alignment_rms_mm": 0.21539999999999992,
+      "rotation_xyz": [
+        180.0,
+        0.0,
+        -180.0
+      ],
+      "offset_mm": [
+        0.0,
+        0.0,
+        -1.6
+      ],
+      "legacy_bottom_pads_in_front_footprint": true
+    },
+    {
+      "ref": "R3",
+      "value": "NONE",
+      "status": "bound",
+      "model": "${KIPRJMOD}/3dmodels/R_0603_1608Metric.step",
+      "source": "KiCad generic 0603 package",
+      "alignment_rms_mm": 0.21539999999999992,
+      "rotation_xyz": [
+        180.0,
+        0.0,
+        -90.0
+      ],
+      "offset_mm": [
+        0.0,
+        -0.0,
+        -1.6
+      ],
+      "legacy_bottom_pads_in_front_footprint": true
+    },
+    {
+      "ref": "U4",
+      "value": "AD8602ARZ",
+      "status": "bound",
+      "model": "${KIPRJMOD}/3dmodels/SOIC-8_3.9x4.9mm_P1.27mm.step",
+      "source": "KiCad SOIC-8 package",
+      "alignment_rms_mm": 0.12849999999999984,
+      "rotation_xyz": [
+        180.0,
+        0.0,
+        -180.0
+      ],
+      "offset_mm": [
+        0.0,
+        0.0,
+        -1.6
+      ],
+      "legacy_bottom_pads_in_front_footprint": true
+    },
+    {
+      "ref": "J25",
+      "value": "HEADER16",
+      "status": "bound",
+      "model": "${KIPRJMOD}/3dmodels/PinHeader_2x08_P2.54mm_Vertical.step",
+      "source": "KiCad 2.54 mm vertical pin header",
+      "alignment_rms_mm": 0.0,
+      "rotation_xyz": [
+        0.0,
+        0.0,
+        270.0
+      ],
+      "offset_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "legacy_bottom_pads_in_front_footprint": false
+    },
+    {
+      "ref": "C2",
+      "value": ".1uF",
+      "status": "bound",
+      "model": "${KIPRJMOD}/3dmodels/C_0603_1608Metric.step",
+      "source": "KiCad generic 0603 package",
+      "alignment_rms_mm": 0.1654,
+      "rotation_xyz": [
+        180.0,
+        0.0,
+        -90.0
+      ],
+      "offset_mm": [
+        0.0,
+        -0.0,
+        -1.6
+      ],
+      "legacy_bottom_pads_in_front_footprint": true
+    },
+    {
+      "ref": "C101",
+      "value": "470pF",
+      "status": "bound",
+      "model": "${KIPRJMOD}/3dmodels/C_0603_1608Metric.step",
+      "source": "KiCad generic 0603 package",
+      "alignment_rms_mm": 0.1654,
+      "rotation_xyz": [
+        180.0,
+        0.0,
+        -0.0
+      ],
+      "offset_mm": [
+        0.0,
+        -0.0,
+        -1.6
+      ],
+      "legacy_bottom_pads_in_front_footprint": true
+    },
+    {
+      "ref": "C4",
+      "value": ".1uF",
+      "status": "bound",
+      "model": "${KIPRJMOD}/3dmodels/C_0603_1608Metric.step",
+      "source": "KiCad generic 0603 package",
+      "alignment_rms_mm": 0.1654,
+      "rotation_xyz": [
+        180.0,
+        0.0,
+        -0.0
+      ],
+      "offset_mm": [
+        0.0,
+        -0.0,
+        -1.6
+      ],
+      "legacy_bottom_pads_in_front_footprint": true
+    },
+    {
+      "ref": "U3",
+      "value": "LM2940IMP-5.0",
+      "status": "bound",
+      "model": "${KIPRJMOD}/3dmodels/SOT-223.step",
+      "source": "KiCad SOT223 package",
+      "alignment_rms_mm": 0.0448023157883605,
+      "rotation_xyz": [
+        180.0,
+        0.0,
+        -90.0
+      ],
+      "offset_mm": [
+        -2.29235,
+        3.1244,
+        -1.6
+      ],
+      "legacy_bottom_pads_in_front_footprint": true
+    },
+    {
+      "ref": "U1",
+      "value": "GT24C02A-2GLI-TR",
+      "status": "bound",
+      "model": "${KIPRJMOD}/3dmodels/SOIC-8_3.9x4.9mm_P1.27mm.step",
+      "source": "KiCad SOIC-8 package",
+      "alignment_rms_mm": 0.11579999999999957,
+      "rotation_xyz": [
+        180.0,
+        0.0,
+        -180.0
+      ],
+      "offset_mm": [
+        -2.4638,
+        -1.905,
+        -1.6
+      ],
+      "legacy_bottom_pads_in_front_footprint": true
+    },
+    {
+      "ref": "R17",
+      "value": "0",
+      "status": "bound",
+      "model": "${KIPRJMOD}/3dmodels/R_0603_1608Metric.step",
+      "source": "KiCad generic 0603 package",
+      "alignment_rms_mm": 0.21539999999999992,
+      "rotation_xyz": [
+        180.0,
+        0.0,
+        -270.0
+      ],
+      "offset_mm": [
+        0.0,
+        -0.0,
+        -1.6
+      ],
+      "legacy_bottom_pads_in_front_footprint": true
+    },
+    {
+      "ref": "C108",
+      "value": "4.7uF",
+      "status": "bound",
+      "model": "${KIPRJMOD}/3dmodels/C_1206_3216Metric.step",
+      "source": "KiCad generic 1206 package",
+      "alignment_rms_mm": 0.2558,
+      "rotation_xyz": [
+        180.0,
+        0.0,
+        -0.0
+      ],
+      "offset_mm": [
+        0.0,
+        -0.0,
+        -1.6
+      ],
+      "legacy_bottom_pads_in_front_footprint": true
+    },
+    {
+      "ref": "H2",
+      "status": "bare mounting hole"
+    },
+    {
+      "ref": "R8",
+      "value": "10K",
+      "status": "bound",
+      "model": "${KIPRJMOD}/3dmodels/R_0603_1608Metric.step",
+      "source": "KiCad generic 0603 package",
+      "alignment_rms_mm": 0.21539999999999992,
+      "rotation_xyz": [
+        180.0,
+        0.0,
+        -0.0
+      ],
+      "offset_mm": [
+        0.0,
+        -0.0,
+        -1.6
+      ],
+      "legacy_bottom_pads_in_front_footprint": true
+    },
+    {
+      "ref": "J24",
+      "value": "HEADER16",
+      "status": "bound",
+      "model": "${KIPRJMOD}/3dmodels/PinHeader_2x08_P2.54mm_Vertical.step",
+      "source": "KiCad 2.54 mm vertical pin header",
+      "alignment_rms_mm": 0.0,
+      "rotation_xyz": [
+        0.0,
+        0.0,
+        270.0
+      ],
+      "offset_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "legacy_bottom_pads_in_front_footprint": false
+    },
+    {
+      "ref": "C104",
+      "value": "4.7uF",
+      "status": "bound",
+      "model": "${KIPRJMOD}/3dmodels/C_1206_3216Metric.step",
+      "source": "KiCad generic 1206 package",
+      "alignment_rms_mm": 0.2558,
+      "rotation_xyz": [
+        180.0,
+        0.0,
+        -0.0
+      ],
+      "offset_mm": [
+        0.0,
+        -0.0,
+        -1.6
+      ],
+      "legacy_bottom_pads_in_front_footprint": true
+    },
+    {
+      "ref": "C107",
+      "value": "470pF",
+      "status": "bound",
+      "model": "${KIPRJMOD}/3dmodels/C_0603_1608Metric.step",
+      "source": "KiCad generic 0603 package",
+      "alignment_rms_mm": 0.1654,
+      "rotation_xyz": [
+        180.0,
+        0.0,
+        -0.0
+      ],
+      "offset_mm": [
+        0.0,
+        -0.0,
+        -1.6
+      ],
+      "legacy_bottom_pads_in_front_footprint": true
+    },
+    {
+      "ref": "C3",
+      "value": ".1uF",
+      "status": "bound",
+      "model": "${KIPRJMOD}/3dmodels/C_0603_1608Metric.step",
+      "source": "KiCad generic 0603 package",
+      "alignment_rms_mm": 0.1654,
+      "rotation_xyz": [
+        180.0,
+        0.0,
+        -180.0
+      ],
+      "offset_mm": [
+        0.0,
+        0.0,
+        -1.6
+      ],
+      "legacy_bottom_pads_in_front_footprint": true
+    },
+    {
+      "ref": "J2",
+      "value": "PMC64",
+      "status": "bound",
+      "model": "${KIPRJMOD}/3dmodels/PMC64_APPROX_DISPLAY.wrl",
+      "source": "APPROXIMATE PMC socket display envelope; see model JSON",
+      "alignment_rms_mm": 0.0,
+      "rotation_xyz": [
+        180.0,
+        0.0,
+        -0.0
+      ],
+      "offset_mm": [
+        0.0,
+        -0.0,
+        -1.6
+      ],
+      "legacy_bottom_pads_in_front_footprint": true
+    },
+    {
+      "ref": "C106",
+      "value": "4.7uF",
+      "status": "bound",
+      "model": "${KIPRJMOD}/3dmodels/C_1206_3216Metric.step",
+      "source": "KiCad generic 1206 package",
+      "alignment_rms_mm": 0.2558,
+      "rotation_xyz": [
+        180.0,
+        0.0,
+        -0.0
+      ],
+      "offset_mm": [
+        0.0,
+        -0.0,
+        -1.6
+      ],
+      "legacy_bottom_pads_in_front_footprint": true
+    },
+    {
+      "ref": "R11",
+      "value": "NONE",
+      "status": "bound",
+      "model": "${KIPRJMOD}/3dmodels/R_0603_1608Metric.step",
+      "source": "KiCad generic 0603 package",
+      "alignment_rms_mm": 0.21539999999999992,
+      "rotation_xyz": [
+        180.0,
+        0.0,
+        -90.0
+      ],
+      "offset_mm": [
+        0.0,
+        -0.0,
+        -1.6
+      ],
+      "legacy_bottom_pads_in_front_footprint": true
+    },
+    {
+      "ref": "R4",
+      "value": "2.2K",
+      "status": "bound",
+      "model": "${KIPRJMOD}/3dmodels/R_0603_1608Metric.step",
+      "source": "KiCad generic 0603 package",
+      "alignment_rms_mm": 0.21539999999999992,
+      "rotation_xyz": [
+        180.0,
+        0.0,
+        -90.0
+      ],
+      "offset_mm": [
+        0.0,
+        -0.0,
+        -1.6
+      ],
+      "legacy_bottom_pads_in_front_footprint": true
+    },
+    {
+      "ref": "C6",
+      "value": "10pF",
+      "status": "bound",
+      "model": "${KIPRJMOD}/3dmodels/C_0603_1608Metric.step",
+      "source": "KiCad generic 0603 package",
+      "alignment_rms_mm": 0.1654,
+      "rotation_xyz": [
+        180.0,
+        0.0,
+        -180.0
+      ],
+      "offset_mm": [
+        0.0,
+        0.0,
+        -1.6
+      ],
+      "legacy_bottom_pads_in_front_footprint": true
+    },
+    {
+      "ref": "R12",
+      "value": "10K",
+      "status": "bound",
+      "model": "${KIPRJMOD}/3dmodels/R_0603_1608Metric.step",
+      "source": "KiCad generic 0603 package",
+      "alignment_rms_mm": 0.21539999999999992,
+      "rotation_xyz": [
+        180.0,
+        0.0,
+        -90.0
+      ],
+      "offset_mm": [
+        0.0,
+        -0.0,
+        -1.6
+      ],
+      "legacy_bottom_pads_in_front_footprint": true
+    },
+    {
+      "ref": "H1",
+      "status": "bare mounting hole"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "C_0402_1005Metric.step": {
+    "source": "existing KiCad package model",
+    "origin": "Capacitor_SMD.3dshapes\\C_0402_1005Metric.step",
+    "sha256": "03e44c4b2b727b8d4b6b1fd598cbd12dd5e614f1dfeefa96a92a07e3a3b312a2"
+  },
+  "R_0402_1005Metric.step": {
+    "source": "existing KiCad package model",
+    "origin": "Resistor_SMD.3dshapes\\R_0402_1005Metric.step",
+    "sha256": "91507e5af4251cb4ef38e04889c9b98da29904432bd83786bba13ae9b605eacb"
+  },
+  "L_0402_1005Metric.step": {
+    "source": "existing KiCad package model",
+    "origin": "Inductor_SMD.3dshapes\\L_0402_1005Metric.step",
+    "sha256": "8bf2ae2bbd9d8b716db21d8d7fb903fac5ba2696150c3ec2e35bcea17b208ff2"
+  },
+  "C_0603_1608Metric.step": {
+    "source": "existing KiCad package model",
+    "origin": "Capacitor_SMD.3dshapes\\C_0603_1608Metric.step",
+    "sha256": "4857b3dc717675bf1fb22edda622ac3b3ae03cf44d81eefaf3fa3ba3a86d84c1"
+  },
+  "SMA_Amphenol_132134-11_Vertical.step": {
+    "source": "KiCad: matching 5.08 mm square PTH SMA geometry",
+    "origin": "Connector_Coaxial.3dshapes\\SMA_Amphenol_132134-11_Vertical.step",
+    "sha256": "5d9ce5328a956133001e2e8de8a7ba9fcd91d977a5810c3af78605c0a81c0d9e"
+  },
+  "QFN-40-1EP_6x6mm_P0.5mm.step": {
+    "source": "KiCad QFN40 6x6 pitch 0.5 visual package; exposed pad differs",
+    "origin": "Package_DFN_QFN.3dshapes\\QFN-40-1EP_6x6mm_P0.5mm.step",
+    "sha256": "0a108bb95f013a12851ccf7e0e1f194c5c966490a1f6fdfdb7500d511d396986"
+  },
+  "CP_EIA-3528-21_Kemet-B.step": {
+    "source": "existing KiCad package model",
+    "origin": "Capacitor_Tantalum_SMD.3dshapes\\CP_EIA-3528-21_Kemet-B.step",
+    "sha256": "dfe18bc321e2772dd597027a289d8e13b7b6f0320cfdd8f41c4492bdfe9f7f0c"
+  },
+  "PinHeader_2x04_P1.27mm_Vertical.step": {
+    "source": "existing KiCad package model",
+    "origin": "Connector_PinHeader_1.27mm.3dshapes\\PinHeader_2x04_P1.27mm_Vertical.step",
+    "sha256": "905fa95c494d5936847e34aa0e5d695675318f5a5b0454b437371ead45dbc9c9"
+  },
+  "PinHeader_2x08_P1.27mm_Vertical.step": {
+    "source": "existing KiCad package model",
+    "origin": "Connector_PinHeader_1.27mm.3dshapes\\PinHeader_2x08_P1.27mm_Vertical.step",
+    "sha256": "e52a2c29dc20f5c39e875ad4b5b2406689ffb725c70562f5c2992ff2fff63d7a"
+  },
+  "SOT-23-5.step": {
+    "source": "existing KiCad package model",
+    "origin": "Package_TO_SOT_SMD.3dshapes\\SOT-23-5.step",
+    "sha256": "720a6eab0024069bbee68e7cb4c3ff1149468a34611225cdc852662c5d0ec2b7"
+  },
+  "QFN-32-1EP_5x5mm_P0.5mm_EP3.7x3.7mm.step": {
+    "source": "KiCad matching body/pitch package; not vendor-specific appearance",
+    "origin": "Package_DFN_QFN.3dshapes\\QFN-32-1EP_5x5mm_P0.5mm_EP3.7x3.7mm.step",
+    "sha256": "7e77a52b3e261a45529e0df739376ea7cd79204fb1afad81332a50f4f1607000"
+  },
+  "SOT-223.step": {
+    "source": "existing KiCad package model",
+    "origin": "Package_TO_SOT_SMD.3dshapes\\SOT-223.step",
+    "sha256": "77ad6dbacc493cb619c728f26d2ddcf461eb0feb6b977b47d01d51e67016f654"
+  },
+  "SOIC-8_3.9x4.9mm_P1.27mm.step": {
+    "source": "existing KiCad package model",
+    "origin": "Package_SO.3dshapes\\SOIC-8_3.9x4.9mm_P1.27mm.step",
+    "sha256": "07f46cff378d30e6c27dfd5a03092c795323f86d91c71fc7e743f4f418dc553a"
+  },
+  "PinHeader_2x07_P2.00mm_Vertical.step": {
+    "source": "existing KiCad package model",
+    "origin": "Connector_PinHeader_2.00mm.3dshapes\\PinHeader_2x07_P2.00mm_Vertical.step",
+    "sha256": "7216db5fe036580c6c53e986d99e904a6f08357e8c5fae75bb45d9c6e2ce1f45"
+  },
+  "PMC64_APPROX_DISPLAY.wrl": {
+    "source": "APPROXIMATE PMC socket display envelope; see model JSON",
+    "origin": "tmp\\3d-source\\envelopes\\PMC64_APPROX_DISPLAY.wrl",
+    "sha256": "55779aa31d3ca47f1fecdeda234cf61879c3950c1571ce08ddf7b70b84283149"
+  }
+}

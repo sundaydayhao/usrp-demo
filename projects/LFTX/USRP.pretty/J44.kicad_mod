@@ -686,4 +686,15 @@
 		(uuid "cd1a4b5e-e041-422d-95b0-54ed4d28b7be")
 	)
 	(embedded_fonts no)
+	(model "${KIPRJMOD}/3dmodels/PMC64_APPROX_DISPLAY.wrl"
+		(offset
+			(xyz 0.000000 0.000000 0.0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0.0)
+		)
+	)
 )

@@ -244,6 +244,17 @@
 			(uuid "f6d58a98-dc5c-46ad-9f8d-c06db1ab84ef")
 		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/3dmodels/R_0603_1608Metric.step"
+			(offset
+				(xyz 0.000000 0.000000 0.0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 270.0)
+			)
+		)
 	)
 	(footprint ""
 		(layer "F.Cu")
@@ -418,6 +429,17 @@
 			(uuid "49917a2c-1456-4978-b6f2-b7d517475e4e")
 		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/3dmodels/R_0603_1608Metric.step"
+			(offset
+				(xyz 0.000000 0.000000 0.0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 270.0)
+			)
+		)
 	)
 	(footprint "USRP:J38"
 		(layer "F.Cu")
@@ -578,6 +600,17 @@
 			(uuid "d1bdbf7e-dd13-4264-877b-c8fcff24bde2")
 		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/3dmodels/PinHeader_1x04_P2.54mm_Vertical.step"
+			(offset
+				(xyz 0.000000 -0.000000 0.0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 180.0)
+			)
+		)
 	)
 	(footprint "USRP:R32"
 		(layer "F.Cu")
@@ -693,6 +726,17 @@
 			(uuid "319b9ba5-8eeb-4a5a-9b36-f75001db3525")
 		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/3dmodels/R_0603_1608Metric.step"
+			(offset
+				(xyz 0.000000 0.000000 0.0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 270.0)
+			)
+		)
 	)
 	(footprint "USRP:J50"
 		(layer "F.Cu")
@@ -985,6 +1029,17 @@
 			(uuid "86c83332-8686-49ea-bc1f-55fbe2696fc3")
 		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/3dmodels/PinHeader_2x08_P2.54mm_Vertical.step"
+			(offset
+				(xyz 0.000000 -0.000000 0.0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 180.0)
+			)
+		)
 	)
 	(footprint "USRP:J48"
 		(layer "F.Cu")
@@ -1135,6 +1190,17 @@
 			(uuid "f5a6a99b-a71e-47f9-94c0-31f77bc5c9bd")
 		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/3dmodels/SMA_Amphenol_132134-11_Vertical.step"
+			(offset
+				(xyz 0.000000 0.000000 0.0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0.0)
+			)
+		)
 	)
 	(footprint "USRP:C41"
 		(layer "F.Cu")
@@ -1250,6 +1316,17 @@
 			(uuid "5376174c-1f0e-46da-a277-b729ff3c99c7")
 		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/3dmodels/C_0603_1608Metric.step"
+			(offset
+				(xyz 0.000000 0.000000 0.0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 270.0)
+			)
+		)
 	)
 	(footprint "USRP:J49"
 		(layer "F.Cu")
@@ -1400,6 +1477,17 @@
 			(uuid "e176dbc7-1111-4708-9294-0de8841972b0")
 		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/3dmodels/SMA_Amphenol_132134-11_Vertical.step"
+			(offset
+				(xyz 0.000000 0.000000 0.0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0.0)
+			)
+		)
 	)
 	(footprint "USRP:J51"
 		(layer "F.Cu")
@@ -1692,6 +1780,17 @@
 			(uuid "14f1238b-3af0-4ce3-9386-1f74a36a726b")
 		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/3dmodels/PinHeader_2x08_P2.54mm_Vertical.step"
+			(offset
+				(xyz 0.000000 -0.000000 0.0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 180.0)
+			)
+		)
 	)
 	(footprint ""
 		(layer "F.Cu")
@@ -2043,6 +2142,17 @@
 			(uuid "ead34b69-daaf-4cc5-b9be-b20a9f837ac0")
 		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/3dmodels/PinHeader_2x08_P2.54mm_Vertical.step"
+			(offset
+				(xyz 0.000000 0.000000 0.0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 270.0)
+			)
+		)
 	)
 	(footprint ""
 		(layer "F.Cu")
@@ -2217,6 +2327,17 @@
 			(uuid "0bd258a9-f576-4de2-9397-5e5480ab7ef2")
 		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/3dmodels/C_0603_1608Metric.step"
+			(offset
+				(xyz 0.000000 0.000000 0.0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 270.0)
+			)
+		)
 	)
 	(footprint "USRP:R37"
 		(layer "F.Cu")
@@ -2332,6 +2453,17 @@
 			(uuid "a6e92628-a903-4a8a-9390-59eeb127ef9e")
 		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/3dmodels/R_0603_1608Metric.step"
+			(offset
+				(xyz 0.000000 0.000000 0.0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 270.0)
+			)
+		)
 	)
 	(footprint "USRP:J45"
 		(layer "F.Cu")
@@ -2665,6 +2797,17 @@
 			(uuid "1d146d9a-15c6-4add-acbb-d804951a5fc4")
 		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/3dmodels/PinHeader_2x10_P2.54mm_Vertical.step"
+			(offset
+				(xyz 0.000000 0.000000 0.0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 270.0)
+			)
+		)
 	)
 	(footprint "USRP:C40"
 		(layer "F.Cu")
@@ -2780,6 +2923,17 @@
 			(uuid "4ebf06b5-a79a-47df-9989-e6636e022166")
 		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/3dmodels/C_0603_1608Metric.step"
+			(offset
+				(xyz 0.000000 0.000000 0.0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 270.0)
+			)
+		)
 	)
 	(footprint "USRP:T50"
 		(layer "F.Cu")
@@ -2956,6 +3110,17 @@
 			(uuid "0ac982bd-6448-4cad-9bd6-29189369c872")
 		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/3dmodels/EasyEDA_XFMR-SMD_6P-L7.9-W5.6-P2.54-LS7.0-BL.wrl"
+			(offset
+				(xyz 0.000000 0.000000 0.0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0.0)
+			)
+		)
 	)
 	(footprint "USRP:J47"
 		(layer "F.Cu")
@@ -3182,6 +3347,17 @@
 			(uuid "a7f97cdf-cafb-4c5b-aa06-689d3e4ded08")
 		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/3dmodels/PinHeader_2x05_P2.54mm_Vertical.step"
+			(offset
+				(xyz 0.000000 0.000000 0.0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 270.0)
+			)
+		)
 	)
 	(footprint "USRP:C42"
 		(layer "F.Cu")
@@ -3297,6 +3473,17 @@
 			(uuid "32cbef93-eb82-4a9f-9291-d45b6a3d6870")
 		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/3dmodels/C_0603_1608Metric.step"
+			(offset
+				(xyz 0.000000 0.000000 0.0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 270.0)
+			)
+		)
 	)
 	(footprint ""
 		(layer "F.Cu")
@@ -3532,6 +3719,17 @@
 			(uuid "67f923bd-d0f9-4248-b57d-0c42f90e0664")
 		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/3dmodels/EasyEDA_XFMR-SMD_6P-L7.9-W5.6-P2.54-LS7.0-BL.wrl"
+			(offset
+				(xyz 0.000000 0.000000 0.0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0.0)
+			)
+		)
 	)
 	(footprint "USRP:U52"
 		(layer "F.Cu")
@@ -3728,6 +3926,17 @@
 			(uuid "e0aeb7fc-fdce-462b-be47-57162993d078")
 		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/3dmodels/SOIC-8_3.9x4.9mm_P1.27mm.step"
+			(offset
+				(xyz 2.463800 -1.905000 0.0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0.0)
+			)
+		)
 	)
 	(footprint "USRP:J44"
 		(layer "B.Cu")
@@ -4482,6 +4691,17 @@
 			(uuid "f459b212-35c4-4015-a2f1-453fa7dada30")
 		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/3dmodels/PMC64_APPROX_DISPLAY.wrl"
+			(offset
+				(xyz 0.000000 0.000000 0.0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0.0)
+			)
+		)
 	)
 	(gr_line
 		(start 25.654 13.716)

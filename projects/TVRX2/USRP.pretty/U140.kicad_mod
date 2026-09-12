@@ -696,15 +696,15 @@
 		(uuid "80a1ef05-25b0-4b49-b2d1-3ac8766ffd66")
 	)
 	(embedded_fonts no)
-	(model "${KICAD10_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/HVQFN-40-1EP_6x6mm_P0.5mm_EP4.1x4.1mm.step"
+	(model "${KIPRJMOD}/3dmodels/QFN-40-1EP_6x6mm_P0.5mm.step"
 		(offset
-			(xyz 0 0 0)
+			(xyz 0.000000 0.000000 0.0)
 		)
 		(scale
 			(xyz 1 1 1)
 		)
 		(rotate
-			(xyz 0 0 0)
+			(xyz 0 0 0.0)
 		)
 	)
 )

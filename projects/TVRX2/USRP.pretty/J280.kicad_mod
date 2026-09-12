@@ -329,15 +329,15 @@
 		(uuid "19dd9696-df71-447f-8856-e3fcaa5807ba")
 	)
 	(embedded_fonts no)
-	(model "${KICAD10_3DMODEL_DIR}/Connector_PinHeader_2.00mm.3dshapes/PinHeader_2x07_P2.00mm_Vertical.step"
+	(model "${KIPRJMOD}/3dmodels/PinHeader_2x07_P2.00mm_Vertical.step"
 		(offset
-			(xyz 0 0 0)
+			(xyz 0.000000 0.000000 0.0)
 		)
 		(scale
 			(xyz 1 1 1)
 		)
 		(rotate
-			(xyz 0 0 0)
+			(xyz 0 0 0.0)
 		)
 	)
 )

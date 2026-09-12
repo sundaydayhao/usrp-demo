@@ -640,15 +640,15 @@
 		(uuid "04e11eb0-0126-47fa-9572-ba67f391368f")
 	)
 	(embedded_fonts no)
-	(model "${KICAD10_3DMODEL_DIR}/Package_CSP.3dshapes/LFCSP-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm.step"
+	(model "${KIPRJMOD}/3dmodels/QFN-32-1EP_5x5mm_P0.5mm_EP3.3x3.3mm.step"
 		(offset
-			(xyz 0 0 0)
+			(xyz 0.000000 0.000000 0.0)
 		)
 		(scale
 			(xyz 1 1 1)
 		)
 		(rotate
-			(xyz 0 0 0)
+			(xyz 0 0 0.0)
 		)
 	)
 )

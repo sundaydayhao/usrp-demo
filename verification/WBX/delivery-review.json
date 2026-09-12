@@ -63,5 +63,7 @@
   "stack_total_mm": 1.5715999999999999,
   "RF_reference_distance_mm": 0.2104,
   "stack_status": "Custom target, fabricator confirmation required",
-  "pcb_sha256": "1251ee08b712aecd72d70b9fdbaa9f16573e088dcbe22fd88c083588683471c2"
+  "pcb_sha256": "f7c76b5acc29f60e9967b1f1287636b524206e2323c13c361418026c2d7486cf",
+  "pcb_sha256_before_3d_models": "1251ee08b712aecd72d70b9fdbaa9f16573e088dcbe22fd88c083588683471c2",
+  "3d_only_update_evidence": "3d-review.json"
 }

@@ -336,15 +336,15 @@
 		(uuid "5111e1ef-f6f8-49c2-abac-91dd979f8c1e")
 	)
 	(embedded_fonts no)
-	(model "${KICAD10_3DMODEL_DIR}/Package_SO.3dshapes/SOIC-8_3.9x4.9mm_P1.27mm.step"
+	(model "${KIPRJMOD}/3dmodels/SOIC-8_3.9x4.9mm_P1.27mm.step"
 		(offset
-			(xyz 0 0 0)
+			(xyz 0.000000 0.000000 0.0)
 		)
 		(scale
 			(xyz 1 1 1)
 		)
 		(rotate
-			(xyz 0 0 0)
+			(xyz 0 0 0.0)
 		)
 	)
 )

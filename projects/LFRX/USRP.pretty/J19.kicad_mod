@@ -142,4 +142,15 @@
 		(uuid "858dc3b8-e0f8-4e55-bcee-4296bc0134dc")
 	)
 	(embedded_fonts no)
+	(model "${KIPRJMOD}/3dmodels/SMA_Amphenol_132134-11_Vertical.step"
+		(offset
+			(xyz 0.000000 0.000000 0.0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0.0)
+		)
+	)
 )

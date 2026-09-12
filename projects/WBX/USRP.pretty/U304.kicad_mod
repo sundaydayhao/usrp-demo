@@ -332,4 +332,15 @@
 		(uuid "bca6b875-14b8-4b13-b230-e96e917bf35d")
 	)
 	(embedded_fonts no)
+	(model "${KIPRJMOD}/3dmodels/HVQFN-24-1EP_4x4mm_P0.5mm_EP2.1x2.1mm.step"
+		(offset
+			(xyz 0.000000 0.000000 0.0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0.0)
+		)
+	)
 )

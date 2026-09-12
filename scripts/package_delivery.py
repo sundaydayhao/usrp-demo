@@ -10,10 +10,10 @@ for name in names:
  for key in ['PCB_pin_net_mismatches','missing_PCB_components','empty_schematic_paths','duplicate_schematic_paths','ordinary_tracks_on_RF_reference','copper_outside_board_bounds']:assert not s[key],(name,key)
  assert hashlib.sha256((d/(name+'.kicad_pcb')).read_bytes()).hexdigest()==s['pcb_sha256'],name+' stale board checks'
  files += [p for p in d.rglob('*') if p.is_file() and p.suffix not in ['.kicad_prl','.svg','.png'] and not p.name.startswith('~')]
- wanted=['final-summary.json','final-rf-audit.json','erc.json','drc.json','validation-summary.json','independent-reference-audit.json','assembly-labels.json','rf-net-classes.json','delivery-review.json','source-netlist.json','reconstructed-netlist.json','pcb-import-audit.json','footprint-audit.json','kicad-net-name-map.json','rf-audit.json','dangling-cleanup.json']
+ wanted=['final-summary.json','final-rf-audit.json','erc.json','drc.json','validation-summary.json','independent-reference-audit.json','assembly-labels.json','rf-net-classes.json','delivery-review.json','source-netlist.json','reconstructed-netlist.json','pcb-import-audit.json','footprint-audit.json','kicad-net-name-map.json','rf-audit.json','dangling-cleanup.json','3d-models.json','3d-review.json']
  files += [v/f for f in wanted if (v/f).exists()]
  files += list(v.glob('*geometry.json'))
-files += [ROOT/f for f in ['README.md','DESIGN_NOTES.md','REVIEW.md']]
+files += [ROOT/f for f in ['README.md','DESIGN_NOTES.md','REVIEW.md','3D_MODELS.md','verification/3d-review-summary.json','verification/3d-import-alignment.json','deliverables/3D-previews.pdf'] if (ROOT/f).exists()]
 files += list((ROOT/'usrp1-daughterboard').glob('*.pdf'))
 files += [p for p in (ROOT/'scripts').glob('*') if p.suffix in ['.py','.md','.json'] and p.name!='inspect_wbx_pending.py']
 manifest={'created_utc':datetime.datetime.now(datetime.timezone.utc).isoformat(),'KiCad':'10.0.5','projects':names,'purpose':'Editable CAD prototype review; hardware and RF validation pending','files':{str(p.relative_to(ROOT)).replace('\\','/'):hashlib.sha256(p.read_bytes()).hexdigest() for p in sorted(set(files))}}

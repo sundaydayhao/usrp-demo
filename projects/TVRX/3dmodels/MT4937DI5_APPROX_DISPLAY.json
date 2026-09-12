@@ -1,0 +1,19 @@
+{
+  "kind": "APPROXIMATE display envelope, NOT vendor CAD",
+  "xy_source": "existing MT4937DI5 F.Fab outline; pin and ground-tab centers from project",
+  "assumed_height_mm": 15.0,
+  "height_basis": "illustration assumption; no verified mechanical drawing available",
+  "body_width_mm": 82.9564,
+  "body_depth_mm": 42.799,
+  "not_modelled": [
+    "external F connector and its mounting/cable clearance",
+    "internal circuit",
+    "exact shield profile"
+  ],
+  "not_verified": [
+    "module height",
+    "signal pin length",
+    "ground tab dimensions"
+  ],
+  "historical_datasheet_reference": "4937-DI5-3x8899-2.pdf, Microtune rev 02 (Sep 2001)"
+}

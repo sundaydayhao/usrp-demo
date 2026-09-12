@@ -176,4 +176,15 @@
 		(uuid "bcc1ed6d-9a88-4598-9bee-9fbcb297698e")
 	)
 	(embedded_fonts no)
+	(model "${KIPRJMOD}/3dmodels/TSOT-23-6.step"
+		(offset
+			(xyz 0.000000 0.000000 0.0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0.0)
+		)
+	)
 )

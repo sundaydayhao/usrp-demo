@@ -112,15 +112,15 @@
 		(uuid "e00b5c56-2ad7-4cb5-99ef-3c0fbac2643e")
 	)
 	(embedded_fonts no)
-	(model "${KICAD10_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_0402_1005Metric.step"
+	(model "${KIPRJMOD}/3dmodels/L_0402_1005Metric.step"
 		(offset
-			(xyz 0 0 0)
+			(xyz 0.000000 0.000000 0.0)
 		)
 		(scale
 			(xyz 1 1 1)
 		)
 		(rotate
-			(xyz 0 0 0)
+			(xyz 0 0 0.0)
 		)
 	)
 )

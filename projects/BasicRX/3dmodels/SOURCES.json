@@ -1,0 +1,52 @@
+{
+  "R_0603_1608Metric.step": {
+    "source": "KiCad generic 0603 package",
+    "origin": "Resistor_SMD.3dshapes\\R_0603_1608Metric.step",
+    "sha256": "1875571c326d0d9e96f36b4efeb8094068ef7619f0a449c781caf0b49c2e5861"
+  },
+  "EasyEDA_XFMR-SMD_6P-L7.9-W5.6-P2.54-LS7.0-BL.wrl": {
+    "source": "EasyEDA C6835853",
+    "origin": "tmp\\3d-source\\easyeda.3dshapes\\XFMR-SMD_6P-L7.9-W5.6-P2.54-LS7.0-BL.wrl",
+    "sha256": "e9df4558c6725ce8e6b958b163a6d12de831ebf3e335a2882a1b9661ff0a0645"
+  },
+  "SOIC-8_3.9x4.9mm_P1.27mm.step": {
+    "source": "KiCad SOIC-8 package",
+    "origin": "Package_SO.3dshapes\\SOIC-8_3.9x4.9mm_P1.27mm.step",
+    "sha256": "07f46cff378d30e6c27dfd5a03092c795323f86d91c71fc7e743f4f418dc553a"
+  },
+  "SMA_Amphenol_132134-11_Vertical.step": {
+    "source": "KiCad: matching 5.08 mm square PTH SMA geometry",
+    "origin": "Connector_Coaxial.3dshapes\\SMA_Amphenol_132134-11_Vertical.step",
+    "sha256": "5d9ce5328a956133001e2e8de8a7ba9fcd91d977a5810c3af78605c0a81c0d9e"
+  },
+  "PinHeader_2x10_P2.54mm_Vertical.step": {
+    "source": "KiCad 2.54 mm vertical pin header",
+    "origin": "Connector_PinHeader_2.54mm.3dshapes\\PinHeader_2x10_P2.54mm_Vertical.step",
+    "sha256": "0e49b47f8c69859efe043c1071a608aeffed88093115ec940561ac35eee79be1"
+  },
+  "PinHeader_2x08_P2.54mm_Vertical.step": {
+    "source": "KiCad 2.54 mm vertical pin header",
+    "origin": "Connector_PinHeader_2.54mm.3dshapes\\PinHeader_2x08_P2.54mm_Vertical.step",
+    "sha256": "5a7d2f8d82d727fad3483901c856e208b440c5b5c552478a16c467d57a004191"
+  },
+  "C_0603_1608Metric.step": {
+    "source": "KiCad generic 0603 package",
+    "origin": "Capacitor_SMD.3dshapes\\C_0603_1608Metric.step",
+    "sha256": "4857b3dc717675bf1fb22edda622ac3b3ae03cf44d81eefaf3fa3ba3a86d84c1"
+  },
+  "PinHeader_1x04_P2.54mm_Vertical.step": {
+    "source": "KiCad 2.54 mm vertical pin header",
+    "origin": "Connector_PinHeader_2.54mm.3dshapes\\PinHeader_1x04_P2.54mm_Vertical.step",
+    "sha256": "a74079b8d06bda78847623b39ee1855ffd1d9a8c1e896b349e4f1dc2056d44d9"
+  },
+  "PinHeader_2x05_P2.54mm_Vertical.step": {
+    "source": "KiCad 2.54 mm vertical pin header",
+    "origin": "Connector_PinHeader_2.54mm.3dshapes\\PinHeader_2x05_P2.54mm_Vertical.step",
+    "sha256": "cd99322b0ccc253157acbe9c5c672ce9b37dbcd4d59fb001240a93110052cdce"
+  },
+  "PMC64_APPROX_DISPLAY.wrl": {
+    "source": "APPROXIMATE PMC socket display envelope; see model JSON",
+    "origin": "tmp\\3d-source\\envelopes\\PMC64_APPROX_DISPLAY.wrl",
+    "sha256": "55779aa31d3ca47f1fecdeda234cf61879c3950c1571ce08ddf7b70b84283149"
+  }
+}

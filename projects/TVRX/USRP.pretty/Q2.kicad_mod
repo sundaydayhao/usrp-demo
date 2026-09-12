@@ -119,4 +119,15 @@
 		(uuid "28cd251b-daa8-4a7e-953a-8232bea3f1b7")
 	)
 	(embedded_fonts no)
+	(model "${KIPRJMOD}/3dmodels/SOT-23.step"
+		(offset
+			(xyz -0.990600 1.006767 -1.6)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 180 0 -90.0)
+		)
+	)
 )

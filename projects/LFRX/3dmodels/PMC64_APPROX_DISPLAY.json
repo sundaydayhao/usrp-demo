@@ -1,0 +1,15 @@
+{
+  "kind": "APPROXIMATE display envelope, NOT vendor CAD",
+  "xy_source": "existing PMC-REVERSE F.Fab outline; pin and peg centers from project",
+  "housing_height_mm": 5.3,
+  "height_basis": "representative Molex 71439-0 family; actual daughterboard socket suffix not confirmed",
+  "body_width_mm": 36.83,
+  "body_depth_mm": 8.382,
+  "not_verified": [
+    "housing wall profile",
+    "contact spring geometry",
+    "mating interference",
+    "chosen suffix/stack height"
+  ],
+  "official_family_url": "https://www.molex.com/en-us/products/part-detail/714390164"
+}

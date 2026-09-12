@@ -12,5 +12,6 @@
   "duplicate_schematic_paths": [],
   "ordinary_tracks_on_RF_reference": [],
   "copper_outside_board_bounds": [],
-  "pcb_sha256": "7424df898b0ebcb69cf4769069cbbe1181c841e909ae6eb373b46940fe4edd90"
+  "pcb_sha256": "e7de91fb8464605fcf671ac3b05c8de910d84bf7c3cf701e0a838715bb837011",
+  "copper_layer_count": 4
 }

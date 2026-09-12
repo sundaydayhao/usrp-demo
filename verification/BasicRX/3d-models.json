@@ -1,0 +1,517 @@
+{
+  "project": "BasicRX",
+  "non_model_PCB_data_unchanged": true,
+  "non_model_sha256": "a99364ff46a0b76f7d45d00a96000ba97d62a15162e03f388009d28aa73abbb4",
+  "models": [
+    {
+      "ref": "R6",
+      "value": "1K",
+      "status": "bound",
+      "model": "${KIPRJMOD}/3dmodels/R_0603_1608Metric.step",
+      "source": "KiCad generic 0603 package",
+      "alignment_rms_mm": 0.21539999999999992,
+      "rotation_xyz": [
+        0.0,
+        0.0,
+        90.0
+      ],
+      "offset_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "legacy_bottom_pads_in_front_footprint": false
+    },
+    {
+      "ref": "T2",
+      "value": "ADT1-1WT+",
+      "status": "bound",
+      "model": "${KIPRJMOD}/3dmodels/EasyEDA_XFMR-SMD_6P-L7.9-W5.6-P2.54-LS7.0-BL.wrl",
+      "source": "EasyEDA C6835853",
+      "alignment_rms_mm": 1.2572999999999999,
+      "rotation_xyz": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "offset_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "legacy_bottom_pads_in_front_footprint": false
+    },
+    {
+      "ref": "R5",
+      "value": "50",
+      "status": "bound",
+      "model": "${KIPRJMOD}/3dmodels/R_0603_1608Metric.step",
+      "source": "KiCad generic 0603 package",
+      "alignment_rms_mm": 0.21539999999999992,
+      "rotation_xyz": [
+        0.0,
+        0.0,
+        270.0
+      ],
+      "offset_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "legacy_bottom_pads_in_front_footprint": false
+    },
+    {
+      "ref": "R9",
+      "value": "50",
+      "status": "bound",
+      "model": "${KIPRJMOD}/3dmodels/R_0603_1608Metric.step",
+      "source": "KiCad generic 0603 package",
+      "alignment_rms_mm": 0.21539999999999992,
+      "rotation_xyz": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "offset_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "legacy_bottom_pads_in_front_footprint": false
+    },
+    {
+      "ref": "U1",
+      "value": "GT24C02A-2GLI-TR",
+      "status": "bound",
+      "model": "${KIPRJMOD}/3dmodels/SOIC-8_3.9x4.9mm_P1.27mm.step",
+      "source": "KiCad SOIC-8 package",
+      "alignment_rms_mm": 0.11579999999999957,
+      "rotation_xyz": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "offset_mm": [
+        2.4638,
+        -1.905,
+        0.0
+      ],
+      "legacy_bottom_pads_in_front_footprint": false
+    },
+    {
+      "ref": "J19",
+      "value": "SMA5",
+      "status": "bound",
+      "model": "${KIPRJMOD}/3dmodels/SMA_Amphenol_132134-11_Vertical.step",
+      "source": "KiCad: matching 5.08 mm square PTH SMA geometry",
+      "alignment_rms_mm": 0,
+      "rotation_xyz": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "offset_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "legacy_bottom_pads_in_front_footprint": false
+    },
+    {
+      "ref": "J15",
+      "value": "HEADER20",
+      "status": "bound",
+      "model": "${KIPRJMOD}/3dmodels/PinHeader_2x10_P2.54mm_Vertical.step",
+      "source": "KiCad 2.54 mm vertical pin header",
+      "alignment_rms_mm": 0.0,
+      "rotation_xyz": [
+        0.0,
+        0.0,
+        270.0
+      ],
+      "offset_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "legacy_bottom_pads_in_front_footprint": false
+    },
+    {
+      "ref": "J18",
+      "value": "SMA5",
+      "status": "bound",
+      "model": "${KIPRJMOD}/3dmodels/SMA_Amphenol_132134-11_Vertical.step",
+      "source": "KiCad: matching 5.08 mm square PTH SMA geometry",
+      "alignment_rms_mm": 0,
+      "rotation_xyz": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "offset_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "legacy_bottom_pads_in_front_footprint": false
+    },
+    {
+      "ref": "J24",
+      "value": "HEADER16",
+      "status": "bound",
+      "model": "${KIPRJMOD}/3dmodels/PinHeader_2x08_P2.54mm_Vertical.step",
+      "source": "KiCad 2.54 mm vertical pin header",
+      "alignment_rms_mm": 0.0,
+      "rotation_xyz": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "offset_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "legacy_bottom_pads_in_front_footprint": false
+    },
+    {
+      "ref": "C25",
+      "value": "10pF",
+      "status": "bound",
+      "model": "${KIPRJMOD}/3dmodels/C_0603_1608Metric.step",
+      "source": "KiCad generic 0603 package",
+      "alignment_rms_mm": 0.1654,
+      "rotation_xyz": [
+        0.0,
+        0.0,
+        90.0
+      ],
+      "offset_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "legacy_bottom_pads_in_front_footprint": false
+    },
+    {
+      "ref": "H3",
+      "status": "bare mounting hole"
+    },
+    {
+      "ref": "R8",
+      "value": "None",
+      "status": "bound",
+      "model": "${KIPRJMOD}/3dmodels/R_0603_1608Metric.step",
+      "source": "KiCad generic 0603 package",
+      "alignment_rms_mm": 0.21539999999999992,
+      "rotation_xyz": [
+        0.0,
+        0.0,
+        90.0
+      ],
+      "offset_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "legacy_bottom_pads_in_front_footprint": false
+    },
+    {
+      "ref": "J38",
+      "value": "HEADER4",
+      "status": "bound",
+      "model": "${KIPRJMOD}/3dmodels/PinHeader_1x04_P2.54mm_Vertical.step",
+      "source": "KiCad 2.54 mm vertical pin header",
+      "alignment_rms_mm": 0.0,
+      "rotation_xyz": [
+        0.0,
+        0.0,
+        270.0
+      ],
+      "offset_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "legacy_bottom_pads_in_front_footprint": false
+    },
+    {
+      "ref": "R3",
+      "value": "50",
+      "status": "bound",
+      "model": "${KIPRJMOD}/3dmodels/R_0603_1608Metric.step",
+      "source": "KiCad generic 0603 package",
+      "alignment_rms_mm": 0.21539999999999992,
+      "rotation_xyz": [
+        0.0,
+        0.0,
+        180.0
+      ],
+      "offset_mm": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "legacy_bottom_pads_in_front_footprint": false
+    },
+    {
+      "ref": "J25",
+      "value": "HEADER16",
+      "status": "bound",
+      "model": "${KIPRJMOD}/3dmodels/PinHeader_2x08_P2.54mm_Vertical.step",
+      "source": "KiCad 2.54 mm vertical pin header",
+      "alignment_rms_mm": 0.0,
+      "rotation_xyz": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "offset_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "legacy_bottom_pads_in_front_footprint": false
+    },
+    {
+      "ref": "R7",
+      "value": "1K",
+      "status": "bound",
+      "model": "${KIPRJMOD}/3dmodels/R_0603_1608Metric.step",
+      "source": "KiCad generic 0603 package",
+      "alignment_rms_mm": 0.21539999999999992,
+      "rotation_xyz": [
+        0.0,
+        0.0,
+        90.0
+      ],
+      "offset_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "legacy_bottom_pads_in_front_footprint": false
+    },
+    {
+      "ref": "H2",
+      "status": "bare mounting hole"
+    },
+    {
+      "ref": "C23",
+      "value": "10pF",
+      "status": "bound",
+      "model": "${KIPRJMOD}/3dmodels/C_0603_1608Metric.step",
+      "source": "KiCad generic 0603 package",
+      "alignment_rms_mm": 0.1654,
+      "rotation_xyz": [
+        0.0,
+        0.0,
+        90.0
+      ],
+      "offset_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "legacy_bottom_pads_in_front_footprint": false
+    },
+    {
+      "ref": "R11",
+      "value": "50",
+      "status": "bound",
+      "model": "${KIPRJMOD}/3dmodels/R_0603_1608Metric.step",
+      "source": "KiCad generic 0603 package",
+      "alignment_rms_mm": 0.21539999999999992,
+      "rotation_xyz": [
+        0.0,
+        0.0,
+        270.0
+      ],
+      "offset_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "legacy_bottom_pads_in_front_footprint": false
+    },
+    {
+      "ref": "C22",
+      "value": "10pF",
+      "status": "bound",
+      "model": "${KIPRJMOD}/3dmodels/C_0603_1608Metric.step",
+      "source": "KiCad generic 0603 package",
+      "alignment_rms_mm": 0.1654,
+      "rotation_xyz": [
+        0.0,
+        0.0,
+        90.0
+      ],
+      "offset_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "legacy_bottom_pads_in_front_footprint": false
+    },
+    {
+      "ref": "C24",
+      "value": ".1uF",
+      "status": "bound",
+      "model": "${KIPRJMOD}/3dmodels/C_0603_1608Metric.step",
+      "source": "KiCad generic 0603 package",
+      "alignment_rms_mm": 0.1654,
+      "rotation_xyz": [
+        0.0,
+        0.0,
+        90.0
+      ],
+      "offset_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "legacy_bottom_pads_in_front_footprint": false
+    },
+    {
+      "ref": "T1",
+      "value": "ADT1-1WT+",
+      "status": "bound",
+      "model": "${KIPRJMOD}/3dmodels/EasyEDA_XFMR-SMD_6P-L7.9-W5.6-P2.54-LS7.0-BL.wrl",
+      "source": "EasyEDA C6835853",
+      "alignment_rms_mm": 1.2572999999999999,
+      "rotation_xyz": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "offset_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "legacy_bottom_pads_in_front_footprint": false
+    },
+    {
+      "ref": "J17",
+      "value": "HEADER10",
+      "status": "bound",
+      "model": "${KIPRJMOD}/3dmodels/PinHeader_2x05_P2.54mm_Vertical.step",
+      "source": "KiCad 2.54 mm vertical pin header",
+      "alignment_rms_mm": 0.0,
+      "rotation_xyz": [
+        0.0,
+        0.0,
+        270.0
+      ],
+      "offset_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "legacy_bottom_pads_in_front_footprint": false
+    },
+    {
+      "ref": "R4",
+      "value": "50",
+      "status": "bound",
+      "model": "${KIPRJMOD}/3dmodels/R_0603_1608Metric.step",
+      "source": "KiCad generic 0603 package",
+      "alignment_rms_mm": 0.21539999999999992,
+      "rotation_xyz": [
+        0.0,
+        0.0,
+        270.0
+      ],
+      "offset_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "legacy_bottom_pads_in_front_footprint": false
+    },
+    {
+      "ref": "H4",
+      "status": "bare mounting hole"
+    },
+    {
+      "ref": "J16",
+      "value": "HEADER16",
+      "status": "bound",
+      "model": "${KIPRJMOD}/3dmodels/PinHeader_2x08_P2.54mm_Vertical.step",
+      "source": "KiCad 2.54 mm vertical pin header",
+      "alignment_rms_mm": 0.0,
+      "rotation_xyz": [
+        0.0,
+        0.0,
+        270.0
+      ],
+      "offset_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "legacy_bottom_pads_in_front_footprint": false
+    },
+    {
+      "ref": "C26",
+      "value": "10pF",
+      "status": "bound",
+      "model": "${KIPRJMOD}/3dmodels/C_0603_1608Metric.step",
+      "source": "KiCad generic 0603 package",
+      "alignment_rms_mm": 0.1654,
+      "rotation_xyz": [
+        0.0,
+        0.0,
+        90.0
+      ],
+      "offset_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "legacy_bottom_pads_in_front_footprint": false
+    },
+    {
+      "ref": "H1",
+      "status": "bare mounting hole"
+    },
+    {
+      "ref": "R10",
+      "value": "50",
+      "status": "bound",
+      "model": "${KIPRJMOD}/3dmodels/R_0603_1608Metric.step",
+      "source": "KiCad generic 0603 package",
+      "alignment_rms_mm": 0.21539999999999992,
+      "rotation_xyz": [
+        0.0,
+        0.0,
+        270.0
+      ],
+      "offset_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "legacy_bottom_pads_in_front_footprint": false
+    },
+    {
+      "ref": "J2",
+      "value": "PMC64",
+      "status": "bound",
+      "model": "${KIPRJMOD}/3dmodels/PMC64_APPROX_DISPLAY.wrl",
+      "source": "APPROXIMATE PMC socket display envelope; see model JSON",
+      "alignment_rms_mm": 0.0,
+      "rotation_xyz": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "offset_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "legacy_bottom_pads_in_front_footprint": false
+    }
+  ]
+}

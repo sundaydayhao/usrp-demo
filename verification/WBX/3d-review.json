@@ -1,0 +1,28 @@
+{
+  "project": "WBX",
+  "baseline_commit": "45f46ab",
+  "PCB_non_model_semantic_equal": true,
+  "local_footprint_non_model_semantic_equal": true,
+  "schematic_equal_ignoring_line_endings": true,
+  "project_settings_equal_ignoring_line_endings": true,
+  "PCB_non_model_sha256": "80001569c4689bbe0201bd46b93475581fd4561a854a8f0266aef2b4006f8c2e",
+  "pcb_sha256": "f7c76b5acc29f60e9967b1f1287636b524206e2323c13c361418026c2d7486cf",
+  "local_footprints_checked": 302,
+  "footprints_with_models_before": 275,
+  "footprints_with_models_after": 291,
+  "new_model_bindings": 16,
+  "distinct_bound_model_files": 21,
+  "all_model_paths_project_relative_and_resolved": true,
+  "PCB_and_library_model_bindings_equal": true,
+  "approximate_envelope_instances": 2,
+  "electrical_check_set_diff": {
+    "erc": {
+      "added": 0,
+      "removed": 0
+    },
+    "drc": {
+      "added": 0,
+      "removed": 0
+    }
+  }
+}

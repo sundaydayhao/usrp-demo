@@ -167,4 +167,15 @@
 		(uuid "a32964b7-8e6a-4333-a596-8dd4f3700d1f")
 	)
 	(embedded_fonts no)
+	(model "${KIPRJMOD}/3dmodels/EasyEDA_XFMR-SMD_6P-L7.9-W5.6-P2.54-LS7.0-BL.wrl"
+		(offset
+			(xyz 0.000000 0.000000 0.0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0.0)
+		)
+	)
 )

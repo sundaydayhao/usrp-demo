@@ -130,4 +130,15 @@
 		(uuid "d516b70f-8976-47af-a095-35e2f85ee40f")
 	)
 	(embedded_fonts no)
+	(model "${KIPRJMOD}/3dmodels/CP_EIA-6032-28_Kemet-C.step"
+		(offset
+			(xyz 0.000000 -0.0 -1.6)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 180 0 -90.0)
+		)
+	)
 )

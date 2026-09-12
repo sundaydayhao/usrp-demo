@@ -444,4 +444,15 @@
 		(uuid "49ef334c-54a1-45d8-8907-a6adc96e066b")
 	)
 	(embedded_fonts no)
+	(model "${KIPRJMOD}/3dmodels/QFN-40-1EP_6x6mm_P0.5mm.step"
+		(offset
+			(xyz 0.000000 0.000000 0.0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0.0)
+		)
+	)
 )

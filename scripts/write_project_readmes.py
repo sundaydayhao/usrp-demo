@@ -15,3 +15,11 @@ root='''# USRP1 七款子板 KiCad 工程\n\n按用户提供资料重建，每�
 (ROOT/'README.md').write_text(root,encoding='utf-8');print('Seven project READMEs and root index written')
 with (ROOT/'README.md').open('a',encoding='utf-8') as out:
  out.write('\nWBX 为自定义六层，另外六款为四层；六层的板厂压合与阻抗确认是打样前的必要工作。检查报告保留孤立标签及历史铜线末端等警告，零错误不表示没有警告。\n\n[审查记录](REVIEW.md)列出检查覆盖范围与未验证项目。\n')
+
+# Preserve the model update links if the index is regenerated.
+if (ROOT/"3D_MODELS.md").exists():
+ for name in names:
+  with (ROOT/"projects"/name/"README.md").open("a",encoding="utf-8") as out:
+   out.write("\n## 3D 模型\n\n模型已绑定工程内的 `3dmodels/`，请复制完整工程目录。\n\n[正反面预览](preview/3d-views.pdf) · [来源与尺寸限制](../../3D_MODELS.md)\n\nPMC 插座与 TVRX 调谐器为简化外形，不能据此确认机械净空。\n")
+ with (ROOT/"README.md").open("a",encoding="utf-8") as out:
+  out.write("\n## 3D 模型更新\n\n七个工程现有 578 个模型绑定（新增 198 个），均使用工程内文件。电路和 RF 走线保持不变。\n\n[模型来源和简化模型限制](3D_MODELS.md) · [3D 预览 PDF](deliverables/3D-previews.pdf) · [完整工程包](deliverables/USRP1-seven-KiCad-projects.zip)\n")

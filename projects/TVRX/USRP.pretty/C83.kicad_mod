@@ -110,4 +110,15 @@
 		(uuid "f0629825-3399-4c1c-9ae0-838f8284c068")
 	)
 	(embedded_fonts no)
+	(model "${KIPRJMOD}/3dmodels/C_0603_1608Metric.step"
+		(offset
+			(xyz 0.000000 -0.0 -1.6)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 180 0 -270.0)
+		)
+	)
 )

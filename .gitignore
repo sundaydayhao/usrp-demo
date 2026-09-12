@@ -1,4 +1,5 @@
 tmp/
+.easyeda_cache/
 __pycache__/
 *.pyc
 ~*.lck

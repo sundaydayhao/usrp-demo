@@ -1,0 +1,28 @@
+{
+  "project": "LFRX",
+  "baseline_commit": "45f46ab",
+  "PCB_non_model_semantic_equal": true,
+  "local_footprint_non_model_semantic_equal": true,
+  "schematic_equal_ignoring_line_endings": true,
+  "project_settings_equal_ignoring_line_endings": true,
+  "PCB_non_model_sha256": "f97da5c66574370d8e69b889843c9083ae808a8be3b166535a42d70f21090fa2",
+  "pcb_sha256": "32fcee0533c896996fc227858b2c0010bdd9a8f2bca0d31e1521fd4cce99c037",
+  "local_footprints_checked": 36,
+  "footprints_with_models_before": 0,
+  "footprints_with_models_after": 36,
+  "new_model_bindings": 36,
+  "distinct_bound_model_files": 8,
+  "all_model_paths_project_relative_and_resolved": true,
+  "PCB_and_library_model_bindings_equal": true,
+  "approximate_envelope_instances": 1,
+  "electrical_check_set_diff": {
+    "erc": {
+      "added": 0,
+      "removed": 0
+    },
+    "drc": {
+      "added": 0,
+      "removed": 0
+    }
+  }
+}

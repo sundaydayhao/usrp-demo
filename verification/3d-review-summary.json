@@ -1,0 +1,203 @@
+{
+  "baseline_commit": "45f46ab",
+  "projects": [
+    {
+      "project": "BasicRX",
+      "baseline_commit": "45f46ab",
+      "PCB_non_model_semantic_equal": true,
+      "local_footprint_non_model_semantic_equal": true,
+      "schematic_equal_ignoring_line_endings": true,
+      "project_settings_equal_ignoring_line_endings": true,
+      "PCB_non_model_sha256": "a99364ff46a0b76f7d45d00a96000ba97d62a15162e03f388009d28aa73abbb4",
+      "pcb_sha256": "980a0f5a5ed7c280f592c27fd736c05a46aa5441c4d04d88f0d19d30ba2cd606",
+      "local_footprints_checked": 26,
+      "footprints_with_models_before": 0,
+      "footprints_with_models_after": 26,
+      "new_model_bindings": 26,
+      "distinct_bound_model_files": 10,
+      "all_model_paths_project_relative_and_resolved": true,
+      "PCB_and_library_model_bindings_equal": true,
+      "approximate_envelope_instances": 1,
+      "electrical_check_set_diff": {
+        "erc": {
+          "added": 0,
+          "removed": 0
+        },
+        "drc": {
+          "added": 0,
+          "removed": 0
+        }
+      }
+    },
+    {
+      "project": "BasicTX",
+      "baseline_commit": "45f46ab",
+      "PCB_non_model_semantic_equal": true,
+      "local_footprint_non_model_semantic_equal": true,
+      "schematic_equal_ignoring_line_endings": true,
+      "project_settings_equal_ignoring_line_endings": true,
+      "PCB_non_model_sha256": "36774029c172903eac6b35e39cd52b5d3038102d9e63ae3be483a26b92a10531",
+      "pcb_sha256": "e80384797718323901c184b6590606a4ab991e3776e3e198558d0b08ec843079",
+      "local_footprints_checked": 20,
+      "footprints_with_models_before": 0,
+      "footprints_with_models_after": 20,
+      "new_model_bindings": 20,
+      "distinct_bound_model_files": 10,
+      "all_model_paths_project_relative_and_resolved": true,
+      "PCB_and_library_model_bindings_equal": true,
+      "approximate_envelope_instances": 1,
+      "electrical_check_set_diff": {
+        "erc": {
+          "added": 0,
+          "removed": 0
+        },
+        "drc": {
+          "added": 0,
+          "removed": 0
+        }
+      }
+    },
+    {
+      "project": "LFRX",
+      "baseline_commit": "45f46ab",
+      "PCB_non_model_semantic_equal": true,
+      "local_footprint_non_model_semantic_equal": true,
+      "schematic_equal_ignoring_line_endings": true,
+      "project_settings_equal_ignoring_line_endings": true,
+      "PCB_non_model_sha256": "f97da5c66574370d8e69b889843c9083ae808a8be3b166535a42d70f21090fa2",
+      "pcb_sha256": "32fcee0533c896996fc227858b2c0010bdd9a8f2bca0d31e1521fd4cce99c037",
+      "local_footprints_checked": 36,
+      "footprints_with_models_before": 0,
+      "footprints_with_models_after": 36,
+      "new_model_bindings": 36,
+      "distinct_bound_model_files": 8,
+      "all_model_paths_project_relative_and_resolved": true,
+      "PCB_and_library_model_bindings_equal": true,
+      "approximate_envelope_instances": 1,
+      "electrical_check_set_diff": {
+        "erc": {
+          "added": 0,
+          "removed": 0
+        },
+        "drc": {
+          "added": 0,
+          "removed": 0
+        }
+      }
+    },
+    {
+      "project": "LFTX",
+      "baseline_commit": "45f46ab",
+      "PCB_non_model_semantic_equal": true,
+      "local_footprint_non_model_semantic_equal": true,
+      "schematic_equal_ignoring_line_endings": true,
+      "project_settings_equal_ignoring_line_endings": true,
+      "PCB_non_model_sha256": "071372fb10045fca6e5c63ebc0d58f27042bfc7a27d5d0690a5439d95ffd6515",
+      "pcb_sha256": "a4cc8234aa270c5374fecf28edc23321758fa6423b25277c1967d9996a4aaa51",
+      "local_footprints_checked": 55,
+      "footprints_with_models_before": 0,
+      "footprints_with_models_after": 55,
+      "new_model_bindings": 55,
+      "distinct_bound_model_files": 11,
+      "all_model_paths_project_relative_and_resolved": true,
+      "PCB_and_library_model_bindings_equal": true,
+      "approximate_envelope_instances": 1,
+      "electrical_check_set_diff": {
+        "erc": {
+          "added": 0,
+          "removed": 0
+        },
+        "drc": {
+          "added": 0,
+          "removed": 0
+        }
+      }
+    },
+    {
+      "project": "TVRX",
+      "baseline_commit": "45f46ab",
+      "PCB_non_model_semantic_equal": true,
+      "local_footprint_non_model_semantic_equal": true,
+      "schematic_equal_ignoring_line_endings": true,
+      "project_settings_equal_ignoring_line_endings": true,
+      "PCB_non_model_sha256": "931f953742e6de23f40009e79169d4fd5442c8f56b0205d1ad89a4ce429c55d5",
+      "pcb_sha256": "9e8ef824d0909d785da8c2e04adb22867ab54f2a6dc8a952467bd8871c957f10",
+      "local_footprints_checked": 41,
+      "footprints_with_models_before": 0,
+      "footprints_with_models_after": 41,
+      "new_model_bindings": 41,
+      "distinct_bound_model_files": 10,
+      "all_model_paths_project_relative_and_resolved": true,
+      "PCB_and_library_model_bindings_equal": true,
+      "approximate_envelope_instances": 2,
+      "electrical_check_set_diff": {
+        "erc": {
+          "added": 0,
+          "removed": 0
+        },
+        "drc": {
+          "added": 0,
+          "removed": 0
+        }
+      }
+    },
+    {
+      "project": "TVRX2",
+      "baseline_commit": "45f46ab",
+      "PCB_non_model_semantic_equal": true,
+      "local_footprint_non_model_semantic_equal": true,
+      "schematic_equal_ignoring_line_endings": true,
+      "project_settings_equal_ignoring_line_endings": true,
+      "PCB_non_model_sha256": "7a7cad174c8150d6a18779f826f6841bd2a70942af4a0938fac2b02cf3388773",
+      "pcb_sha256": "e7de91fb8464605fcf671ac3b05c8de910d84bf7c3cf701e0a838715bb837011",
+      "local_footprints_checked": 117,
+      "footprints_with_models_before": 105,
+      "footprints_with_models_after": 109,
+      "new_model_bindings": 4,
+      "distinct_bound_model_files": 15,
+      "all_model_paths_project_relative_and_resolved": true,
+      "PCB_and_library_model_bindings_equal": true,
+      "approximate_envelope_instances": 1,
+      "electrical_check_set_diff": {
+        "erc": {
+          "added": 0,
+          "removed": 0
+        },
+        "drc": {
+          "added": 0,
+          "removed": 0
+        }
+      }
+    },
+    {
+      "project": "WBX",
+      "baseline_commit": "45f46ab",
+      "PCB_non_model_semantic_equal": true,
+      "local_footprint_non_model_semantic_equal": true,
+      "schematic_equal_ignoring_line_endings": true,
+      "project_settings_equal_ignoring_line_endings": true,
+      "PCB_non_model_sha256": "80001569c4689bbe0201bd46b93475581fd4561a854a8f0266aef2b4006f8c2e",
+      "pcb_sha256": "f7c76b5acc29f60e9967b1f1287636b524206e2323c13c361418026c2d7486cf",
+      "local_footprints_checked": 302,
+      "footprints_with_models_before": 275,
+      "footprints_with_models_after": 291,
+      "new_model_bindings": 16,
+      "distinct_bound_model_files": 21,
+      "all_model_paths_project_relative_and_resolved": true,
+      "PCB_and_library_model_bindings_equal": true,
+      "approximate_envelope_instances": 2,
+      "electrical_check_set_diff": {
+        "erc": {
+          "added": 0,
+          "removed": 0
+        },
+        "drc": {
+          "added": 0,
+          "removed": 0
+        }
+      }
+    }
+  ],
+  "new_bindings": 198,
+  "total_bound_instances": 578
+}

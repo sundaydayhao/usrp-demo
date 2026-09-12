@@ -1,0 +1,4 @@
+# Preserve vendor/generated CAD model bytes and avoid text merges of geometry.
+*.step binary
+*.stp binary
+*.wrl binary

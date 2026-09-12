@@ -1,0 +1,15 @@
+{
+  "source": "EasyEDA/LCSC community/manufacturer package model",
+  "lcsc": "C3640849",
+  "easyeda_uuid": "1d06d03ac4524ff6a15bec0b06069302",
+  "api_url": "https://easyeda.com/api/products/C3640849/components",
+  "original_step_sha256": "b96bc04294c52326b0974962880287cb380108d8458d3b65f5414d5a20b74ee1",
+  "normalized_step_sha256": "3b8823d913a18713d5a6b9ac2a32ecc2541b2defd63f611e3cfb866487154a66",
+  "STEP_translation_mm": [
+    0.0,
+    -0.0,
+    0.21440139999999996
+  ],
+  "reason": "Match translation baked into WRL by easyeda2kicad 1.0.1; rotation remains in footprint model transform",
+  "rights": "Original model rights retained by its author/provider; no new license asserted."
+}

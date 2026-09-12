@@ -342,4 +342,15 @@
 		(uuid "46c6d857-476b-4389-bbc1-d6e57812e421")
 	)
 	(embedded_fonts no)
+	(model "${KIPRJMOD}/3dmodels/MT4937DI5_APPROX_DISPLAY.wrl"
+		(offset
+			(xyz 0.000000 0.000000 0.0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0.0)
+		)
+	)
 )

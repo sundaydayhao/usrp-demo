@@ -1,0 +1,52 @@
+{
+  "C_0603_1608Metric.step": {
+    "source": "KiCad generic 0603 package",
+    "origin": "Capacitor_SMD.3dshapes\\C_0603_1608Metric.step",
+    "sha256": "4857b3dc717675bf1fb22edda622ac3b3ae03cf44d81eefaf3fa3ba3a86d84c1"
+  },
+  "SOT-23.step": {
+    "source": "KiCad SOT23",
+    "origin": "Package_TO_SOT_SMD.3dshapes\\SOT-23.step",
+    "sha256": "dd5d1711204e1d8d26cd11490923bd84340820baa69538c385a4300ec2539bc0"
+  },
+  "R_0603_1608Metric.step": {
+    "source": "KiCad generic 0603 package",
+    "origin": "Resistor_SMD.3dshapes\\R_0603_1608Metric.step",
+    "sha256": "1875571c326d0d9e96f36b4efeb8094068ef7619f0a449c781caf0b49c2e5861"
+  },
+  "C_1206_3216Metric.step": {
+    "source": "KiCad generic 1206 package",
+    "origin": "Capacitor_SMD.3dshapes\\C_1206_3216Metric.step",
+    "sha256": "11e948c72c90e2b6322436b72745f40ff4e8ba0da64fb2a0df943dfa61e89c1a"
+  },
+  "CP_EIA-6032-28_Kemet-C.step": {
+    "source": "KiCad EIA6032 package; height class representative",
+    "origin": "Capacitor_Tantalum_SMD.3dshapes\\CP_EIA-6032-28_Kemet-C.step",
+    "sha256": "328acba14273b2549d644fc7a2a742c63370374d878e4f20086d728ef5a87171"
+  },
+  "SOIC-8_3.9x4.9mm_P1.27mm.step": {
+    "source": "KiCad SOIC-8 package",
+    "origin": "Package_SO.3dshapes\\SOIC-8_3.9x4.9mm_P1.27mm.step",
+    "sha256": "07f46cff378d30e6c27dfd5a03092c795323f86d91c71fc7e743f4f418dc553a"
+  },
+  "PinHeader_2x08_P2.54mm_Vertical.step": {
+    "source": "KiCad 2.54 mm vertical pin header",
+    "origin": "Connector_PinHeader_2.54mm.3dshapes\\PinHeader_2x08_P2.54mm_Vertical.step",
+    "sha256": "5a7d2f8d82d727fad3483901c856e208b440c5b5c552478a16c467d57a004191"
+  },
+  "SOT-223.step": {
+    "source": "KiCad SOT223 package",
+    "origin": "Package_TO_SOT_SMD.3dshapes\\SOT-223.step",
+    "sha256": "77ad6dbacc493cb619c728f26d2ddcf461eb0feb6b977b47d01d51e67016f654"
+  },
+  "MT4937DI5_APPROX_DISPLAY.wrl": {
+    "source": "APPROXIMATE tuner display envelope; 15 mm height assumed; F connector omitted",
+    "origin": "tmp\\3d-source\\envelopes\\MT4937DI5_APPROX_DISPLAY.wrl",
+    "sha256": "bd087b1f370a6b4d2ab9ad8446b80cbdc6265f300b1badb386140de09e620efa"
+  },
+  "PMC64_APPROX_DISPLAY.wrl": {
+    "source": "APPROXIMATE PMC socket display envelope; see model JSON",
+    "origin": "tmp\\3d-source\\envelopes\\PMC64_APPROX_DISPLAY.wrl",
+    "sha256": "55779aa31d3ca47f1fecdeda234cf61879c3950c1571ce08ddf7b70b84283149"
+  }
+}

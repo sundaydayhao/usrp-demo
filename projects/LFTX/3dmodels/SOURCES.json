@@ -1,0 +1,57 @@
+{
+  "C_0603_1608Metric.step": {
+    "source": "KiCad generic 0603 package",
+    "origin": "Capacitor_SMD.3dshapes\\C_0603_1608Metric.step",
+    "sha256": "4857b3dc717675bf1fb22edda622ac3b3ae03cf44d81eefaf3fa3ba3a86d84c1"
+  },
+  "SOIC-8_3.9x4.9mm_P1.27mm.step": {
+    "source": "KiCad SOIC-8 package",
+    "origin": "Package_SO.3dshapes\\SOIC-8_3.9x4.9mm_P1.27mm.step",
+    "sha256": "07f46cff378d30e6c27dfd5a03092c795323f86d91c71fc7e743f4f418dc553a"
+  },
+  "L_1206_3216Metric.step": {
+    "source": "KiCad generic 1206 package",
+    "origin": "Inductor_SMD.3dshapes\\L_1206_3216Metric.step",
+    "sha256": "7a76ea34101f04e5f76cf96aa1ead38be0f0b388f5d21e9dafbb3047c495e5dd"
+  },
+  "PinHeader_2x08_P2.54mm_Vertical.step": {
+    "source": "KiCad 2.54 mm vertical pin header",
+    "origin": "Connector_PinHeader_2.54mm.3dshapes\\PinHeader_2x08_P2.54mm_Vertical.step",
+    "sha256": "5a7d2f8d82d727fad3483901c856e208b440c5b5c552478a16c467d57a004191"
+  },
+  "SMA_Amphenol_132134-11_Vertical.step": {
+    "source": "KiCad: matching 5.08 mm square PTH SMA geometry",
+    "origin": "Connector_Coaxial.3dshapes\\SMA_Amphenol_132134-11_Vertical.step",
+    "sha256": "5d9ce5328a956133001e2e8de8a7ba9fcd91d977a5810c3af78605c0a81c0d9e"
+  },
+  "R_0603_1608Metric.step": {
+    "source": "KiCad generic 0603 package",
+    "origin": "Resistor_SMD.3dshapes\\R_0603_1608Metric.step",
+    "sha256": "1875571c326d0d9e96f36b4efeb8094068ef7619f0a449c781caf0b49c2e5861"
+  },
+  "PinHeader_2x05_P2.54mm_Vertical.step": {
+    "source": "KiCad 2.54 mm vertical pin header",
+    "origin": "Connector_PinHeader_2.54mm.3dshapes\\PinHeader_2x05_P2.54mm_Vertical.step",
+    "sha256": "cd99322b0ccc253157acbe9c5c672ce9b37dbcd4d59fb001240a93110052cdce"
+  },
+  "TSOT-23-6.step": {
+    "source": "KiCad TSOT23-6",
+    "origin": "Package_TO_SOT_SMD.3dshapes\\TSOT-23-6.step",
+    "sha256": "1007b8f67a3e81e2c5182bfd1fd27afe4d8d3710e0bfa1a14b8a91db8b595eb5"
+  },
+  "C_1206_3216Metric.step": {
+    "source": "KiCad generic 1206 package",
+    "origin": "Capacitor_SMD.3dshapes\\C_1206_3216Metric.step",
+    "sha256": "11e948c72c90e2b6322436b72745f40ff4e8ba0da64fb2a0df943dfa61e89c1a"
+  },
+  "PinHeader_2x10_P2.54mm_Vertical.step": {
+    "source": "KiCad 2.54 mm vertical pin header",
+    "origin": "Connector_PinHeader_2.54mm.3dshapes\\PinHeader_2x10_P2.54mm_Vertical.step",
+    "sha256": "0e49b47f8c69859efe043c1071a608aeffed88093115ec940561ac35eee79be1"
+  },
+  "PMC64_APPROX_DISPLAY.wrl": {
+    "source": "APPROXIMATE PMC socket display envelope; see model JSON",
+    "origin": "tmp\\3d-source\\envelopes\\PMC64_APPROX_DISPLAY.wrl",
+    "sha256": "55779aa31d3ca47f1fecdeda234cf61879c3950c1571ce08ddf7b70b84283149"
+  }
+}

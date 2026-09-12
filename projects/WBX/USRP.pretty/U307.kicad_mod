@@ -332,4 +332,15 @@
 		(uuid "e209e97b-d2e8-4e55-b311-7c0b8426e15e")
 	)
 	(embedded_fonts no)
+	(model "${KIPRJMOD}/3dmodels/LFCSP-24-1EP_4x4mm_P0.5mm_EP2.3x2.3mm.step"
+		(offset
+			(xyz 0.000000 0.000000 0.0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0.0)
+		)
+	)
 )
