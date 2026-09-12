@@ -1,0 +1,148 @@
+{
+  "stackup": "JLC04161H-7628, outer 1 oz, inner 0.5 oz, nominal 1.6 mm",
+  "stack_source": "https://jlcpcb.com/impedance",
+  "calculation_source": "https://qucs.sourceforge.net/tech/node75.html",
+  "uncoated_microstrip_estimate_ohm": 50.193261639855685,
+  "mask_and_launch_not_modelled": true,
+  "rf_nets": [
+    {
+      "connector": "J18",
+      "net": "Net-(J18-Pad1)",
+      "trace_width_mm": 0.37,
+      "length_mm": 7.669304587622639,
+      "reference": "In1.Cu /AGND",
+      "sample_count": 45,
+      "samples_without_reference_copper": [
+        {
+          "xy_mm": [
+            40.767,
+            58.801
+          ],
+          "inside_launch_region": true
+        },
+        {
+          "xy_mm": [
+            40.64,
+            58.674
+          ],
+          "inside_launch_region": true
+        },
+        {
+          "xy_mm": [
+            40.513,
+            58.547
+          ],
+          "inside_launch_region": true
+        },
+        {
+          "xy_mm": [
+            40.386,
+            58.42
+          ],
+          "inside_launch_region": true
+        },
+        {
+          "xy_mm": [
+            40.386,
+            58.42
+          ],
+          "inside_launch_region": true
+        },
+        {
+          "xy_mm": [
+            40.386,
+            58.222444
+          ],
+          "inside_launch_region": true
+        },
+        {
+          "xy_mm": [
+            40.386,
+            58.024889
+          ],
+          "inside_launch_region": true
+        },
+        {
+          "xy_mm": [
+            40.386,
+            57.827333
+          ],
+          "inside_launch_region": true
+        },
+        {
+          "xy_mm": [
+            40.386,
+            57.629778
+          ],
+          "inside_launch_region": true
+        },
+        {
+          "xy_mm": [
+            40.767,
+            58.801
+          ],
+          "inside_launch_region": true
+        },
+        {
+          "xy_mm": [
+            40.767,
+            58.928
+          ],
+          "inside_launch_region": true
+        }
+      ]
+    },
+    {
+      "connector": "J19",
+      "net": "Net-(J19-Pad1)",
+      "trace_width_mm": 0.37,
+      "length_mm": 6.215341514169809,
+      "reference": "In1.Cu /AGND",
+      "sample_count": 37,
+      "samples_without_reference_copper": [
+        {
+          "xy_mm": [
+            56.896,
+            57.452381
+          ],
+          "inside_launch_region": true
+        },
+        {
+          "xy_mm": [
+            56.896,
+            57.645905
+          ],
+          "inside_launch_region": true
+        },
+        {
+          "xy_mm": [
+            56.896,
+            57.839429
+          ],
+          "inside_launch_region": true
+        },
+        {
+          "xy_mm": [
+            56.896,
+            58.032952
+          ],
+          "inside_launch_region": true
+        },
+        {
+          "xy_mm": [
+            56.896,
+            58.226476
+          ],
+          "inside_launch_region": true
+        },
+        {
+          "xy_mm": [
+            56.896,
+            58.42
+          ],
+          "inside_launch_region": true
+        }
+      ]
+    }
+  ]
+}

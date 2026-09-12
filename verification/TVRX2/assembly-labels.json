@@ -1,0 +1,19 @@
+{
+  "silkscreen_IC_connector_refs": [
+    "J100",
+    "J140",
+    "J2",
+    "J25",
+    "J26",
+    "J27",
+    "J280",
+    "U1",
+    "U100",
+    "U140",
+    "U2",
+    "U3",
+    "U80"
+  ],
+  "all_references_on_fabrication_layers": true,
+  "stackup": "JLC04161H-7628 nominal 1.6 mm starting specification"
+}

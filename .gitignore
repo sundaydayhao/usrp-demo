@@ -1,0 +1,16 @@
+tmp/
+__pycache__/
+*.pyc
+~*.lck
+*.kicad_prl
+*-backups/
+verification/*/renders/
+verification/*/*.rpt
+verification/*/*.net
+verification/*/*.png
+verification/*/*.svg
+verification/*/*.dsn
+verification/*/*.ses
+projects/*/preview/*.svg
+projects/*/preview/*.png
+deliverables/*.zip

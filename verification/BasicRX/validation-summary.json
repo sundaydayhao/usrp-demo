@@ -1,0 +1,8 @@
+{
+  "erc": {},
+  "drc": {
+    "track_dangling": 12
+  },
+  "unconnected": 0,
+  "netlist_mismatches": {}
+}

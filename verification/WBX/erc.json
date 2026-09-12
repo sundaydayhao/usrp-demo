@@ -1,0 +1,147 @@
+{
+    "$schema": "https://schemas.kicad.org/erc.v1.json",
+    "coordinate_units": "mm",
+    "date": "2026-09-12T23:58:56",
+    "ignored_checks": [
+        {
+            "description": "Global label only appears once in the schematic",
+            "key": "single_global_label"
+        },
+        {
+            "description": "Four connection points are joined together",
+            "key": "four_way_junction"
+        },
+        {
+            "description": "SPICE model issue",
+            "key": "simulation_model_issue"
+        },
+        {
+            "description": "Assigned footprint doesn't match footprint filters",
+            "key": "footprint_filter"
+        }
+    ],
+    "included_severities": [
+        "error",
+        "warning"
+    ],
+    "kicad_version": "10.0.5",
+    "sheets": [
+        {
+            "path": "/",
+            "uuid_path": "/547fbc05-994b-5379-a79b-b4a5c679c905",
+            "violations": [
+                {
+                    "description": "Label connected to only one pin",
+                    "items": [
+                        {
+                            "description": "全局标签 'AUX_ADC_B_RX'",
+                            "pos": {
+                                "x": 0.889,
+                                "y": 2.4384
+                            },
+                            "uuid": "f003dc20-6f0b-510a-988c-76b42548625d"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "isolated_pin_label"
+                },
+                {
+                    "description": "Label connected to only one pin",
+                    "items": [
+                        {
+                            "description": "全局标签 'AUX_DAC_D_RX'",
+                            "pos": {
+                                "x": 0.9017,
+                                "y": 2.1336
+                            },
+                            "uuid": "ebde1d4c-e69b-504e-9b89-cfdc1475a46c"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "isolated_pin_label"
+                },
+                {
+                    "description": "Label connected to only one pin",
+                    "items": [
+                        {
+                            "description": "全局标签 'AUX_DAC_A_RX'",
+                            "pos": {
+                                "x": 0.9017,
+                                "y": 2.1844
+                            },
+                            "uuid": "49dd74f5-4d4b-52d5-b827-1b6146aa7c43"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "isolated_pin_label"
+                },
+                {
+                    "description": "Label connected to only one pin",
+                    "items": [
+                        {
+                            "description": "全局标签 'AUX_DAC_B_RX'",
+                            "pos": {
+                                "x": 0.9017,
+                                "y": 2.2352
+                            },
+                            "uuid": "c0179257-90f5-5ff2-9050-dd35cb5b6e18"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "isolated_pin_label"
+                },
+                {
+                    "description": "Label connected to only one pin",
+                    "items": [
+                        {
+                            "description": "全局标签 'AUX_DAC_D_TX'",
+                            "pos": {
+                                "x": 0.9525,
+                                "y": 2.286
+                            },
+                            "uuid": "8a92667e-2848-5bd5-863d-a27dbdc2d6ec"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "isolated_pin_label"
+                },
+                {
+                    "description": "Label connected to only one pin",
+                    "items": [
+                        {
+                            "description": "全局标签 'AUX_DAC_C_TX'",
+                            "pos": {
+                                "x": 0.9525,
+                                "y": 2.4384
+                            },
+                            "uuid": "c9ed27ef-e875-5c67-a7a4-6582f9e123f0"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "isolated_pin_label"
+                }
+            ]
+        },
+        {
+            "path": "/Source_page_2/",
+            "uuid_path": "/547fbc05-994b-5379-a79b-b4a5c679c905/0f78f473-db39-5eaf-b9b6-fe5816ceaf1a",
+            "violations": []
+        },
+        {
+            "path": "/Source_page_3/",
+            "uuid_path": "/547fbc05-994b-5379-a79b-b4a5c679c905/e65e0ea9-16e6-5271-843d-a7c3ae9df13c",
+            "violations": []
+        },
+        {
+            "path": "/Source_page_4/",
+            "uuid_path": "/547fbc05-994b-5379-a79b-b4a5c679c905/1376e06f-6253-5192-8886-1285067a7565",
+            "violations": []
+        },
+        {
+            "path": "/Source_page_5/",
+            "uuid_path": "/547fbc05-994b-5379-a79b-b4a5c679c905/b8aa7838-b151-5634-bef2-29bc28301b01",
+            "violations": []
+        }
+    ],
+    "source": "WBX.kicad_sch"
+}

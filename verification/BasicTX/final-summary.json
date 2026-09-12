@@ -1,0 +1,18 @@
+{
+  "project": "BasicTX",
+  "components": 20,
+  "erc": {
+    "warning:isolated_pin_label": 2
+  },
+  "drc": {
+    "warning:track_dangling": 9
+  },
+  "unconnected": 0,
+  "PCB_pin_net_mismatches": [],
+  "missing_PCB_components": [],
+  "empty_schematic_paths": [],
+  "duplicate_schematic_paths": [],
+  "ordinary_tracks_on_RF_reference": [],
+  "copper_outside_board_bounds": [],
+  "pcb_sha256": "e2e127bd471566d3c2b5c1a00388834f0178082dfb65c7d74fdcf1cb750a7d4f"
+}

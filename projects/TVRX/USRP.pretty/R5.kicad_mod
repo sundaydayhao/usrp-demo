@@ -1,0 +1,113 @@
+(footprint "R5"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "0603")
+	(property "Reference" "REF**"
+		(at 0 -0.8 0)
+		(layer "F.SilkS")
+		(uuid "326e0743-2565-43b5-877d-b8b8ef5efe1b")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.12)
+			)
+		)
+	)
+	(property "Value" "1K"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "61a0df78-ef46-41d3-b7fd-b880e455bd6d")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6adcde5f-7337-4a0c-862a-db11e59c81f6")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5c3f1c96-50ee-4281-8d9f-80fcfe1ceac4")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(sheetname "/")
+	(sheetfile "TVRX.kicad_sch")
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -0.6858 -1.0668)
+		(end 0.6858 -1.0668)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "78a6e4f5-29e3-450a-8712-093023d4b88a")
+	)
+	(fp_line
+		(start -0.6858 1.0668)
+		(end -0.6858 -1.0668)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "b8d79740-220e-4041-b986-17633fcd7063")
+	)
+	(fp_line
+		(start -0.6858 1.0668)
+		(end 0.6858 1.0668)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "cb75404b-b87b-49dd-961b-bc158470660a")
+	)
+	(fp_line
+		(start 0.6858 1.0668)
+		(end 0.6858 -1.0668)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "0da6a6fd-37ca-4274-a72e-e5442a226d0b")
+	)
+	(pad "1" smd rect
+		(at 0 0.6096)
+		(size 1.0668 0.6096)
+		(layers "B.Cu" "B.Mask" "B.Paste")
+		(solder_mask_margin 0.05)
+		(clearance 0)
+		(thermal_bridge_angle 45)
+		(uuid "6c9d73a8-c7c8-459a-87d2-dedd373d927a")
+	)
+	(pad "2" smd rect
+		(at 0 -0.6096)
+		(size 1.0668 0.6096)
+		(layers "B.Cu" "B.Mask" "B.Paste")
+		(solder_mask_margin 0.05)
+		(clearance 0)
+		(thermal_bridge_angle 45)
+		(uuid "a911397e-414e-4ce5-89b7-48f25bcc7f3c")
+	)
+	(embedded_fonts no)
+)

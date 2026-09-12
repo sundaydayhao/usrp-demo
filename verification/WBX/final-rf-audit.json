@@ -1,0 +1,620 @@
+{
+  "reference_layer": "In1.Cu AGND",
+  "ordinary_tracks_on_reference_layer": [],
+  "nets": {
+    "LO_RX_N": {
+      "length_mm": 4.249347718505468,
+      "vias": 0,
+      "layers": [
+        "F.Cu"
+      ],
+      "samples": 29,
+      "reference_gaps": []
+    },
+    "LO_RX_P": {
+      "length_mm": 4.114361995146057,
+      "vias": 0,
+      "layers": [
+        "F.Cu"
+      ],
+      "samples": 26,
+      "reference_gaps": []
+    },
+    "LO_RX_test_n": {
+      "length_mm": 7.2035163538139635,
+      "vias": 0,
+      "layers": [
+        "F.Cu"
+      ],
+      "samples": 42,
+      "reference_gaps": []
+    },
+    "LO_RX_test_p": {
+      "length_mm": 8.703906835555479,
+      "vias": 0,
+      "layers": [
+        "F.Cu"
+      ],
+      "samples": 49,
+      "reference_gaps": []
+    },
+    "LO_TX": {
+      "length_mm": 9.986529742876703,
+      "vias": 0,
+      "layers": [
+        "F.Cu"
+      ],
+      "samples": 54,
+      "reference_gaps": []
+    },
+    "LO_TX_test_n": {
+      "length_mm": 2.498944443027283,
+      "vias": 0,
+      "layers": [
+        "F.Cu"
+      ],
+      "samples": 16,
+      "reference_gaps": []
+    },
+    "LO_TX_test_p": {
+      "length_mm": 5.973688793240995,
+      "vias": 0,
+      "layers": [
+        "F.Cu"
+      ],
+      "samples": 37,
+      "reference_gaps": []
+    },
+    "Net-(C103-Pad1)": {
+      "length_mm": 3.623553390593274,
+      "vias": 0,
+      "layers": [
+        "F.Cu"
+      ],
+      "samples": 21,
+      "reference_gaps": [
+        {
+          "xy_mm": [
+            64.0,
+            92.0
+          ],
+          "own_PTH_launch": true
+        },
+        {
+          "xy_mm": [
+            63.807647,
+            92.0
+          ],
+          "own_PTH_launch": true
+        },
+        {
+          "xy_mm": [
+            63.615294,
+            92.0
+          ],
+          "own_PTH_launch": true
+        },
+        {
+          "xy_mm": [
+            63.422941,
+            92.0
+          ],
+          "own_PTH_launch": true
+        },
+        {
+          "xy_mm": [
+            63.230588,
+            92.0
+          ],
+          "own_PTH_launch": true
+        },
+        {
+          "xy_mm": [
+            63.038235,
+            92.0
+          ],
+          "own_PTH_launch": true
+        },
+        {
+          "xy_mm": [
+            62.845882,
+            92.0
+          ],
+          "own_PTH_launch": true
+        }
+      ]
+    },
+    "Net-(C104-Pad1)": {
+      "length_mm": 3.540710678118655,
+      "vias": 0,
+      "layers": [
+        "F.Cu"
+      ],
+      "samples": 21,
+      "reference_gaps": [
+        {
+          "xy_mm": [
+            64.0,
+            29.0
+          ],
+          "own_PTH_launch": true
+        },
+        {
+          "xy_mm": [
+            63.807222,
+            29.0
+          ],
+          "own_PTH_launch": true
+        },
+        {
+          "xy_mm": [
+            63.614444,
+            29.0
+          ],
+          "own_PTH_launch": true
+        },
+        {
+          "xy_mm": [
+            63.421667,
+            29.0
+          ],
+          "own_PTH_launch": true
+        },
+        {
+          "xy_mm": [
+            63.228889,
+            29.0
+          ],
+          "own_PTH_launch": true
+        },
+        {
+          "xy_mm": [
+            63.036111,
+            29.0
+          ],
+          "own_PTH_launch": true
+        },
+        {
+          "xy_mm": [
+            62.843333,
+            29.0
+          ],
+          "own_PTH_launch": true
+        }
+      ]
+    },
+    "Net-(C205-Pad1)": {
+      "length_mm": 3.120135402647721,
+      "vias": 0,
+      "layers": [
+        "F.Cu"
+      ],
+      "samples": 20,
+      "reference_gaps": []
+    },
+    "Net-(C206-Pad1)": {
+      "length_mm": 3.5365894629054546,
+      "vias": 0,
+      "layers": [
+        "F.Cu"
+      ],
+      "samples": 21,
+      "reference_gaps": []
+    },
+    "Net-(C206-Pad2)": {
+      "length_mm": 7.569779430874297,
+      "vias": 0,
+      "layers": [
+        "F.Cu"
+      ],
+      "samples": 48,
+      "reference_gaps": []
+    },
+    "Net-(C304-Pad1)": {
+      "length_mm": 4.071323959500145,
+      "vias": 0,
+      "layers": [
+        "F.Cu"
+      ],
+      "samples": 27,
+      "reference_gaps": []
+    },
+    "Net-(C315-Pad1)": {
+      "length_mm": 2.7230360723121807,
+      "vias": 0,
+      "layers": [
+        "F.Cu"
+      ],
+      "samples": 20,
+      "reference_gaps": []
+    },
+    "Net-(C315-Pad2)": {
+      "length_mm": 3.1313329701443506,
+      "vias": 0,
+      "layers": [
+        "F.Cu"
+      ],
+      "samples": 21,
+      "reference_gaps": []
+    },
+    "Net-(C327-Pad2)": {
+      "length_mm": 1.68,
+      "vias": 0,
+      "layers": [
+        "F.Cu"
+      ],
+      "samples": 10,
+      "reference_gaps": []
+    },
+    "Net-(C329-Pad2)": {
+      "length_mm": 1.68,
+      "vias": 0,
+      "layers": [
+        "F.Cu"
+      ],
+      "samples": 10,
+      "reference_gaps": []
+    },
+    "Net-(C334-Pad1)": {
+      "length_mm": 8.529321949012488,
+      "vias": 0,
+      "layers": [
+        "F.Cu"
+      ],
+      "samples": 52,
+      "reference_gaps": []
+    },
+    "Net-(C405-Pad1)": {
+      "length_mm": 3.120135402647721,
+      "vias": 0,
+      "layers": [
+        "F.Cu"
+      ],
+      "samples": 20,
+      "reference_gaps": []
+    },
+    "Net-(C406-Pad1)": {
+      "length_mm": 4.1174651296001334,
+      "vias": 0,
+      "layers": [
+        "F.Cu"
+      ],
+      "samples": 26,
+      "reference_gaps": []
+    },
+    "Net-(C406-Pad2)": {
+      "length_mm": 6.376749470084204,
+      "vias": 0,
+      "layers": [
+        "F.Cu"
+      ],
+      "samples": 43,
+      "reference_gaps": []
+    },
+    "Net-(C508-Pad1)": {
+      "length_mm": 2.3306601717798214,
+      "vias": 0,
+      "layers": [
+        "F.Cu"
+      ],
+      "samples": 17,
+      "reference_gaps": []
+    },
+    "Net-(C510-Pad1)": {
+      "length_mm": 20.072091616115983,
+      "vias": 0,
+      "layers": [
+        "F.Cu"
+      ],
+      "samples": 124,
+      "reference_gaps": []
+    },
+    "Net-(C510-Pad2)": {
+      "length_mm": 3.117695233341463,
+      "vias": 0,
+      "layers": [
+        "F.Cu"
+      ],
+      "samples": 22,
+      "reference_gaps": []
+    },
+    "Net-(C511-Pad1)": {
+      "length_mm": 6.4164675298172575,
+      "vias": 0,
+      "layers": [
+        "F.Cu"
+      ],
+      "samples": 38,
+      "reference_gaps": []
+    },
+    "Net-(C523-Pad1)": {
+      "length_mm": 3.4342135623730954,
+      "vias": 0,
+      "layers": [
+        "F.Cu"
+      ],
+      "samples": 22,
+      "reference_gaps": []
+    },
+    "Net-(J202-Pad1)": {
+      "length_mm": 18.02332123113749,
+      "vias": 0,
+      "layers": [
+        "F.Cu"
+      ],
+      "samples": 96,
+      "reference_gaps": [
+        {
+          "xy_mm": [
+            10.0,
+            131.0
+          ],
+          "own_PTH_launch": true
+        },
+        {
+          "xy_mm": [
+            9.863571,
+            130.863571
+          ],
+          "own_PTH_launch": true
+        },
+        {
+          "xy_mm": [
+            9.727143,
+            130.727143
+          ],
+          "own_PTH_launch": true
+        },
+        {
+          "xy_mm": [
+            9.590714,
+            130.590714
+          ],
+          "own_PTH_launch": true
+        },
+        {
+          "xy_mm": [
+            9.454286,
+            130.454286
+          ],
+          "own_PTH_launch": true
+        },
+        {
+          "xy_mm": [
+            9.317857,
+            130.317857
+          ],
+          "own_PTH_launch": true
+        },
+        {
+          "xy_mm": [
+            9.181429,
+            130.181429
+          ],
+          "own_PTH_launch": true
+        }
+      ]
+    },
+    "Net-(J401-Pad1)": {
+      "length_mm": 27.51983060177581,
+      "vias": 0,
+      "layers": [
+        "F.Cu"
+      ],
+      "samples": 142,
+      "reference_gaps": [
+        {
+          "xy_mm": [
+            7.0,
+            71.5
+          ],
+          "own_PTH_launch": true
+        },
+        {
+          "xy_mm": [
+            7.0,
+            71.30089
+          ],
+          "own_PTH_launch": true
+        },
+        {
+          "xy_mm": [
+            7.0,
+            71.10178
+          ],
+          "own_PTH_launch": true
+        },
+        {
+          "xy_mm": [
+            7.0,
+            70.902669
+          ],
+          "own_PTH_launch": true
+        },
+        {
+          "xy_mm": [
+            7.0,
+            70.703559
+          ],
+          "own_PTH_launch": true
+        },
+        {
+          "xy_mm": [
+            7.0,
+            70.504449
+          ],
+          "own_PTH_launch": true
+        },
+        {
+          "xy_mm": [
+            7.0,
+            70.305339
+          ],
+          "own_PTH_launch": true
+        }
+      ]
+    },
+    "Net-(R339-Pad1)": {
+      "length_mm": 4.466042010523913,
+      "vias": 0,
+      "layers": [
+        "F.Cu"
+      ],
+      "samples": 29,
+      "reference_gaps": []
+    },
+    "Net-(U302B-RF2)": {
+      "length_mm": 4.092846346890303,
+      "vias": 0,
+      "layers": [
+        "F.Cu"
+      ],
+      "samples": 32,
+      "reference_gaps": []
+    },
+    "Net-(U307A-LO+)": {
+      "length_mm": 11.026333449079887,
+      "vias": 0,
+      "layers": [
+        "F.Cu"
+      ],
+      "samples": 69,
+      "reference_gaps": []
+    },
+    "Net-(U307A-RF+)": {
+      "length_mm": 7.392428753775999,
+      "vias": 0,
+      "layers": [
+        "F.Cu"
+      ],
+      "samples": 47,
+      "reference_gaps": []
+    },
+    "Net-(U501A-INHI)": {
+      "length_mm": 1.5249655331406657,
+      "vias": 0,
+      "layers": [
+        "F.Cu"
+      ],
+      "samples": 12,
+      "reference_gaps": []
+    },
+    "Net-(U501B-ATTin)": {
+      "length_mm": 2.4937880430797517,
+      "vias": 0,
+      "layers": [
+        "F.Cu"
+      ],
+      "samples": 18,
+      "reference_gaps": []
+    },
+    "Net-(U501B-ATTout)": {
+      "length_mm": 2.52,
+      "vias": 0,
+      "layers": [
+        "F.Cu"
+      ],
+      "samples": 14,
+      "reference_gaps": []
+    },
+    "Net-(U501B-LOIP)": {
+      "length_mm": 17.755659160158768,
+      "vias": 0,
+      "layers": [
+        "F.Cu"
+      ],
+      "samples": 99,
+      "reference_gaps": []
+    },
+    "Net-(U501B-MODOUT)": {
+      "length_mm": 3.1119503812390157,
+      "vias": 0,
+      "layers": [
+        "F.Cu"
+      ],
+      "samples": 21,
+      "reference_gaps": []
+    },
+    "P2_N091": {
+      "length_mm": 4.381566376115481,
+      "vias": 0,
+      "layers": [
+        "F.Cu"
+      ],
+      "samples": 28,
+      "reference_gaps": []
+    },
+    "P3_N078": {
+      "length_mm": 5.5792574644432396,
+      "vias": 0,
+      "layers": [
+        "F.Cu"
+      ],
+      "samples": 38,
+      "reference_gaps": []
+    },
+    "P3_N079": {
+      "length_mm": 7.69613209488329,
+      "vias": 0,
+      "layers": [
+        "F.Cu"
+      ],
+      "samples": 51,
+      "reference_gaps": []
+    },
+    "P3_N087": {
+      "length_mm": 5.974895679557902,
+      "vias": 0,
+      "layers": [
+        "F.Cu"
+      ],
+      "samples": 40,
+      "reference_gaps": []
+    },
+    "P5_N072": {
+      "length_mm": 15.723833942883104,
+      "vias": 0,
+      "layers": [
+        "F.Cu"
+      ],
+      "samples": 103,
+      "reference_gaps": []
+    },
+    "P5_N073": {
+      "length_mm": 16.678499436522515,
+      "vias": 0,
+      "layers": [
+        "F.Cu"
+      ],
+      "samples": 100,
+      "reference_gaps": []
+    },
+    "P5_N079": {
+      "length_mm": 5.397666965283157,
+      "vias": 0,
+      "layers": [
+        "F.Cu"
+      ],
+      "samples": 36,
+      "reference_gaps": []
+    },
+    "RF_RX": {
+      "length_mm": 5.406417023478423,
+      "vias": 0,
+      "layers": [
+        "F.Cu"
+      ],
+      "samples": 39,
+      "reference_gaps": []
+    },
+    "RF_TX": {
+      "length_mm": 7.282140328181787,
+      "vias": 0,
+      "layers": [
+        "F.Cu"
+      ],
+      "samples": 46,
+      "reference_gaps": []
+    }
+  }
+}

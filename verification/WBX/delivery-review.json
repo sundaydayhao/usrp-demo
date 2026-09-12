@@ -1,0 +1,67 @@
+{
+  "comparison_baseline": "four-layer-last checkpoint before six-layer conversion",
+  "RF_segment_geometry_unchanged": true,
+  "RF_segment_count": 227,
+  "copper_layer_count": 6,
+  "stack_layers": [
+    {
+      "name": "F.Cu",
+      "type": "copper",
+      "thickness_mm": 0.035
+    },
+    {
+      "name": "dielectric 1",
+      "type": "prepreg",
+      "thickness_mm": 0.2104
+    },
+    {
+      "name": "In1.Cu",
+      "type": "copper",
+      "thickness_mm": 0.0152
+    },
+    {
+      "name": "dielectric 2",
+      "type": "core",
+      "thickness_mm": 0.3
+    },
+    {
+      "name": "In2.Cu",
+      "type": "copper",
+      "thickness_mm": 0.0152
+    },
+    {
+      "name": "dielectric 3",
+      "type": "prepreg",
+      "thickness_mm": 0.42
+    },
+    {
+      "name": "In3.Cu",
+      "type": "copper",
+      "thickness_mm": 0.0152
+    },
+    {
+      "name": "dielectric 4",
+      "type": "core",
+      "thickness_mm": 0.3
+    },
+    {
+      "name": "In4.Cu",
+      "type": "copper",
+      "thickness_mm": 0.0152
+    },
+    {
+      "name": "dielectric 5",
+      "type": "prepreg",
+      "thickness_mm": 0.2104
+    },
+    {
+      "name": "B.Cu",
+      "type": "copper",
+      "thickness_mm": 0.035
+    }
+  ],
+  "stack_total_mm": 1.5715999999999999,
+  "RF_reference_distance_mm": 0.2104,
+  "stack_status": "Custom target, fabricator confirmation required",
+  "pcb_sha256": "1251ee08b712aecd72d70b9fdbaa9f16573e088dcbe22fd88c083588683471c2"
+}

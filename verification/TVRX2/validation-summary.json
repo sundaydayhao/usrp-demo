@@ -1,0 +1,11 @@
+{
+  "expected_components": 117,
+  "actual_components": 117,
+  "expected_nets": 118,
+  "actual_nets": 118,
+  "missing_nets": [],
+  "unexpected_nets": [],
+  "erc": {
+    "warning:isolated_pin_label": 14
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "silkscreen_IC_connector_refs": [
+    "J101",
+    "J102",
+    "J109",
+    "J202",
+    "J203",
+    "J401",
+    "J402",
+    "J404",
+    "J405",
+    "U201",
+    "U302",
+    "U304",
+    "U306",
+    "U307",
+    "U313",
+    "U401",
+    "U403",
+    "U501",
+    "U502",
+    "U503",
+    "U505"
+  ],
+  "all_references_on_fabrication_layers": true,
+  "stackup": "Custom 6-layer nominal 1.6 mm; fabricator confirmation required"
+}

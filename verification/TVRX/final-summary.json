@@ -1,0 +1,18 @@
+{
+  "project": "TVRX",
+  "components": 41,
+  "erc": {
+    "warning:isolated_pin_label": 27
+  },
+  "drc": {
+    "warning:track_dangling": 5
+  },
+  "unconnected": 0,
+  "PCB_pin_net_mismatches": [],
+  "missing_PCB_components": [],
+  "empty_schematic_paths": [],
+  "duplicate_schematic_paths": [],
+  "ordinary_tracks_on_RF_reference": [],
+  "copper_outside_board_bounds": [],
+  "pcb_sha256": "b414a6b7481af059fbac6e1326f045bbf3cdd44fff6c0488f4b8a1531038d5cf"
+}

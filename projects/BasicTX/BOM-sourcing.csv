@@ -1,0 +1,21 @@
+﻿Reference,Value,Footprint,Manufacturer,MPN,LCSC,Sourcing_status,Specification,Source_value,Evidence
+C40,10pF,USRP:C40,FH 风华高科,0603CG100J500NT,C91367,已核对目录料号，0603 时采用,0603; 10 pF; C0G; 50 V; +/-5%,10pF,https://www.lcsc.com/product-detail/C91367.html
+C41,10pF,USRP:C41,FH 风华高科,0603CG100J500NT,C91367,已核对目录料号，0603 时采用,0603; 10 pF; C0G; 50 V; +/-5%,10pF,https://www.lcsc.com/product-detail/C91367.html
+C42,10pF,USRP:C42,FH 风华高科,0603CG100J500NT,C91367,已核对目录料号，0603 时采用,0603; 10 pF; C0G; 50 V; +/-5%,10pF,https://www.lcsc.com/product-detail/C91367.html
+C43,10pF,USRP:C43,FH 风华高科,0603CG100J500NT,C91367,已核对目录料号，0603 时采用,0603; 10 pF; C0G; 50 V; +/-5%,10pF,https://www.lcsc.com/product-detail/C91367.html
+J38,HEADER4,USRP:J38,,,,规格选型，待锁定料号,按工程封装和 USRP1 接口核对插合方向、针脚与高度,HEADER4,
+J44,PMC64,USRP:J44,,,,规格选型，待锁定料号,按工程封装和 USRP1 接口核对插合方向、针脚与高度,PMC64,
+J45,HEADER20,USRP:J45,,,,规格选型，待锁定料号,按工程封装和 USRP1 接口核对插合方向、针脚与高度,HEADER20,
+J46,HEADER16,USRP:J46,,,,规格选型，待锁定料号,按工程封装和 USRP1 接口核对插合方向、针脚与高度,HEADER16,
+J47,HEADER10,USRP:J47,,,,规格选型，待锁定料号,按工程封装和 USRP1 接口核对插合方向、针脚与高度,HEADER10,
+J48,SMA5,USRP:J48,,,,规格选型，待锁定料号,按工程封装和 USRP1 接口核对插合方向、针脚与高度,SMA5,
+J49,SMA5,USRP:J49,,,,规格选型，待锁定料号,按工程封装和 USRP1 接口核对插合方向、针脚与高度,SMA5,
+J50,HEADER16,USRP:J50,,,,规格选型，待锁定料号,按工程封装和 USRP1 接口核对插合方向、针脚与高度,HEADER16,
+J51,HEADER16,USRP:J51,,,,规格选型，待锁定料号,按工程封装和 USRP1 接口核对插合方向、针脚与高度,HEADER16,
+R32,25,USRP:R32,UNI-ROYAL 厚声,,,规格选型，待锁定料号,0603; <=1%; >=0.1 W; 按原值采购；反馈/终端电阻需同批次,25,
+R34,25,USRP:R34,UNI-ROYAL 厚声,,,规格选型，待锁定料号,0603; <=1%; >=0.1 W; 按原值采购；反馈/终端电阻需同批次,25,
+R35,25,USRP:R35,UNI-ROYAL 厚声,,,规格选型，待锁定料号,0603; <=1%; >=0.1 W; 按原值采购；反馈/终端电阻需同批次,25,
+R37,25,USRP:R37,UNI-ROYAL 厚声,,,规格选型，待锁定料号,0603; <=1%; >=0.1 W; 按原值采购；反馈/终端电阻需同批次,25,
+T50,ADT1-1WT+,USRP:T50,,ADT1-1WT+,,保留原功能型号；采购需核对后缀、封装与供应状态,射频/高速/低噪声器件，不作未经验证的国产等效替换,ADT1-1WT,
+T51,ADT1-1WT+,USRP:T51,,ADT1-1WT+,,保留原功能型号；采购需核对后缀、封装与供应状态,射频/高速/低噪声器件，不作未经验证的国产等效替换,ADT1-1WT,
+U52,GT24C02A-2GLI-TR,USRP:U52,Giantec 聚辰,GT24C02A-2GLI-TR,C239137,已核对引脚、电压、容量；待写入/识别实测,SOIC-8; 1.7–5.5 V; 2 Kbit; 16-byte page; WP=0; 5 ms max write,24LC025B,https://www.giantec-semi.com/uploads/20220929/aea94631838957c81f132940c6e46526.pdf

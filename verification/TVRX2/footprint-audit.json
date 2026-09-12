@@ -1,0 +1,1858 @@
+{
+  "R102": {
+    "value": "0",
+    "source": "R_0402_1005Metric",
+    "numbered_pads": [
+      "1",
+      "2"
+    ],
+    "position_mm": [
+      60.0,
+      12.0
+    ],
+    "rotation_deg": 180.0,
+    "side": "F.Cu"
+  },
+  "C102": {
+    "value": "1000pF",
+    "source": "C_0402_1005Metric",
+    "numbered_pads": [
+      "1",
+      "2"
+    ],
+    "position_mm": [
+      57.25,
+      12.0
+    ],
+    "rotation_deg": 180.0,
+    "side": "F.Cu"
+  },
+  "C121": {
+    "value": "6800pF",
+    "source": "C_0402_1005Metric",
+    "numbered_pads": [
+      "1",
+      "2"
+    ],
+    "position_mm": [
+      45.75,
+      9.75
+    ],
+    "rotation_deg": 180.0,
+    "side": "F.Cu"
+  },
+  "C109": {
+    "value": "100pF",
+    "source": "C_0402_1005Metric",
+    "numbered_pads": [
+      "1",
+      "2"
+    ],
+    "position_mm": [
+      47.75,
+      26.0
+    ],
+    "rotation_deg": 180.0,
+    "side": "F.Cu"
+  },
+  "C110": {
+    "value": "100pF",
+    "source": "C_0402_1005Metric",
+    "numbered_pads": [
+      "1",
+      "2"
+    ],
+    "position_mm": [
+      45.5,
+      21.75
+    ],
+    "rotation_deg": 180.0,
+    "side": "F.Cu"
+  },
+  "R106": {
+    "value": "560, 1%",
+    "source": "R_0402_1005Metric",
+    "numbered_pads": [
+      "1",
+      "2"
+    ],
+    "position_mm": [
+      49.25,
+      24.75
+    ],
+    "rotation_deg": 0.0,
+    "side": "F.Cu"
+  },
+  "R105": {
+    "value": "560, 1%",
+    "source": "R_0402_1005Metric",
+    "numbered_pads": [
+      "1",
+      "2"
+    ],
+    "position_mm": [
+      50.0,
+      26.0
+    ],
+    "rotation_deg": 0.0,
+    "side": "F.Cu"
+  },
+  "R111": {
+    "value": "1K",
+    "source": "R_0402_1005Metric",
+    "numbered_pads": [
+      "1",
+      "2"
+    ],
+    "position_mm": [
+      48.5,
+      22.75
+    ],
+    "rotation_deg": -90.0,
+    "side": "F.Cu"
+  },
+  "C112": {
+    "value": "4700pF",
+    "source": "C_0402_1005Metric",
+    "numbered_pads": [
+      "1",
+      "2"
+    ],
+    "position_mm": [
+      49.25,
+      19.25
+    ],
+    "rotation_deg": 0.0,
+    "side": "F.Cu"
+  },
+  "J100": {
+    "value": "SMA 50 ohm",
+    "source": "Original gEDA SMA 5-pin PTH",
+    "numbered_pads": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "position_mm": [
+      64.0,
+      12.0
+    ],
+    "rotation_deg": 0.0,
+    "side": "F.Cu"
+  },
+  "R180": {
+    "value": "0",
+    "source": "R_0402_1005Metric",
+    "numbered_pads": [
+      "1",
+      "2"
+    ],
+    "position_mm": [
+      27.75,
+      36.5
+    ],
+    "rotation_deg": -90.0,
+    "side": "F.Cu"
+  },
+  "C184": {
+    "value": "NONE",
+    "source": "C_0402_1005Metric",
+    "numbered_pads": [
+      "1",
+      "2"
+    ],
+    "position_mm": [
+      44.5,
+      16.5
+    ],
+    "rotation_deg": 0.0,
+    "side": "F.Cu"
+  },
+  "C183": {
+    "value": "1000pF",
+    "source": "C_0402_1005Metric",
+    "numbered_pads": [
+      "1",
+      "2"
+    ],
+    "position_mm": [
+      24.25,
+      37.0
+    ],
+    "rotation_deg": 90.0,
+    "side": "F.Cu"
+  },
+  "R181": {
+    "value": "1000",
+    "source": "R_0402_1005Metric",
+    "numbered_pads": [
+      "1",
+      "2"
+    ],
+    "position_mm": [
+      22.5,
+      35.5
+    ],
+    "rotation_deg": 180.0,
+    "side": "F.Cu"
+  },
+  "R183": {
+    "value": "NONE",
+    "source": "R_0402_1005Metric",
+    "numbered_pads": [
+      "1",
+      "2"
+    ],
+    "position_mm": [
+      23.0,
+      37.25
+    ],
+    "rotation_deg": -90.0,
+    "side": "F.Cu"
+  },
+  "R184": {
+    "value": "1000",
+    "source": "R_0402_1005Metric",
+    "numbered_pads": [
+      "1",
+      "2"
+    ],
+    "position_mm": [
+      29.0,
+      29.0
+    ],
+    "rotation_deg": 180.0,
+    "side": "F.Cu"
+  },
+  "U100": {
+    "value": "TDA18272HN",
+    "source": "NXP SOT618-1 HVQFN40 EP4.1",
+    "numbered_pads": [
+      "1",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+      "2",
+      "20",
+      "21",
+      "22",
+      "23",
+      "24",
+      "25",
+      "26",
+      "27",
+      "28",
+      "29",
+      "3",
+      "30",
+      "31",
+      "32",
+      "33",
+      "34",
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "4",
+      "40",
+      "41",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "position_mm": [
+      51.0,
+      13.0
+    ],
+    "rotation_deg": 180.0,
+    "side": "F.Cu"
+  },
+  "C122": {
+    "value": "0.22uF",
+    "source": "C_0603_1608Metric",
+    "numbered_pads": [
+      "1",
+      "2"
+    ],
+    "position_mm": [
+      47.0,
+      8.25
+    ],
+    "rotation_deg": 180.0,
+    "side": "F.Cu"
+  },
+  "R120": {
+    "value": "270",
+    "source": "R_0402_1005Metric",
+    "numbered_pads": [
+      "1",
+      "2"
+    ],
+    "position_mm": [
+      44.75,
+      7.75
+    ],
+    "rotation_deg": 90.0,
+    "side": "F.Cu"
+  },
+  "C111": {
+    "value": "0.22uF",
+    "source": "C_0603_1608Metric",
+    "numbered_pads": [
+      "1",
+      "2"
+    ],
+    "position_mm": [
+      56.25,
+      17.75
+    ],
+    "rotation_deg": 0.0,
+    "side": "F.Cu"
+  },
+  "R142": {
+    "value": "0",
+    "source": "R_0402_1005Metric",
+    "numbered_pads": [
+      "1",
+      "2"
+    ],
+    "position_mm": [
+      60.0,
+      49.0
+    ],
+    "rotation_deg": 180.0,
+    "side": "F.Cu"
+  },
+  "C142": {
+    "value": "1000pF",
+    "source": "C_0402_1005Metric",
+    "numbered_pads": [
+      "1",
+      "2"
+    ],
+    "position_mm": [
+      57.25,
+      49.0
+    ],
+    "rotation_deg": 180.0,
+    "side": "F.Cu"
+  },
+  "J140": {
+    "value": "SMA 50 ohm",
+    "source": "Original gEDA SMA 5-pin PTH",
+    "numbered_pads": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "position_mm": [
+      64.0,
+      49.0
+    ],
+    "rotation_deg": 0.0,
+    "side": "F.Cu"
+  },
+  "R112": {
+    "value": "NONE",
+    "source": "R_0402_1005Metric",
+    "numbered_pads": [
+      "1",
+      "2"
+    ],
+    "position_mm": [
+      56.25,
+      32.25
+    ],
+    "rotation_deg": -90.0,
+    "side": "F.Cu"
+  },
+  "C153": {
+    "value": "NONE",
+    "source": "C_0402_1005Metric",
+    "numbered_pads": [
+      "1",
+      "2"
+    ],
+    "position_mm": [
+      58.75,
+      50.5
+    ],
+    "rotation_deg": 90.0,
+    "side": "F.Cu"
+  },
+  "C120": {
+    "value": "2700pF",
+    "source": "C_0402_1005Metric",
+    "numbered_pads": [
+      "1",
+      "2"
+    ],
+    "position_mm": [
+      45.75,
+      11.0
+    ],
+    "rotation_deg": 180.0,
+    "side": "F.Cu"
+  },
+  "U140": {
+    "value": "TDA18272HN",
+    "source": "NXP SOT618-1 HVQFN40 EP4.1",
+    "numbered_pads": [
+      "1",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+      "2",
+      "20",
+      "21",
+      "22",
+      "23",
+      "24",
+      "25",
+      "26",
+      "27",
+      "28",
+      "29",
+      "3",
+      "30",
+      "31",
+      "32",
+      "33",
+      "34",
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "4",
+      "40",
+      "41",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "position_mm": [
+      51.0,
+      48.0
+    ],
+    "rotation_deg": 180.0,
+    "side": "F.Cu"
+  },
+  "U80": {
+    "value": "XC2C32A-6QFG32C",
+    "source": "AMD QFG32 5x5, pitch0.5, EP3.63, UG112",
+    "numbered_pads": [
+      "1",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+      "2",
+      "20",
+      "21",
+      "22",
+      "23",
+      "24",
+      "25",
+      "26",
+      "27",
+      "28",
+      "29",
+      "3",
+      "30",
+      "31",
+      "32",
+      "33",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "position_mm": [
+      29.0,
+      44.0
+    ],
+    "rotation_deg": 0.0,
+    "side": "F.Cu"
+  },
+  "C181": {
+    "value": "0.1uF",
+    "source": "C_0402_1005Metric",
+    "numbered_pads": [
+      "1",
+      "2"
+    ],
+    "position_mm": [
+      29.25,
+      48.0
+    ],
+    "rotation_deg": 180.0,
+    "side": "F.Cu"
+  },
+  "C182": {
+    "value": "0.1uF",
+    "source": "C_0402_1005Metric",
+    "numbered_pads": [
+      "1",
+      "2"
+    ],
+    "position_mm": [
+      29.25,
+      40.0
+    ],
+    "rotation_deg": 180.0,
+    "side": "F.Cu"
+  },
+  "T10": {
+    "value": "TestPoint",
+    "source": "1.0 mm probe pad",
+    "numbered_pads": [
+      "1"
+    ],
+    "position_mm": [
+      27.0,
+      39.5
+    ],
+    "rotation_deg": 0.0,
+    "side": "F.Cu"
+  },
+  "T11": {
+    "value": "TestPoint",
+    "source": "1.0 mm probe pad",
+    "numbered_pads": [
+      "1"
+    ],
+    "position_mm": [
+      26.0,
+      37.25
+    ],
+    "rotation_deg": 0.0,
+    "side": "F.Cu"
+  },
+  "C149": {
+    "value": "100pF",
+    "source": "C_0402_1005Metric",
+    "numbered_pads": [
+      "1",
+      "2"
+    ],
+    "position_mm": [
+      54.0,
+      22.25
+    ],
+    "rotation_deg": 90.0,
+    "side": "F.Cu"
+  },
+  "C150": {
+    "value": "100pF",
+    "source": "C_0402_1005Metric",
+    "numbered_pads": [
+      "1",
+      "2"
+    ],
+    "position_mm": [
+      55.25,
+      20.75
+    ],
+    "rotation_deg": 90.0,
+    "side": "F.Cu"
+  },
+  "R146": {
+    "value": "560, 1%",
+    "source": "R_0402_1005Metric",
+    "numbered_pads": [
+      "1",
+      "2"
+    ],
+    "position_mm": [
+      51.75,
+      24.25
+    ],
+    "rotation_deg": 180.0,
+    "side": "F.Cu"
+  },
+  "R145": {
+    "value": "560, 1%",
+    "source": "R_0402_1005Metric",
+    "numbered_pads": [
+      "1",
+      "2"
+    ],
+    "position_mm": [
+      53.25,
+      25.5
+    ],
+    "rotation_deg": 180.0,
+    "side": "F.Cu"
+  },
+  "R151": {
+    "value": "1K",
+    "source": "R_0402_1005Metric",
+    "numbered_pads": [
+      "1",
+      "2"
+    ],
+    "position_mm": [
+      49.0,
+      37.25
+    ],
+    "rotation_deg": 90.0,
+    "side": "F.Cu"
+  },
+  "C152": {
+    "value": "4700pF",
+    "source": "C_0402_1005Metric",
+    "numbered_pads": [
+      "1",
+      "2"
+    ],
+    "position_mm": [
+      48.25,
+      42.0
+    ],
+    "rotation_deg": 180.0,
+    "side": "F.Cu"
+  },
+  "C151": {
+    "value": "0.22uF",
+    "source": "C_0603_1608Metric",
+    "numbered_pads": [
+      "1",
+      "2"
+    ],
+    "position_mm": [
+      56.25,
+      52.75
+    ],
+    "rotation_deg": 0.0,
+    "side": "F.Cu"
+  },
+  "C161": {
+    "value": "6800pF",
+    "source": "C_0402_1005Metric",
+    "numbered_pads": [
+      "1",
+      "2"
+    ],
+    "position_mm": [
+      44.0,
+      45.0
+    ],
+    "rotation_deg": 180.0,
+    "side": "F.Cu"
+  },
+  "R160": {
+    "value": "270",
+    "source": "R_0402_1005Metric",
+    "numbered_pads": [
+      "1",
+      "2"
+    ],
+    "position_mm": [
+      44.75,
+      47.0
+    ],
+    "rotation_deg": -90.0,
+    "side": "F.Cu"
+  },
+  "C160": {
+    "value": "2700pF",
+    "source": "C_0402_1005Metric",
+    "numbered_pads": [
+      "1",
+      "2"
+    ],
+    "position_mm": [
+      46.0,
+      42.0
+    ],
+    "rotation_deg": 180.0,
+    "side": "F.Cu"
+  },
+  "C162": {
+    "value": "0.22uF",
+    "source": "C_0603_1608Metric",
+    "numbered_pads": [
+      "1",
+      "2"
+    ],
+    "position_mm": [
+      46.25,
+      45.75
+    ],
+    "rotation_deg": -90.0,
+    "side": "F.Cu"
+  },
+  "R130": {
+    "value": "10K",
+    "source": "R_0402_1005Metric",
+    "numbered_pads": [
+      "1",
+      "2"
+    ],
+    "position_mm": [
+      55.75,
+      9.75
+    ],
+    "rotation_deg": -90.0,
+    "side": "F.Cu"
+  },
+  "R170": {
+    "value": "NONE",
+    "source": "R_0402_1005Metric",
+    "numbered_pads": [
+      "1",
+      "2"
+    ],
+    "position_mm": [
+      56.0,
+      45.25
+    ],
+    "rotation_deg": -90.0,
+    "side": "F.Cu"
+  },
+  "R171": {
+    "value": "10K",
+    "source": "R_0402_1005Metric",
+    "numbered_pads": [
+      "1",
+      "2"
+    ],
+    "position_mm": [
+      56.25,
+      47.0
+    ],
+    "rotation_deg": 0.0,
+    "side": "F.Cu"
+  },
+  "R131": {
+    "value": "NONE",
+    "source": "R_0402_1005Metric",
+    "numbered_pads": [
+      "1",
+      "2"
+    ],
+    "position_mm": [
+      56.25,
+      13.5
+    ],
+    "rotation_deg": 0.0,
+    "side": "F.Cu"
+  },
+  "T14": {
+    "value": "TestPoint",
+    "source": "1.0 mm probe pad",
+    "numbered_pads": [
+      "1"
+    ],
+    "position_mm": [
+      30.0,
+      37.5
+    ],
+    "rotation_deg": 0.0,
+    "side": "F.Cu"
+  },
+  "T13": {
+    "value": "TestPoint",
+    "source": "1.0 mm probe pad",
+    "numbered_pads": [
+      "1"
+    ],
+    "position_mm": [
+      35.0,
+      44.25
+    ],
+    "rotation_deg": 0.0,
+    "side": "F.Cu"
+  },
+  "T15": {
+    "value": "TestPoint",
+    "source": "1.0 mm probe pad",
+    "numbered_pads": [
+      "1"
+    ],
+    "position_mm": [
+      22.25,
+      41.0
+    ],
+    "rotation_deg": 0.0,
+    "side": "F.Cu"
+  },
+  "T16": {
+    "value": "TestPoint",
+    "source": "1.0 mm probe pad",
+    "numbered_pads": [
+      "1"
+    ],
+    "position_mm": [
+      24.25,
+      44.0
+    ],
+    "rotation_deg": 0.0,
+    "side": "F.Cu"
+  },
+  "C143": {
+    "value": "1uF",
+    "source": "C_0603_1608Metric",
+    "numbered_pads": [
+      "1",
+      "2"
+    ],
+    "position_mm": [
+      52.5,
+      36.5
+    ],
+    "rotation_deg": 90.0,
+    "side": "F.Cu"
+  },
+  "C144": {
+    "value": "1uF",
+    "source": "C_0603_1608Metric",
+    "numbered_pads": [
+      "1",
+      "2"
+    ],
+    "position_mm": [
+      52.0,
+      33.25
+    ],
+    "rotation_deg": 90.0,
+    "side": "F.Cu"
+  },
+  "R289": {
+    "value": "10K",
+    "source": "R_0402_1005Metric",
+    "numbered_pads": [
+      "1",
+      "2"
+    ],
+    "position_mm": [
+      52.25,
+      27.25
+    ],
+    "rotation_deg": 90.0,
+    "side": "F.Cu"
+  },
+  "C288": {
+    "value": "0.1uF",
+    "source": "C_0402_1005Metric",
+    "numbered_pads": [
+      "1",
+      "2"
+    ],
+    "position_mm": [
+      52.5,
+      22.0
+    ],
+    "rotation_deg": 90.0,
+    "side": "F.Cu"
+  },
+  "R288": {
+    "value": "10K",
+    "source": "R_0402_1005Metric",
+    "numbered_pads": [
+      "1",
+      "2"
+    ],
+    "position_mm": [
+      50.75,
+      23.0
+    ],
+    "rotation_deg": 180.0,
+    "side": "F.Cu"
+  },
+  "C289": {
+    "value": "1000pF",
+    "source": "C_0402_1005Metric",
+    "numbered_pads": [
+      "1",
+      "2"
+    ],
+    "position_mm": [
+      54.25,
+      26.75
+    ],
+    "rotation_deg": 0.0,
+    "side": "F.Cu"
+  },
+  "C103": {
+    "value": "1uF",
+    "source": "C_0603_1608Metric",
+    "numbered_pads": [
+      "1",
+      "2"
+    ],
+    "position_mm": [
+      43.5,
+      19.0
+    ],
+    "rotation_deg": -90.0,
+    "side": "F.Cu"
+  },
+  "C104": {
+    "value": "1uF",
+    "source": "C_0603_1608Metric",
+    "numbered_pads": [
+      "1",
+      "2"
+    ],
+    "position_mm": [
+      46.0,
+      19.0
+    ],
+    "rotation_deg": -90.0,
+    "side": "F.Cu"
+  },
+  "C130": {
+    "value": "NONE",
+    "source": "C_0402_1005Metric",
+    "numbered_pads": [
+      "1",
+      "2"
+    ],
+    "position_mm": [
+      57.5,
+      9.75
+    ],
+    "rotation_deg": 0.0,
+    "side": "F.Cu"
+  },
+  "C170": {
+    "value": "NONE",
+    "source": "C_0402_1005Metric",
+    "numbered_pads": [
+      "1",
+      "2"
+    ],
+    "position_mm": [
+      58.5,
+      46.0
+    ],
+    "rotation_deg": 0.0,
+    "side": "F.Cu"
+  },
+  "R108": {
+    "value": "50, 1%",
+    "source": "R_0402_1005Metric",
+    "numbered_pads": [
+      "1",
+      "2"
+    ],
+    "position_mm": [
+      47.0,
+      24.5
+    ],
+    "rotation_deg": 0.0,
+    "side": "F.Cu"
+  },
+  "R107": {
+    "value": "50, 1%",
+    "source": "R_0402_1005Metric",
+    "numbered_pads": [
+      "1",
+      "2"
+    ],
+    "position_mm": [
+      46.25,
+      23.25
+    ],
+    "rotation_deg": 0.0,
+    "side": "F.Cu"
+  },
+  "R148": {
+    "value": "50, 1%",
+    "source": "R_0402_1005Metric",
+    "numbered_pads": [
+      "1",
+      "2"
+    ],
+    "position_mm": [
+      54.25,
+      24.25
+    ],
+    "rotation_deg": 180.0,
+    "side": "F.Cu"
+  },
+  "R147": {
+    "value": "50, 1%",
+    "source": "R_0402_1005Metric",
+    "numbered_pads": [
+      "1",
+      "2"
+    ],
+    "position_mm": [
+      55.75,
+      22.5
+    ],
+    "rotation_deg": 180.0,
+    "side": "F.Cu"
+  },
+  "R193": {
+    "value": "NONE",
+    "source": "R_0402_1005Metric",
+    "numbered_pads": [
+      "1",
+      "2"
+    ],
+    "position_mm": [
+      51.0,
+      36.75
+    ],
+    "rotation_deg": -90.0,
+    "side": "F.Cu"
+  },
+  "R192": {
+    "value": "NONE",
+    "source": "R_0402_1005Metric",
+    "numbered_pads": [
+      "1",
+      "2"
+    ],
+    "position_mm": [
+      51.0,
+      40.75
+    ],
+    "rotation_deg": -90.0,
+    "side": "F.Cu"
+  },
+  "R194": {
+    "value": "NONE",
+    "source": "R_0402_1005Metric",
+    "numbered_pads": [
+      "1",
+      "2"
+    ],
+    "position_mm": [
+      49.75,
+      39.0
+    ],
+    "rotation_deg": 0.0,
+    "side": "F.Cu"
+  },
+  "R185": {
+    "value": "50",
+    "source": "R_0402_1005Metric",
+    "numbered_pads": [
+      "1",
+      "2"
+    ],
+    "position_mm": [
+      24.75,
+      39.75
+    ],
+    "rotation_deg": 180.0,
+    "side": "F.Cu"
+  },
+  "C185": {
+    "value": "0.1uF",
+    "source": "C_0402_1005Metric",
+    "numbered_pads": [
+      "1",
+      "2"
+    ],
+    "position_mm": [
+      21.75,
+      39.0
+    ],
+    "rotation_deg": 180.0,
+    "side": "F.Cu"
+  },
+  "R182": {
+    "value": "1000pF",
+    "source": "R_0402_1005Metric",
+    "numbered_pads": [
+      "1",
+      "2"
+    ],
+    "position_mm": [
+      36.75,
+      22.75
+    ],
+    "rotation_deg": 0.0,
+    "side": "F.Cu"
+  },
+  "R190": {
+    "value": "1000pF",
+    "source": "R_0402_1005Metric",
+    "numbered_pads": [
+      "1",
+      "2"
+    ],
+    "position_mm": [
+      52.25,
+      40.25
+    ],
+    "rotation_deg": -90.0,
+    "side": "F.Cu"
+  },
+  "R186": {
+    "value": "1000pF",
+    "source": "R_0402_1005Metric",
+    "numbered_pads": [
+      "1",
+      "2"
+    ],
+    "position_mm": [
+      52.0,
+      7.75
+    ],
+    "rotation_deg": 90.0,
+    "side": "F.Cu"
+  },
+  "R191": {
+    "value": "1000pF",
+    "source": "R_0402_1005Metric",
+    "numbered_pads": [
+      "1",
+      "2"
+    ],
+    "position_mm": [
+      50.0,
+      28.0
+    ],
+    "rotation_deg": -90.0,
+    "side": "F.Cu"
+  },
+  "J2": {
+    "value": "USRP1 PMC-64",
+    "source": "Original gEDA PMC64 land pattern",
+    "numbered_pads": [
+      "1",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+      "2",
+      "20",
+      "21",
+      "22",
+      "23",
+      "24",
+      "25",
+      "26",
+      "27",
+      "28",
+      "29",
+      "3",
+      "30",
+      "31",
+      "32",
+      "33",
+      "34",
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "4",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44",
+      "45",
+      "46",
+      "47",
+      "48",
+      "49",
+      "5",
+      "50",
+      "51",
+      "52",
+      "53",
+      "54",
+      "55",
+      "56",
+      "57",
+      "58",
+      "59",
+      "6",
+      "60",
+      "61",
+      "62",
+      "63",
+      "64",
+      "7",
+      "8",
+      "9"
+    ],
+    "position_mm": [
+      24.128222,
+      24.335994
+    ],
+    "rotation_deg": 0.0,
+    "side": "B.Cu"
+  },
+  "U1": {
+    "value": "24LC024/SN",
+    "source": "SOIC8 /SN",
+    "numbered_pads": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "position_mm": [
+      15.0,
+      29.0
+    ],
+    "rotation_deg": 0.0,
+    "side": "F.Cu"
+  },
+  "J25": {
+    "value": "Header 16",
+    "source": "PinHeader_2x08_P1.27mm_Vertical",
+    "numbered_pads": [
+      "1",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "position_mm": [
+      6.0,
+      21.0
+    ],
+    "rotation_deg": 90.0,
+    "side": "F.Cu"
+  },
+  "C254": {
+    "value": "1000pF",
+    "source": "C_0402_1005Metric",
+    "numbered_pads": [
+      "1",
+      "2"
+    ],
+    "position_mm": [
+      50.25,
+      8.5
+    ],
+    "rotation_deg": 180.0,
+    "side": "F.Cu"
+  },
+  "C251": {
+    "value": "1000pF",
+    "source": "C_0402_1005Metric",
+    "numbered_pads": [
+      "1",
+      "2"
+    ],
+    "position_mm": [
+      51.75,
+      19.25
+    ],
+    "rotation_deg": -90.0,
+    "side": "F.Cu"
+  },
+  "C250": {
+    "value": "1000pF",
+    "source": "C_0402_1005Metric",
+    "numbered_pads": [
+      "1",
+      "2"
+    ],
+    "position_mm": [
+      56.25,
+      16.0
+    ],
+    "rotation_deg": 0.0,
+    "side": "F.Cu"
+  },
+  "U2": {
+    "value": "LT1085CM-3.3",
+    "source": "SOT223, tab explicitly numbered 4 and tied to output 2",
+    "numbered_pads": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "position_mm": [
+      15.0,
+      10.0
+    ],
+    "rotation_deg": 90.0,
+    "side": "F.Cu"
+  },
+  "C280": {
+    "value": "0.1uF",
+    "source": "C_0402_1005Metric",
+    "numbered_pads": [
+      "1",
+      "2"
+    ],
+    "position_mm": [
+      19.75,
+      13.75
+    ],
+    "rotation_deg": 0.0,
+    "side": "F.Cu"
+  },
+  "C283": {
+    "value": "0.1uF",
+    "source": "C_0402_1005Metric",
+    "numbered_pads": [
+      "1",
+      "2"
+    ],
+    "position_mm": [
+      17.5,
+      15.5
+    ],
+    "rotation_deg": 0.0,
+    "side": "F.Cu"
+  },
+  "C281": {
+    "value": "22uF",
+    "source": "Polarized bulk capacitor CP_EIA-3528-21_Kemet-B; positive pad 1",
+    "numbered_pads": [
+      "1",
+      "2"
+    ],
+    "position_mm": [
+      9.25,
+      14.75
+    ],
+    "rotation_deg": -90.0,
+    "side": "F.Cu"
+  },
+  "T2": {
+    "value": "TestPoint",
+    "source": "1.0 mm probe pad",
+    "numbered_pads": [
+      "1"
+    ],
+    "position_mm": [
+      15.0,
+      4.25
+    ],
+    "rotation_deg": 0.0,
+    "side": "F.Cu"
+  },
+  "C284": {
+    "value": "220pF",
+    "source": "C_0402_1005Metric",
+    "numbered_pads": [
+      "1",
+      "2"
+    ],
+    "position_mm": [
+      15.0,
+      15.75
+    ],
+    "rotation_deg": -90.0,
+    "side": "F.Cu"
+  },
+  "J26": {
+    "value": "Header 8",
+    "source": "PinHeader_2x04_P1.27mm_Vertical",
+    "numbered_pads": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "position_mm": [
+      8.0,
+      35.0
+    ],
+    "rotation_deg": 0.0,
+    "side": "F.Cu"
+  },
+  "L295": {
+    "value": "100nH",
+    "source": "L_0402_1005Metric",
+    "numbered_pads": [
+      "1",
+      "2"
+    ],
+    "position_mm": [
+      48.4,
+      17.5
+    ],
+    "rotation_deg": 0.0,
+    "side": "F.Cu"
+  },
+  "L296": {
+    "value": "8.2nH",
+    "source": "L_0402_1005Metric",
+    "numbered_pads": [
+      "1",
+      "2"
+    ],
+    "position_mm": [
+      48.0,
+      21.0
+    ],
+    "rotation_deg": 0.0,
+    "side": "F.Cu"
+  },
+  "C295": {
+    "value": "0.1uF",
+    "source": "C_0402_1005Metric",
+    "numbered_pads": [
+      "1",
+      "2"
+    ],
+    "position_mm": [
+      47.5,
+      19.1
+    ],
+    "rotation_deg": 90.0,
+    "side": "F.Cu"
+  },
+  "L290": {
+    "value": "2.4nH",
+    "source": "L_0402_1005Metric",
+    "numbered_pads": [
+      "1",
+      "2"
+    ],
+    "position_mm": [
+      51.3,
+      17.5
+    ],
+    "rotation_deg": 180.0,
+    "side": "F.Cu"
+  },
+  "L291": {
+    "value": "2.2nH",
+    "source": "L_0402_1005Metric",
+    "numbered_pads": [
+      "1",
+      "2"
+    ],
+    "position_mm": [
+      53.6,
+      17.5
+    ],
+    "rotation_deg": 0.0,
+    "side": "F.Cu"
+  },
+  "C253": {
+    "value": "0.1uF",
+    "source": "C_0402_1005Metric",
+    "numbered_pads": [
+      "1",
+      "2"
+    ],
+    "position_mm": [
+      49.25,
+      6.75
+    ],
+    "rotation_deg": 90.0,
+    "side": "F.Cu"
+  },
+  "C259": {
+    "value": "1000pF",
+    "source": "C_0402_1005Metric",
+    "numbered_pads": [
+      "1",
+      "2"
+    ],
+    "position_mm": [
+      50.25,
+      43.5
+    ],
+    "rotation_deg": 180.0,
+    "side": "F.Cu"
+  },
+  "C256": {
+    "value": "1000pF",
+    "source": "C_0402_1005Metric",
+    "numbered_pads": [
+      "1",
+      "2"
+    ],
+    "position_mm": [
+      51.75,
+      54.25
+    ],
+    "rotation_deg": -90.0,
+    "side": "F.Cu"
+  },
+  "C255": {
+    "value": "1000pF",
+    "source": "C_0402_1005Metric",
+    "numbered_pads": [
+      "1",
+      "2"
+    ],
+    "position_mm": [
+      56.25,
+      51.0
+    ],
+    "rotation_deg": 0.0,
+    "side": "F.Cu"
+  },
+  "L297": {
+    "value": "100nH",
+    "source": "L_0402_1005Metric",
+    "numbered_pads": [
+      "1",
+      "2"
+    ],
+    "position_mm": [
+      48.4,
+      52.5
+    ],
+    "rotation_deg": 0.0,
+    "side": "F.Cu"
+  },
+  "L298": {
+    "value": "8.2nH",
+    "source": "L_0402_1005Metric",
+    "numbered_pads": [
+      "1",
+      "2"
+    ],
+    "position_mm": [
+      48.0,
+      56.0
+    ],
+    "rotation_deg": 0.0,
+    "side": "F.Cu"
+  },
+  "C297": {
+    "value": "0.1uF",
+    "source": "C_0402_1005Metric",
+    "numbered_pads": [
+      "1",
+      "2"
+    ],
+    "position_mm": [
+      47.5,
+      54.1
+    ],
+    "rotation_deg": 90.0,
+    "side": "F.Cu"
+  },
+  "L292": {
+    "value": "2.4nH",
+    "source": "L_0402_1005Metric",
+    "numbered_pads": [
+      "1",
+      "2"
+    ],
+    "position_mm": [
+      51.3,
+      52.5
+    ],
+    "rotation_deg": 180.0,
+    "side": "F.Cu"
+  },
+  "L293": {
+    "value": "2.2nH",
+    "source": "L_0402_1005Metric",
+    "numbered_pads": [
+      "1",
+      "2"
+    ],
+    "position_mm": [
+      53.6,
+      52.5
+    ],
+    "rotation_deg": 0.0,
+    "side": "F.Cu"
+  },
+  "C258": {
+    "value": "0.1uF",
+    "source": "C_0402_1005Metric",
+    "numbered_pads": [
+      "1",
+      "2"
+    ],
+    "position_mm": [
+      47.25,
+      43.25
+    ],
+    "rotation_deg": 180.0,
+    "side": "F.Cu"
+  },
+  "R26": {
+    "value": "0",
+    "source": "R_0402_1005Metric",
+    "numbered_pads": [
+      "1",
+      "2"
+    ],
+    "position_mm": [
+      30.0,
+      22.5
+    ],
+    "rotation_deg": 0.0,
+    "side": "F.Cu"
+  },
+  "R27": {
+    "value": "0",
+    "source": "R_0402_1005Metric",
+    "numbered_pads": [
+      "1",
+      "2"
+    ],
+    "position_mm": [
+      28.0,
+      24.0
+    ],
+    "rotation_deg": 0.0,
+    "side": "F.Cu"
+  },
+  "R28": {
+    "value": "0",
+    "source": "R_0402_1005Metric",
+    "numbered_pads": [
+      "1",
+      "2"
+    ],
+    "position_mm": [
+      33.5,
+      41.25
+    ],
+    "rotation_deg": 180.0,
+    "side": "F.Cu"
+  },
+  "R29": {
+    "value": "0",
+    "source": "R_0402_1005Metric",
+    "numbered_pads": [
+      "1",
+      "2"
+    ],
+    "position_mm": [
+      24.75,
+      41.75
+    ],
+    "rotation_deg": -90.0,
+    "side": "F.Cu"
+  },
+  "J27": {
+    "value": "Header 8",
+    "source": "PinHeader_2x04_P1.27mm_Vertical",
+    "numbered_pads": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "position_mm": [
+      8.0,
+      44.0
+    ],
+    "rotation_deg": 0.0,
+    "side": "F.Cu"
+  },
+  "U3": {
+    "value": "MIC5247-1.8YM5",
+    "source": "SOT23-5",
+    "numbered_pads": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "position_mm": [
+      22.0,
+      10.0
+    ],
+    "rotation_deg": 0.0,
+    "side": "F.Cu"
+  },
+  "C285": {
+    "value": "0.1uF",
+    "source": "C_0402_1005Metric",
+    "numbered_pads": [
+      "1",
+      "2"
+    ],
+    "position_mm": [
+      21.25,
+      12.5
+    ],
+    "rotation_deg": 0.0,
+    "side": "F.Cu"
+  },
+  "C287": {
+    "value": "1uF",
+    "source": "C_0603_1608Metric",
+    "numbered_pads": [
+      "1",
+      "2"
+    ],
+    "position_mm": [
+      22.0,
+      7.0
+    ],
+    "rotation_deg": 180.0,
+    "side": "F.Cu"
+  },
+  "C286": {
+    "value": "0.01uF",
+    "source": "C_0402_1005Metric",
+    "numbered_pads": [
+      "1",
+      "2"
+    ],
+    "position_mm": [
+      23.5,
+      12.5
+    ],
+    "rotation_deg": 0.0,
+    "side": "F.Cu"
+  },
+  "T3": {
+    "value": "TestPoint",
+    "source": "1.0 mm probe pad",
+    "numbered_pads": [
+      "1"
+    ],
+    "position_mm": [
+      25.5,
+      8.5
+    ],
+    "rotation_deg": 0.0,
+    "side": "F.Cu"
+  },
+  "J280": {
+    "value": "Header 14",
+    "source": "PinHeader_2x07_P2.00mm_Vertical",
+    "numbered_pads": [
+      "1",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "position_mm": [
+      18.0,
+      53.0
+    ],
+    "rotation_deg": 90.0,
+    "side": "F.Cu"
+  },
+  "C291": {
+    "value": "1000pF",
+    "source": "C_0402_1005Metric",
+    "numbered_pads": [
+      "1",
+      "2"
+    ],
+    "position_mm": [
+      33.0,
+      44.75
+    ],
+    "rotation_deg": -90.0,
+    "side": "F.Cu"
+  },
+  "C290": {
+    "value": "1000pF",
+    "source": "C_0402_1005Metric",
+    "numbered_pads": [
+      "1",
+      "2"
+    ],
+    "position_mm": [
+      33.25,
+      42.5
+    ],
+    "rotation_deg": 0.0,
+    "side": "F.Cu"
+  },
+  "C257": {
+    "value": "1000pF",
+    "source": "C_0402_1005Metric",
+    "numbered_pads": [
+      "1",
+      "2"
+    ],
+    "position_mm": [
+      46.5,
+      49.25
+    ],
+    "rotation_deg": -90.0,
+    "side": "F.Cu"
+  },
+  "C252": {
+    "value": "1000pF",
+    "source": "C_0402_1005Metric",
+    "numbered_pads": [
+      "1",
+      "2"
+    ],
+    "position_mm": [
+      46.5,
+      14.25
+    ],
+    "rotation_deg": -90.0,
+    "side": "F.Cu"
+  }
+}

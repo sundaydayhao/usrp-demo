@@ -1,0 +1,442 @@
+{
+    "$schema": "https://schemas.kicad.org/erc.v1.json",
+    "coordinate_units": "mm",
+    "date": "2026-09-12T21:52:57",
+    "ignored_checks": [
+        {
+            "description": "Global label only appears once in the schematic",
+            "key": "single_global_label"
+        },
+        {
+            "description": "Four connection points are joined together",
+            "key": "four_way_junction"
+        },
+        {
+            "description": "SPICE model issue",
+            "key": "simulation_model_issue"
+        },
+        {
+            "description": "Assigned footprint doesn't match footprint filters",
+            "key": "footprint_filter"
+        }
+    ],
+    "included_severities": [
+        "error",
+        "warning"
+    ],
+    "kicad_version": "10.0.5",
+    "sheets": [
+        {
+            "path": "/",
+            "uuid_path": "/6d27928e-e364-5cb8-8dfc-24f865724931",
+            "violations": [
+                {
+                    "description": "Label connected to only one pin",
+                    "items": [
+                        {
+                            "description": "标签 'VINP_B'",
+                            "pos": {
+                                "x": 2.2352,
+                                "y": 1.524
+                            },
+                            "uuid": "f311c47b-f3e2-521e-915d-120327fcd056"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "isolated_pin_label"
+                },
+                {
+                    "description": "Label connected to only one pin",
+                    "items": [
+                        {
+                            "description": "标签 'VINN_B'",
+                            "pos": {
+                                "x": 2.2352,
+                                "y": 1.5748
+                            },
+                            "uuid": "5972cf98-6748-5688-be52-7a577869a34c"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "isolated_pin_label"
+                },
+                {
+                    "description": "Label connected to only one pin",
+                    "items": [
+                        {
+                            "description": "标签 'VREF'",
+                            "pos": {
+                                "x": 2.2352,
+                                "y": 1.6764
+                            },
+                            "uuid": "6a9100ec-95ea-5a60-85c5-e9a8a2e431cf"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "isolated_pin_label"
+                },
+                {
+                    "description": "Label connected to only one pin",
+                    "items": [
+                        {
+                            "description": "标签 'VREF'",
+                            "pos": {
+                                "x": 2.4384,
+                                "y": 1.6764
+                            },
+                            "uuid": "53f2f881-0012-5c67-b40d-7bd87bda4ea3"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "isolated_pin_label"
+                },
+                {
+                    "description": "Label connected to only one pin",
+                    "items": [
+                        {
+                            "description": "标签 'RS232_TXD'",
+                            "pos": {
+                                "x": 2.6162,
+                                "y": 0.8636
+                            },
+                            "uuid": "db8b43f2-c59e-5b83-a730-5688e399e897"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "isolated_pin_label"
+                },
+                {
+                    "description": "Label connected to only one pin",
+                    "items": [
+                        {
+                            "description": "标签 'RS232_RXD'",
+                            "pos": {
+                                "x": 2.6162,
+                                "y": 0.9144
+                            },
+                            "uuid": "5030c2d5-74b8-593e-8f83-524f5e358148"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "isolated_pin_label"
+                },
+                {
+                    "description": "Label connected to only one pin",
+                    "items": [
+                        {
+                            "description": "标签 'SCLK'",
+                            "pos": {
+                                "x": 2.6162,
+                                "y": 1.016
+                            },
+                            "uuid": "96bd8110-fc8c-5b87-8fb3-81089cda49ba"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "isolated_pin_label"
+                },
+                {
+                    "description": "Label connected to only one pin",
+                    "items": [
+                        {
+                            "description": "标签 'SDO'",
+                            "pos": {
+                                "x": 2.6162,
+                                "y": 1.0668
+                            },
+                            "uuid": "5a7a4911-db48-5585-9feb-d0a852b08cbb"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "isolated_pin_label"
+                },
+                {
+                    "description": "Label connected to only one pin",
+                    "items": [
+                        {
+                            "description": "标签 'SDI'",
+                            "pos": {
+                                "x": 2.6162,
+                                "y": 1.1176
+                            },
+                            "uuid": "0356d3e3-7e4a-5012-aad2-1135f286231e"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "isolated_pin_label"
+                },
+                {
+                    "description": "Label connected to only one pin",
+                    "items": [
+                        {
+                            "description": "标签 'SEN_RX'",
+                            "pos": {
+                                "x": 2.6162,
+                                "y": 1.1684
+                            },
+                            "uuid": "9f80e22a-ad06-5eb4-b059-02b5c01084ce"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "isolated_pin_label"
+                },
+                {
+                    "description": "Label connected to only one pin",
+                    "items": [
+                        {
+                            "description": "标签 'AUX_DAC_D'",
+                            "pos": {
+                                "x": 2.6162,
+                                "y": 1.524
+                            },
+                            "uuid": "451f6aa1-ed76-5273-bfab-2ab59bb9d346"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "isolated_pin_label"
+                },
+                {
+                    "description": "Label connected to only one pin",
+                    "items": [
+                        {
+                            "description": "标签 'AUX_DAC_C'",
+                            "pos": {
+                                "x": 2.6162,
+                                "y": 1.6764
+                            },
+                            "uuid": "0cf9a04b-b2fa-5d54-a808-d34c3eca8847"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "isolated_pin_label"
+                },
+                {
+                    "description": "Label connected to only one pin",
+                    "items": [
+                        {
+                            "description": "标签 'AUX_ADC_REF'",
+                            "pos": {
+                                "x": 2.6162,
+                                "y": 1.7272
+                            },
+                            "uuid": "bdff85e1-9439-5af5-976c-94c772c69233"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "isolated_pin_label"
+                },
+                {
+                    "description": "Label connected to only one pin",
+                    "items": [
+                        {
+                            "description": "标签 'AUX_ADC_A1'",
+                            "pos": {
+                                "x": 2.6162,
+                                "y": 1.778
+                            },
+                            "uuid": "057e5496-2980-5535-ac5f-d6eb5d04d353"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "isolated_pin_label"
+                },
+                {
+                    "description": "Label connected to only one pin",
+                    "items": [
+                        {
+                            "description": "标签 'AUX_ADC_B1'",
+                            "pos": {
+                                "x": 2.6162,
+                                "y": 1.8288
+                            },
+                            "uuid": "63a9b74a-d79c-532d-a485-dc494b4c9dbd"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "isolated_pin_label"
+                },
+                {
+                    "description": "Label connected to only one pin",
+                    "items": [
+                        {
+                            "description": "标签 'SEN_RX'",
+                            "pos": {
+                                "x": 2.7686,
+                                "y": 1.1684
+                            },
+                            "uuid": "993b9e2a-8461-523b-bd49-45e55c26d42c"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "isolated_pin_label"
+                },
+                {
+                    "description": "Label connected to only one pin",
+                    "items": [
+                        {
+                            "description": "标签 'RESET'",
+                            "pos": {
+                                "x": 2.794,
+                                "y": 0.9652
+                            },
+                            "uuid": "3f7d143c-81a6-56b7-90d1-c9bc37866bea"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "isolated_pin_label"
+                },
+                {
+                    "description": "Label connected to only one pin",
+                    "items": [
+                        {
+                            "description": "标签 'SCLK'",
+                            "pos": {
+                                "x": 2.794,
+                                "y": 1.016
+                            },
+                            "uuid": "2fff21b8-b416-5c97-b61d-58fa9f854414"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "isolated_pin_label"
+                },
+                {
+                    "description": "Label connected to only one pin",
+                    "items": [
+                        {
+                            "description": "标签 'SDO'",
+                            "pos": {
+                                "x": 2.794,
+                                "y": 1.0668
+                            },
+                            "uuid": "07fd9880-335c-5f16-85c8-ca4ca9cf5e6c"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "isolated_pin_label"
+                },
+                {
+                    "description": "Label connected to only one pin",
+                    "items": [
+                        {
+                            "description": "标签 'SDI'",
+                            "pos": {
+                                "x": 2.794,
+                                "y": 1.1176
+                            },
+                            "uuid": "a87b7c77-c48e-5464-9e24-94034d06694f"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "isolated_pin_label"
+                },
+                {
+                    "description": "Label connected to only one pin",
+                    "items": [
+                        {
+                            "description": "标签 'AUX_ADC_A1'",
+                            "pos": {
+                                "x": 2.8194,
+                                "y": 1.778
+                            },
+                            "uuid": "a1383c29-06d5-59e6-8034-7a7962834115"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "isolated_pin_label"
+                },
+                {
+                    "description": "Label connected to only one pin",
+                    "items": [
+                        {
+                            "description": "标签 'AUX_ADC_B1'",
+                            "pos": {
+                                "x": 2.8194,
+                                "y": 1.8288
+                            },
+                            "uuid": "0caad83b-7483-5eda-93f2-39f39d1fa332"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "isolated_pin_label"
+                },
+                {
+                    "description": "Label connected to only one pin",
+                    "items": [
+                        {
+                            "description": "标签 'RS232_TXD'",
+                            "pos": {
+                                "x": 2.8321,
+                                "y": 0.8636
+                            },
+                            "uuid": "4abb163e-939f-5361-8f90-f69719cb1c19"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "isolated_pin_label"
+                },
+                {
+                    "description": "Label connected to only one pin",
+                    "items": [
+                        {
+                            "description": "标签 'RS232_RXD'",
+                            "pos": {
+                                "x": 2.8321,
+                                "y": 0.9144
+                            },
+                            "uuid": "72f26f61-dd50-52db-b4c1-e4b771bd830f"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "isolated_pin_label"
+                },
+                {
+                    "description": "Label connected to only one pin",
+                    "items": [
+                        {
+                            "description": "标签 'AUX_DAC_D'",
+                            "pos": {
+                                "x": 2.8321,
+                                "y": 1.524
+                            },
+                            "uuid": "943122ea-ac78-5363-af5b-ac3168f4b118"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "isolated_pin_label"
+                },
+                {
+                    "description": "Label connected to only one pin",
+                    "items": [
+                        {
+                            "description": "标签 'AUX_DAC_C'",
+                            "pos": {
+                                "x": 2.8321,
+                                "y": 1.6764
+                            },
+                            "uuid": "5caff223-18ee-5417-9dc4-3f408ceb1152"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "isolated_pin_label"
+                },
+                {
+                    "description": "Label connected to only one pin",
+                    "items": [
+                        {
+                            "description": "标签 'AUX_ADC_REF'",
+                            "pos": {
+                                "x": 2.8321,
+                                "y": 1.7272
+                            },
+                            "uuid": "42322033-2523-5a60-a297-fd493da6b899"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "isolated_pin_label"
+                }
+            ]
+        }
+    ],
+    "source": "TVRX.kicad_sch"
+}

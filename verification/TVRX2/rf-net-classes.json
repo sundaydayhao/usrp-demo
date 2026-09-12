@@ -1,0 +1,26 @@
+{
+  "RF50_START": [
+    "Net-(C102-Pad1)",
+    "Net-(C142-Pad1)",
+    "Net-(J100-Pad1)",
+    "Net-(J140-Pad1)",
+    "Net-(U100B-RFIN)",
+    "Net-(U140B-RFIN)"
+  ],
+  "RF_LOCAL": [
+    "Net-(U100D-UHFHIGH)",
+    "Net-(U100D-UHFLOW)",
+    "Net-(U100D-UHFSUPPLY)",
+    "Net-(U100D-VHFHIGH)",
+    "Net-(U100D-VHFLOW)",
+    "Net-(U100D-VHFSENSE)",
+    "Net-(U100D-VHFSUPPLY)",
+    "Net-(U140D-UHFHIGH)",
+    "Net-(U140D-UHFLOW)",
+    "Net-(U140D-UHFSUPPLY)",
+    "Net-(U140D-VHFHIGH)",
+    "Net-(U140D-VHFLOW)",
+    "Net-(U140D-VHFSENSE)",
+    "Net-(U140D-VHFSUPPLY)"
+  ]
+}

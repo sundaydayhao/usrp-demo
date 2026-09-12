@@ -1,0 +1,19 @@
+{
+  "project": "WBX",
+  "components": 302,
+  "erc": {
+    "warning:isolated_pin_label": 6
+  },
+  "drc": {
+    "warning:track_dangling": 22
+  },
+  "unconnected": 0,
+  "PCB_pin_net_mismatches": [],
+  "missing_PCB_components": [],
+  "empty_schematic_paths": [],
+  "duplicate_schematic_paths": [],
+  "ordinary_tracks_on_RF_reference": [],
+  "copper_outside_board_bounds": [],
+  "pcb_sha256": "1251ee08b712aecd72d70b9fdbaa9f16573e088dcbe22fd88c083588683471c2",
+  "copper_layer_count": 6
+}

@@ -1,0 +1,141 @@
+{
+  "stackup": "JLC04161H-7628, outer 1 oz, inner 0.5 oz, nominal 1.6 mm",
+  "stack_source": "https://jlcpcb.com/impedance",
+  "calculation_source": "https://qucs.sourceforge.net/tech/node75.html",
+  "uncoated_microstrip_estimate_ohm": 50.193261639855685,
+  "mask_and_launch_not_modelled": true,
+  "rf_nets": [
+    {
+      "connector": "J48",
+      "net": "Net-(J48-Pad1)",
+      "trace_width_mm": 0.37,
+      "length_mm": 6.291413228069172,
+      "reference": "In1.Cu /AGND",
+      "sample_count": 35,
+      "samples_without_reference_copper": [
+        {
+          "xy_mm": [
+            57.404,
+            58.801
+          ],
+          "inside_launch_region": true
+        },
+        {
+          "xy_mm": [
+            57.592912,
+            58.801
+          ],
+          "inside_launch_region": true
+        },
+        {
+          "xy_mm": [
+            57.781825,
+            58.801
+          ],
+          "inside_launch_region": true
+        },
+        {
+          "xy_mm": [
+            57.970738,
+            58.801
+          ],
+          "inside_launch_region": true
+        },
+        {
+          "xy_mm": [
+            58.15965,
+            58.801
+          ],
+          "inside_launch_region": true
+        },
+        {
+          "xy_mm": [
+            58.348562,
+            58.801
+          ],
+          "inside_launch_region": true
+        },
+        {
+          "xy_mm": [
+            58.537475,
+            58.801
+          ],
+          "inside_launch_region": true
+        },
+        {
+          "xy_mm": [
+            58.726388,
+            58.801
+          ],
+          "inside_launch_region": true
+        }
+      ]
+    },
+    {
+      "connector": "J49",
+      "net": "Net-(J49-Pad1)",
+      "trace_width_mm": 0.37,
+      "length_mm": 5.776630734528299,
+      "reference": "In1.Cu /AGND",
+      "sample_count": 33,
+      "samples_without_reference_copper": [
+        {
+          "xy_mm": [
+            42.926,
+            58.293
+          ],
+          "inside_launch_region": true
+        },
+        {
+          "xy_mm": [
+            43.120235,
+            58.293
+          ],
+          "inside_launch_region": true
+        },
+        {
+          "xy_mm": [
+            43.314471,
+            58.293
+          ],
+          "inside_launch_region": true
+        },
+        {
+          "xy_mm": [
+            43.508706,
+            58.293
+          ],
+          "inside_launch_region": true
+        },
+        {
+          "xy_mm": [
+            43.702941,
+            58.293
+          ],
+          "inside_launch_region": true
+        },
+        {
+          "xy_mm": [
+            43.897176,
+            58.293
+          ],
+          "inside_launch_region": true
+        },
+        {
+          "xy_mm": [
+            44.091412,
+            58.293
+          ],
+          "inside_launch_region": true
+        },
+        {
+          "xy_mm": [
+            44.285647,
+            58.293
+          ],
+          "inside_launch_region": true
+        }
+      ]
+    }
+  ]
+}

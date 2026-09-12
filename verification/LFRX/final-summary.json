@@ -1,0 +1,18 @@
+{
+  "project": "LFRX",
+  "components": 36,
+  "erc": {
+    "warning:isolated_pin_label": 6
+  },
+  "drc": {
+    "warning:track_dangling": 8
+  },
+  "unconnected": 0,
+  "PCB_pin_net_mismatches": [],
+  "missing_PCB_components": [],
+  "empty_schematic_paths": [],
+  "duplicate_schematic_paths": [],
+  "ordinary_tracks_on_RF_reference": [],
+  "copper_outside_board_bounds": [],
+  "pcb_sha256": "f2190afb9e487d16eb72840f07be290aab28129d11bc1e5886f5fcce99713fd0"
+}

@@ -1,0 +1,286 @@
+{
+  "reference_layer": "In1.Cu AGND",
+  "ordinary_tracks_on_reference_layer": [],
+  "nets": {
+    "Net-(C102-Pad1)": {
+      "length_mm": 1.76,
+      "vias": 0,
+      "layers": [
+        "F.Cu"
+      ],
+      "samples": 10,
+      "reference_gaps": []
+    },
+    "Net-(C142-Pad1)": {
+      "length_mm": 3.0865180361560904,
+      "vias": 0,
+      "layers": [
+        "F.Cu"
+      ],
+      "samples": 20,
+      "reference_gaps": []
+    },
+    "Net-(J100-Pad1)": {
+      "length_mm": 3.49,
+      "vias": 0,
+      "layers": [
+        "F.Cu"
+      ],
+      "samples": 19,
+      "reference_gaps": [
+        {
+          "xy_mm": [
+            64.0,
+            12.0
+          ],
+          "own_PTH_launch": true
+        },
+        {
+          "xy_mm": [
+            63.806111,
+            12.0
+          ],
+          "own_PTH_launch": true
+        },
+        {
+          "xy_mm": [
+            63.612222,
+            12.0
+          ],
+          "own_PTH_launch": true
+        },
+        {
+          "xy_mm": [
+            63.418333,
+            12.0
+          ],
+          "own_PTH_launch": true
+        },
+        {
+          "xy_mm": [
+            63.224444,
+            12.0
+          ],
+          "own_PTH_launch": true
+        },
+        {
+          "xy_mm": [
+            63.030556,
+            12.0
+          ],
+          "own_PTH_launch": true
+        },
+        {
+          "xy_mm": [
+            62.836667,
+            12.0
+          ],
+          "own_PTH_launch": true
+        }
+      ]
+    },
+    "Net-(J140-Pad1)": {
+      "length_mm": 3.49,
+      "vias": 0,
+      "layers": [
+        "F.Cu"
+      ],
+      "samples": 19,
+      "reference_gaps": [
+        {
+          "xy_mm": [
+            64.0,
+            49.0
+          ],
+          "own_PTH_launch": true
+        },
+        {
+          "xy_mm": [
+            63.806111,
+            49.0
+          ],
+          "own_PTH_launch": true
+        },
+        {
+          "xy_mm": [
+            63.612222,
+            49.0
+          ],
+          "own_PTH_launch": true
+        },
+        {
+          "xy_mm": [
+            63.418333,
+            49.0
+          ],
+          "own_PTH_launch": true
+        },
+        {
+          "xy_mm": [
+            63.224444,
+            49.0
+          ],
+          "own_PTH_launch": true
+        },
+        {
+          "xy_mm": [
+            63.030556,
+            49.0
+          ],
+          "own_PTH_launch": true
+        },
+        {
+          "xy_mm": [
+            62.836667,
+            49.0
+          ],
+          "own_PTH_launch": true
+        }
+      ]
+    },
+    "Net-(U100B-RFIN)": {
+      "length_mm": 4.531423394966045,
+      "vias": 0,
+      "layers": [
+        "F.Cu"
+      ],
+      "samples": 30,
+      "reference_gaps": []
+    },
+    "Net-(U100D-UHFHIGH)": {
+      "length_mm": 2.7340382807437678,
+      "vias": 0,
+      "layers": [
+        "F.Cu"
+      ],
+      "samples": 20,
+      "reference_gaps": []
+    },
+    "Net-(U100D-UHFLOW)": {
+      "length_mm": 1.7426828996322965,
+      "vias": 0,
+      "layers": [
+        "F.Cu"
+      ],
+      "samples": 12,
+      "reference_gaps": []
+    },
+    "Net-(U100D-UHFSUPPLY)": {
+      "length_mm": 2.9069974746830582,
+      "vias": 0,
+      "layers": [
+        "F.Cu"
+      ],
+      "samples": 19,
+      "reference_gaps": []
+    },
+    "Net-(U100D-VHFHIGH)": {
+      "length_mm": 6.023292298949357,
+      "vias": 0,
+      "layers": [
+        "F.Cu"
+      ],
+      "samples": 37,
+      "reference_gaps": []
+    },
+    "Net-(U100D-VHFLOW)": {
+      "length_mm": 1.7136879502661797,
+      "vias": 0,
+      "layers": [
+        "F.Cu"
+      ],
+      "samples": 11,
+      "reference_gaps": []
+    },
+    "Net-(U100D-VHFSENSE)": {
+      "length_mm": 4.3263867729874415,
+      "vias": 0,
+      "layers": [
+        "F.Cu"
+      ],
+      "samples": 29,
+      "reference_gaps": []
+    },
+    "Net-(U100D-VHFSUPPLY)": {
+      "length_mm": 6.213450486369376,
+      "vias": 0,
+      "layers": [
+        "F.Cu"
+      ],
+      "samples": 43,
+      "reference_gaps": []
+    },
+    "Net-(U140B-RFIN)": {
+      "length_mm": 3.1431601717798214,
+      "vias": 0,
+      "layers": [
+        "F.Cu"
+      ],
+      "samples": 19,
+      "reference_gaps": []
+    },
+    "Net-(U140D-UHFHIGH)": {
+      "length_mm": 2.7340382807437678,
+      "vias": 0,
+      "layers": [
+        "F.Cu"
+      ],
+      "samples": 20,
+      "reference_gaps": []
+    },
+    "Net-(U140D-UHFLOW)": {
+      "length_mm": 1.7426828996322965,
+      "vias": 0,
+      "layers": [
+        "F.Cu"
+      ],
+      "samples": 12,
+      "reference_gaps": []
+    },
+    "Net-(U140D-UHFSUPPLY)": {
+      "length_mm": 2.9069974746830582,
+      "vias": 0,
+      "layers": [
+        "F.Cu"
+      ],
+      "samples": 19,
+      "reference_gaps": []
+    },
+    "Net-(U140D-VHFHIGH)": {
+      "length_mm": 5.793586937588513,
+      "vias": 0,
+      "layers": [
+        "F.Cu"
+      ],
+      "samples": 32,
+      "reference_gaps": []
+    },
+    "Net-(U140D-VHFLOW)": {
+      "length_mm": 1.7136879502661797,
+      "vias": 0,
+      "layers": [
+        "F.Cu"
+      ],
+      "samples": 11,
+      "reference_gaps": []
+    },
+    "Net-(U140D-VHFSENSE)": {
+      "length_mm": 4.315198252028768,
+      "vias": 0,
+      "layers": [
+        "F.Cu"
+      ],
+      "samples": 26,
+      "reference_gaps": []
+    },
+    "Net-(U140D-VHFSUPPLY)": {
+      "length_mm": 6.211457557256811,
+      "vias": 0,
+      "layers": [
+        "F.Cu"
+      ],
+      "samples": 44,
+      "reference_gaps": []
+    }
+  }
+}

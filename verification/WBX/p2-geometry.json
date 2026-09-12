@@ -1,0 +1,28 @@
+{
+  "violations": [],
+  "segments": 507,
+  "pins": 325,
+  "labelled_crossovers": [
+    {
+      "net": "RX_PUP_5V",
+      "crossing": [
+        66.04,
+        251.46
+      ]
+    },
+    {
+      "net": "RX_PUP_3V",
+      "crossing": [
+        186.69,
+        250.19
+      ]
+    },
+    {
+      "net": "P2_N091",
+      "crossing": [
+        302.26,
+        50.8
+      ]
+    }
+  ]
+}
