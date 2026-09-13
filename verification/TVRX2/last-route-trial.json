@@ -1,0 +1,534 @@
+{
+    "$schema": "https://schemas.kicad.org/drc.v1.json",
+    "coordinate_units": "mm",
+    "date": "2026-09-12T21:11:36",
+    "ignored_checks": [
+        {
+            "description": "Footprint has no courtyard defined",
+            "key": "missing_courtyard"
+        },
+        {
+            "description": "Track endpoint not centered on via",
+            "key": "track_not_centered_on_via"
+        },
+        {
+            "description": "Tuning profile track geometries",
+            "key": "tuning_profile_track_geometries"
+        },
+        {
+            "description": "Footprint doesn't match symbol's footprint filters",
+            "key": "footprint_filters_mismatch"
+        },
+        {
+            "description": "Footprint component type doesn't match footprint pads",
+            "key": "footprint_type_mismatch"
+        }
+    ],
+    "included_severities": [
+        "error",
+        "warning"
+    ],
+    "kicad_version": "10.0.5",
+    "schematic_parity": [],
+    "source": "TVRX2.kicad_pcb",
+    "unconnected_items": [],
+    "violations": [
+        {
+            "description": "Tracks crossing",
+            "items": [
+                {
+                    "description": "走线 [Net-(U100B-IFP)] (B.Cu), 长度: 3.4783 mm",
+                    "pos": {
+                        "x": 44.1161,
+                        "y": 13.9624
+                    },
+                    "uuid": "11e6ee6b-0965-4b31-82d5-8070fc0f583b"
+                },
+                {
+                    "description": "走线 [io_rx_03] (B.Cu), 长度: 4.6850 mm",
+                    "pos": {
+                        "x": 42.3748,
+                        "y": 16.397
+                    },
+                    "uuid": "95a4bcf4-572d-4aa9-9e79-c4e5bc608e36"
+                }
+            ],
+            "severity": "error",
+            "type": "tracks_crossing"
+        },
+        {
+            "description": "Tracks crossing",
+            "items": [
+                {
+                    "description": "走线 [io_rx_08] (B.Cu), 长度: 2.2000 mm",
+                    "pos": {
+                        "x": 33.1282,
+                        "y": 24.3177
+                    },
+                    "uuid": "906db7c5-cdbb-46f5-adaf-0c81d53ec811"
+                },
+                {
+                    "description": "走线 [io_rx_03] (B.Cu), 长度: 1.4005 mm",
+                    "pos": {
+                        "x": 33.9842,
+                        "y": 21.9566
+                    },
+                    "uuid": "d6eed7bc-0765-47cf-878d-1f91e98fd9f9"
+                }
+            ],
+            "severity": "error",
+            "type": "tracks_crossing"
+        },
+        {
+            "description": "间距违规 ( 间距 0.1500 mm; 实际 0.0358 mm)",
+            "items": [
+                {
+                    "description": "走线 [Net-(U140D-CAPREGVCO)] (B.Cu), 长度: 3.2527 mm",
+                    "pos": {
+                        "x": 50.25,
+                        "y": 45.55
+                    },
+                    "uuid": "0ce2a165-9785-435c-9c6e-38f34f0d4ce2"
+                },
+                {
+                    "description": "走线 [Net-(U140B-IFN)] (B.Cu), 长度: 1.6652 mm",
+                    "pos": {
+                        "x": 49.1388,
+                        "y": 41.857
+                    },
+                    "uuid": "2d8e1e87-de74-47e5-8a80-f940fbde5663"
+                }
+            ],
+            "severity": "error",
+            "type": "clearance"
+        },
+        {
+            "description": "间距违规 ( 间距 0.1500 mm; 实际 0.0358 mm)",
+            "items": [
+                {
+                    "description": "走线 [Net-(U140B-IFN)] (B.Cu), 长度: 1.6652 mm",
+                    "pos": {
+                        "x": 49.1388,
+                        "y": 41.857
+                    },
+                    "uuid": "2d8e1e87-de74-47e5-8a80-f940fbde5663"
+                },
+                {
+                    "description": "走线 [Net-(U140D-CAPREGVCO)] (B.Cu), 长度: 0.2200 mm",
+                    "pos": {
+                        "x": 47.95,
+                        "y": 43.25
+                    },
+                    "uuid": "b901574e-60b6-4b31-9b70-4f6808a66252"
+                }
+            ],
+            "severity": "error",
+            "type": "clearance"
+        },
+        {
+            "description": "间距违规 ( 间距 0.1500 mm; 实际 0.0011 mm)",
+            "items": [
+                {
+                    "description": "过孔 [Net-(U140D-CAPREGVCO)] (F.Cu - B.Cu)",
+                    "pos": {
+                        "x": 47.73,
+                        "y": 43.25
+                    },
+                    "uuid": "0634dfce-c938-4098-aa75-79cdc988d1f1"
+                },
+                {
+                    "description": "走线 [Net-(U140B-IFN)] (B.Cu), 长度: 1.6652 mm",
+                    "pos": {
+                        "x": 49.1388,
+                        "y": 41.857
+                    },
+                    "uuid": "2d8e1e87-de74-47e5-8a80-f940fbde5663"
+                }
+            ],
+            "severity": "error",
+            "type": "clearance"
+        },
+        {
+            "description": "短路了两个不同网络的项目 (网络 Net-(U140D-CAPREGVCO) 和 io_rx_05)",
+            "items": [
+                {
+                    "description": "过孔 [Net-(U140D-CAPREGVCO)] (F.Cu - B.Cu)",
+                    "pos": {
+                        "x": 47.73,
+                        "y": 43.25
+                    },
+                    "uuid": "0634dfce-c938-4098-aa75-79cdc988d1f1"
+                },
+                {
+                    "description": "走线 [io_rx_05] (In2.Cu), 长度: 0.6949 mm",
+                    "pos": {
+                        "x": 47.4477,
+                        "y": 43.2982
+                    },
+                    "uuid": "900582ba-b4e0-4370-a1c9-3be68409bbcf"
+                }
+            ],
+            "severity": "error",
+            "type": "shorting_items"
+        },
+        {
+            "description": "Tracks crossing",
+            "items": [
+                {
+                    "description": "走线 [Net-(U100A-XTOUT2)] (B.Cu), 长度: 2.5768 mm",
+                    "pos": {
+                        "x": 48.9454,
+                        "y": 14.2611
+                    },
+                    "uuid": "45282017-7230-4398-8c87-13d55fea38d2"
+                },
+                {
+                    "description": "走线 [io_rx_03] (B.Cu), 长度: 1.8868 mm",
+                    "pos": {
+                        "x": 46.5514,
+                        "y": 13.0842
+                    },
+                    "uuid": "c9e32032-6036-4342-b005-e65f45f91b4c"
+                }
+            ],
+            "severity": "error",
+            "type": "tracks_crossing"
+        },
+        {
+            "description": "Tracks crossing",
+            "items": [
+                {
+                    "description": "走线 [io_rx_03] (B.Cu), 长度: 5.5644 mm",
+                    "pos": {
+                        "x": 47.8856,
+                        "y": 11.75
+                    },
+                    "uuid": "4866ee70-663e-4785-9c46-3f3a841758ab"
+                },
+                {
+                    "description": "走线 [SDA] (B.Cu), 长度: 6.6995 mm",
+                    "pos": {
+                        "x": 52.9638,
+                        "y": 15.8872
+                    },
+                    "uuid": "ae222e52-d66c-4657-a7f7-629bf48c38b8"
+                }
+            ],
+            "severity": "error",
+            "type": "tracks_crossing"
+        },
+        {
+            "description": "Tracks crossing",
+            "items": [
+                {
+                    "description": "走线 [io_rx_03] (B.Cu), 长度: 1.0693 mm",
+                    "pos": {
+                        "x": 32.9939,
+                        "y": 22.9469
+                    },
+                    "uuid": "6cb8ca3e-b93c-453c-9335-e718fbc76a46"
+                },
+                {
+                    "description": "走线 [io_rx_09] (B.Cu), 长度: 1.8625 mm",
+                    "pos": {
+                        "x": 32.1282,
+                        "y": 24.3177
+                    },
+                    "uuid": "b77a0e90-bc2e-40c2-aa3a-6f1a63d9a201"
+                }
+            ],
+            "severity": "error",
+            "type": "tracks_crossing"
+        },
+        {
+            "description": "Tracks crossing",
+            "items": [
+                {
+                    "description": "走线 [io_rx_03] (B.Cu), 长度: 4.8837 mm",
+                    "pos": {
+                        "x": 37.4911,
+                        "y": 16.397
+                    },
+                    "uuid": "821f45d5-cead-4776-ad90-080fc54c685e"
+                },
+                {
+                    "description": "走线 [io_rx_02] (B.Cu), 长度: 9.1093 mm",
+                    "pos": {
+                        "x": 39.1282,
+                        "y": 24.3177
+                    },
+                    "uuid": "df140cce-fefd-48fd-8d64-1dffa43ed39a"
+                }
+            ],
+            "severity": "error",
+            "type": "tracks_crossing"
+        },
+        {
+            "description": "Tracks crossing",
+            "items": [
+                {
+                    "description": "走线 [Net-(U100B-IFN)] (B.Cu), 长度: 2.4698 mm",
+                    "pos": {
+                        "x": 46.3136,
+                        "y": 12.25
+                    },
+                    "uuid": "d16faece-9318-461b-9280-01335a5579b3"
+                },
+                {
+                    "description": "走线 [io_rx_03] (B.Cu), 长度: 0.8638 mm",
+                    "pos": {
+                        "x": 45.6876,
+                        "y": 13.0842
+                    },
+                    "uuid": "e64e1221-4d56-4d8b-83c9-8a5338cee733"
+                }
+            ],
+            "severity": "error",
+            "type": "tracks_crossing"
+        },
+        {
+            "description": "间距违规 ( 间距 0.1500 mm; 实际 0.0236 mm)",
+            "items": [
+                {
+                    "description": "走线 [io_rx_03] (B.Cu), 长度: 0.4074 mm",
+                    "pos": {
+                        "x": 31.9246,
+                        "y": 22.9469
+                    },
+                    "uuid": "5402d729-80e9-4c2f-b919-1a1742f741d3"
+                },
+                {
+                    "description": "走线 [io_rx_09] (B.Cu), 长度: 1.8625 mm",
+                    "pos": {
+                        "x": 32.1282,
+                        "y": 24.3177
+                    },
+                    "uuid": "b77a0e90-bc2e-40c2-aa3a-6f1a63d9a201"
+                }
+            ],
+            "severity": "error",
+            "type": "clearance"
+        },
+        {
+            "description": "Tracks crossing",
+            "items": [
+                {
+                    "description": "走线 [io_rx_03] (B.Cu), 长度: 5.5644 mm",
+                    "pos": {
+                        "x": 47.8856,
+                        "y": 11.75
+                    },
+                    "uuid": "4866ee70-663e-4785-9c46-3f3a841758ab"
+                },
+                {
+                    "description": "走线 [Net-(U100A-XTOUT1)] (B.Cu), 长度: 2.4840 mm",
+                    "pos": {
+                        "x": 48.0114,
+                        "y": 10.2092
+                    },
+                    "uuid": "ea017e3c-1c35-4efd-9b86-5910337b9333"
+                }
+            ],
+            "severity": "error",
+            "type": "tracks_crossing"
+        },
+        {
+            "description": "间距违规 ( 间距 0.1500 mm; 实际 0.1484 mm)",
+            "items": [
+                {
+                    "description": "过孔 [Net-(U140D-CAPREGVCO)] (F.Cu - B.Cu)",
+                    "pos": {
+                        "x": 47.73,
+                        "y": 43.25
+                    },
+                    "uuid": "0634dfce-c938-4098-aa75-79cdc988d1f1"
+                },
+                {
+                    "description": "走线 [Net-(U140B-VIFAGC)] (B.Cu), 长度: 3.0554 mm",
+                    "pos": {
+                        "x": 48.394,
+                        "y": 41.9306
+                    },
+                    "uuid": "94717e52-c09a-4e82-a899-655b63b0cab4"
+                }
+            ],
+            "severity": "error",
+            "type": "clearance"
+        },
+        {
+            "description": "Tracks crossing",
+            "items": [
+                {
+                    "description": "走线 [Net-(U100C-AS_XTSEL)] (B.Cu), 长度: 4.1546 mm",
+                    "pos": {
+                        "x": 53.45,
+                        "y": 12.75
+                    },
+                    "uuid": "9683d39b-e0f2-45ff-8ff8-11e4bc319bc6"
+                },
+                {
+                    "description": "走线 [3_3V_RF] (B.Cu), 长度: 5.5548 mm",
+                    "pos": {
+                        "x": 55.4047,
+                        "y": 15.2387
+                    },
+                    "uuid": "bf7b6f5e-1c3c-4fa5-9f71-f25a5c65392b"
+                }
+            ],
+            "severity": "error",
+            "type": "tracks_crossing"
+        },
+        {
+            "description": "底层阻焊开窗区域与不同网络的项目相连",
+            "items": [
+                {
+                    "description": "走线 [io_rx_03] (B.Cu), 长度: 0.4074 mm",
+                    "pos": {
+                        "x": 31.9246,
+                        "y": 22.9469
+                    },
+                    "uuid": "5402d729-80e9-4c2f-b919-1a1742f741d3"
+                },
+                {
+                    "description": "B.Cu 上 J2 的焊盘 18 [io_rx_09]",
+                    "pos": {
+                        "x": 32.128184,
+                        "y": 24.317712
+                    },
+                    "uuid": "f954aa3b-1cf7-58e9-b4d6-181659edbb7c"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "底层阻焊开窗区域与不同网络的项目相连",
+            "items": [
+                {
+                    "description": "走线 [io_rx_03] (B.Cu), 长度: 1.0693 mm",
+                    "pos": {
+                        "x": 32.9939,
+                        "y": 22.9469
+                    },
+                    "uuid": "6cb8ca3e-b93c-453c-9335-e718fbc76a46"
+                },
+                {
+                    "description": "B.Cu 上 J2 的焊盘 18 [io_rx_09]",
+                    "pos": {
+                        "x": 32.128184,
+                        "y": 24.317712
+                    },
+                    "uuid": "f954aa3b-1cf7-58e9-b4d6-181659edbb7c"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "底层阻焊开窗区域与不同网络的项目相连",
+            "items": [
+                {
+                    "description": "走线 [io_rx_03] (B.Cu), 长度: 1.0693 mm",
+                    "pos": {
+                        "x": 32.9939,
+                        "y": 22.9469
+                    },
+                    "uuid": "6cb8ca3e-b93c-453c-9335-e718fbc76a46"
+                },
+                {
+                    "description": "B.Cu 上 J2 的焊盘 20 [io_rx_08]",
+                    "pos": {
+                        "x": 33.128182,
+                        "y": 24.317712
+                    },
+                    "uuid": "ecf69833-2e38-5346-ac6d-e2bb3066a4f2"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "底层阻焊开窗区域与不同网络的项目相连",
+            "items": [
+                {
+                    "description": "走线 [io_rx_03] (B.Cu), 长度: 1.4005 mm",
+                    "pos": {
+                        "x": 33.9842,
+                        "y": 21.9566
+                    },
+                    "uuid": "d6eed7bc-0765-47cf-878d-1f91e98fd9f9"
+                },
+                {
+                    "description": "B.Cu 上 J2 的焊盘 20 [io_rx_08]",
+                    "pos": {
+                        "x": 33.128182,
+                        "y": 24.317712
+                    },
+                    "uuid": "ecf69833-2e38-5346-ac6d-e2bb3066a4f2"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Track has unconnected end",
+            "items": [
+                {
+                    "description": "走线 [3_3V_RF] (B.Cu), 长度: 0.1081 mm",
+                    "pos": {
+                        "x": 29.1771,
+                        "y": 41.4564
+                    },
+                    "uuid": "632f53c9-3e6e-4b56-a907-bf1e807e757d"
+                }
+            ],
+            "severity": "warning",
+            "type": "track_dangling"
+        },
+        {
+            "description": "Track has unconnected end",
+            "items": [
+                {
+                    "description": "走线 [3_3V_RF] (B.Cu), 长度: 2.0975 mm",
+                    "pos": {
+                        "x": 25.7202,
+                        "y": 47.0108
+                    },
+                    "uuid": "86fcccfd-b544-4f44-a28d-350bdfb34028"
+                }
+            ],
+            "severity": "warning",
+            "type": "track_dangling"
+        },
+        {
+            "description": "Track has unconnected end",
+            "items": [
+                {
+                    "description": "走线 [Net-(U100A-XTOUT1)] (B.Cu), 长度: 0.7603 mm",
+                    "pos": {
+                        "x": 49.7802,
+                        "y": 14.462
+                    },
+                    "uuid": "e0ef2ca5-001e-4caf-9f8e-a1a5a38a9a10"
+                }
+            ],
+            "severity": "warning",
+            "type": "track_dangling"
+        },
+        {
+            "description": "Track has unconnected end",
+            "items": [
+                {
+                    "description": "走线 [U4_TEST2] (In2.Cu), 长度: 0.2066 mm",
+                    "pos": {
+                        "x": 26.9544,
+                        "y": 45.1933
+                    },
+                    "uuid": "0e8ae76e-45dd-4f5e-922a-77656ba8f24f"
+                }
+            ],
+            "severity": "warning",
+            "type": "track_dangling"
+        }
+    ]
+}

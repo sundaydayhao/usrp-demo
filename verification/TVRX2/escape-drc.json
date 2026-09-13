@@ -1,0 +1,396 @@
+{
+    "$schema": "https://schemas.kicad.org/drc.v1.json",
+    "coordinate_units": "mm",
+    "date": "2026-09-12T20:41:13",
+    "ignored_checks": [
+        {
+            "description": "Footprint has no courtyard defined",
+            "key": "missing_courtyard"
+        },
+        {
+            "description": "Track endpoint not centered on via",
+            "key": "track_not_centered_on_via"
+        },
+        {
+            "description": "Tuning profile track geometries",
+            "key": "tuning_profile_track_geometries"
+        },
+        {
+            "description": "Footprint doesn't match symbol's footprint filters",
+            "key": "footprint_filters_mismatch"
+        },
+        {
+            "description": "Footprint component type doesn't match footprint pads",
+            "key": "footprint_type_mismatch"
+        }
+    ],
+    "included_severities": [
+        "error",
+        "warning"
+    ],
+    "kicad_version": "10.0.5",
+    "schematic_parity": [],
+    "source": "TVRX2.kicad_pcb",
+    "unconnected_items": [
+        {
+            "description": "Missing connection between items",
+            "items": [
+                {
+                    "description": "走线 [3_3V_RF] (F.Cu), 长度: 0.4875 mm",
+                    "pos": {
+                        "x": 50.75,
+                        "y": 50.9375
+                    },
+                    "uuid": "1b74e3b9-0936-49e0-8d88-3369660f572c"
+                },
+                {
+                    "description": "走线 [3_3V_RF] (F.Cu), 长度: 5.8036 mm",
+                    "pos": {
+                        "x": 51.75,
+                        "y": 53.77
+                    },
+                    "uuid": "dee81717-07f8-4f24-9e61-ac8ae141908c"
+                }
+            ],
+            "severity": "error",
+            "type": "unconnected_items"
+        },
+        {
+            "description": "Missing connection between items",
+            "items": [
+                {
+                    "description": "走线 [3_3V_RF] (In2.Cu), 长度: 2.7692 mm",
+                    "pos": {
+                        "x": 55.1864,
+                        "y": 15.457
+                    },
+                    "uuid": "eb185642-8ba3-4705-9ad2-47ae897b1fd3"
+                },
+                {
+                    "description": "走线 [3_3V_RF] (F.Cu), 长度: 0.4875 mm",
+                    "pos": {
+                        "x": 50.75,
+                        "y": 15.9375
+                    },
+                    "uuid": "a0a7010c-d3a3-4676-9f9e-401cea2e32ed"
+                }
+            ],
+            "severity": "error",
+            "type": "unconnected_items"
+        },
+        {
+            "description": "Missing connection between items",
+            "items": [
+                {
+                    "description": "走线 [Net-(U100C-AS_XTSEL)] (F.Cu), 长度: 0.4875 mm",
+                    "pos": {
+                        "x": 53.9375,
+                        "y": 12.75
+                    },
+                    "uuid": "b29cde90-beed-4b46-a4dc-a4b3db607993"
+                },
+                {
+                    "description": "走线 [Net-(U100C-AS_XTSEL)] (F.Cu), 长度: 0.7951 mm",
+                    "pos": {
+                        "x": 55.74,
+                        "y": 13.5
+                    },
+                    "uuid": "08cfff51-a8d2-45f7-9b88-5bc483dc0b74"
+                }
+            ],
+            "severity": "error",
+            "type": "unconnected_items"
+        },
+        {
+            "description": "Missing connection between items",
+            "items": [
+                {
+                    "description": "走线 [Net-(U80A-IO_GCK0)] (F.Cu), 长度: 0.3536 mm",
+                    "pos": {
+                        "x": 25.51,
+                        "y": 39.5
+                    },
+                    "uuid": "e2d70bb8-fdac-4f6d-9038-77438f498e8f"
+                },
+                {
+                    "description": "过孔 [Net-(U80A-IO_GCK0)] (F.Cu - B.Cu)",
+                    "pos": {
+                        "x": 26.5,
+                        "y": 44.75
+                    },
+                    "uuid": "55d1463f-bce3-47fe-b666-9691881cfeed"
+                }
+            ],
+            "severity": "error",
+            "type": "unconnected_items"
+        },
+        {
+            "description": "Missing connection between items",
+            "items": [
+                {
+                    "description": "F.Cu 上 R112 的焊盘 1 [Net-(U100B-STO)]",
+                    "pos": {
+                        "x": 56.25,
+                        "y": 31.74
+                    },
+                    "uuid": "aa3443cd-0934-51d8-a832-60eced2ca17f"
+                },
+                {
+                    "description": "F.Cu 上 U100 的焊盘 4 [Net-(U100B-STO)]",
+                    "pos": {
+                        "x": 53.9375,
+                        "y": 13.75
+                    },
+                    "uuid": "81a6a839-a440-5aaa-937a-6c82d132c3de"
+                }
+            ],
+            "severity": "error",
+            "type": "unconnected_items"
+        },
+        {
+            "description": "Missing connection between items",
+            "items": [
+                {
+                    "description": "走线 [io_rx_03] (B.Cu), 长度: 1.3403 mm",
+                    "pos": {
+                        "x": 38.1282,
+                        "y": 22.6155
+                    },
+                    "uuid": "91bbbb50-91af-49ba-bfb2-571a735ea900"
+                },
+                {
+                    "description": "走线 [io_rx_03] (F.Cu), 长度: 0.4875 mm",
+                    "pos": {
+                        "x": 53.9375,
+                        "y": 11.75
+                    },
+                    "uuid": "69cf3a9d-6f81-4b9c-ac90-03b0d42879a6"
+                }
+            ],
+            "severity": "error",
+            "type": "unconnected_items"
+        },
+        {
+            "description": "Missing connection between items",
+            "items": [
+                {
+                    "description": "走线 [io_rx_07] (In2.Cu), 长度: 5.0175 mm",
+                    "pos": {
+                        "x": 32.5159,
+                        "y": 24.1548
+                    },
+                    "uuid": "bfc8e83c-41ca-4778-afe7-16a64b945054"
+                },
+                {
+                    "description": "过孔 [io_rx_07] (F.Cu - B.Cu)",
+                    "pos": {
+                        "x": 53.45,
+                        "y": 46.75
+                    },
+                    "uuid": "70e97571-e0f7-45bb-9228-f2f121cbfd8a"
+                }
+            ],
+            "severity": "error",
+            "type": "unconnected_items"
+        },
+        {
+            "description": "Missing connection between items",
+            "items": [
+                {
+                    "description": "F.Cu 上 U140 的焊盘 17 [Net-(U140D-CAPREGVCO)]",
+                    "pos": {
+                        "x": 50.25,
+                        "y": 45.0625
+                    },
+                    "uuid": "97523d40-bab9-5ca6-a75b-860e0442f072"
+                },
+                {
+                    "description": "F.Cu 上 C258 的焊盘 1 [Net-(U140D-CAPREGVCO)]",
+                    "pos": {
+                        "x": 47.73,
+                        "y": 43.25
+                    },
+                    "uuid": "09ca0618-1aa8-5b2c-b6d1-e03880a66c0d"
+                }
+            ],
+            "severity": "error",
+            "type": "unconnected_items"
+        }
+    ],
+    "violations": [
+        {
+            "description": "短路了两个不同网络的项目 (网络 U4_TEST2 和 Net-(U80A-IO_GCK0))",
+            "items": [
+                {
+                    "description": "走线 [U4_TEST2] (In2.Cu), 长度: 4.1475 mm",
+                    "pos": {
+                        "x": 24.0217,
+                        "y": 42.2606
+                    },
+                    "uuid": "4ac7565c-d416-4e27-830e-e42722345cc4"
+                },
+                {
+                    "description": "过孔 [Net-(U80A-IO_GCK0)] (F.Cu - B.Cu)",
+                    "pos": {
+                        "x": 26.5,
+                        "y": 44.75
+                    },
+                    "uuid": "55d1463f-bce3-47fe-b666-9691881cfeed"
+                }
+            ],
+            "severity": "error",
+            "type": "shorting_items"
+        },
+        {
+            "description": "间距违规 ( 间距 0.1500 mm; 实际 0.0109 mm)",
+            "items": [
+                {
+                    "description": "过孔 [Net-(U80A-IO_GCK0)] (F.Cu - B.Cu)",
+                    "pos": {
+                        "x": 26.5,
+                        "y": 44.75
+                    },
+                    "uuid": "55d1463f-bce3-47fe-b666-9691881cfeed"
+                },
+                {
+                    "description": "走线 [3_3V_RF] (B.Cu), 长度: 4.8888 mm",
+                    "pos": {
+                        "x": 25.7202,
+                        "y": 44.9133
+                    },
+                    "uuid": "88c9ee4c-da44-4e66-9843-21b698169620"
+                }
+            ],
+            "severity": "error",
+            "type": "clearance"
+        },
+        {
+            "description": "间距违规 ( 间距 0.1500 mm; 实际 0.1172 mm)",
+            "items": [
+                {
+                    "description": "走线 [Net-(U100A-XTOUT1)] (B.Cu), 长度: 7.1295 mm",
+                    "pos": {
+                        "x": 50.3178,
+                        "y": 14.9996
+                    },
+                    "uuid": "c169b988-06a2-4d2a-8d37-13a763377e96"
+                },
+                {
+                    "description": "过孔 [3_3V_RF] (F.Cu - B.Cu)",
+                    "pos": {
+                        "x": 50.75,
+                        "y": 15.45
+                    },
+                    "uuid": "ed4e1346-36e6-493a-8a78-46aa2e88143a"
+                }
+            ],
+            "severity": "error",
+            "type": "clearance"
+        },
+        {
+            "description": "Via is not connected or connected on only one layer",
+            "items": [
+                {
+                    "description": "过孔 [3_3V_RF] (F.Cu - B.Cu)",
+                    "pos": {
+                        "x": 50.75,
+                        "y": 50.45
+                    },
+                    "uuid": "1aa76e36-4589-448c-9adc-f7c0ef325d4e"
+                }
+            ],
+            "severity": "warning",
+            "type": "via_dangling"
+        },
+        {
+            "description": "Via is not connected or connected on only one layer",
+            "items": [
+                {
+                    "description": "过孔 [3_3V_RF] (F.Cu - B.Cu)",
+                    "pos": {
+                        "x": 50.75,
+                        "y": 15.45
+                    },
+                    "uuid": "ed4e1346-36e6-493a-8a78-46aa2e88143a"
+                }
+            ],
+            "severity": "warning",
+            "type": "via_dangling"
+        },
+        {
+            "description": "Via is not connected or connected on only one layer",
+            "items": [
+                {
+                    "description": "过孔 [Net-(U100C-AS_XTSEL)] (F.Cu - B.Cu)",
+                    "pos": {
+                        "x": 53.45,
+                        "y": 12.75
+                    },
+                    "uuid": "28a8e3a9-92cf-4e89-aef3-72f3e74f0cff"
+                }
+            ],
+            "severity": "warning",
+            "type": "via_dangling"
+        },
+        {
+            "description": "Via is not connected or connected on only one layer",
+            "items": [
+                {
+                    "description": "过孔 [Net-(U100B-STO)] (F.Cu - B.Cu)",
+                    "pos": {
+                        "x": 53.45,
+                        "y": 13.75
+                    },
+                    "uuid": "30e46783-80c3-4485-8e59-131084cc8221"
+                }
+            ],
+            "severity": "warning",
+            "type": "via_dangling"
+        },
+        {
+            "description": "Via is not connected or connected on only one layer",
+            "items": [
+                {
+                    "description": "过孔 [io_rx_03] (F.Cu - B.Cu)",
+                    "pos": {
+                        "x": 53.45,
+                        "y": 11.75
+                    },
+                    "uuid": "8cc80c95-e7e4-441d-8a2d-bb73ad4701f3"
+                }
+            ],
+            "severity": "warning",
+            "type": "via_dangling"
+        },
+        {
+            "description": "Via is not connected or connected on only one layer",
+            "items": [
+                {
+                    "description": "过孔 [io_rx_07] (F.Cu - B.Cu)",
+                    "pos": {
+                        "x": 53.45,
+                        "y": 46.75
+                    },
+                    "uuid": "70e97571-e0f7-45bb-9228-f2f121cbfd8a"
+                }
+            ],
+            "severity": "warning",
+            "type": "via_dangling"
+        },
+        {
+            "description": "Via is not connected or connected on only one layer",
+            "items": [
+                {
+                    "description": "过孔 [Net-(U140D-CAPREGVCO)] (F.Cu - B.Cu)",
+                    "pos": {
+                        "x": 50.25,
+                        "y": 45.55
+                    },
+                    "uuid": "8b4062d4-608f-4651-a0a8-2e464bc834f6"
+                }
+            ],
+            "severity": "warning",
+            "type": "via_dangling"
+        }
+    ]
+}

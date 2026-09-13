@@ -1,0 +1,57 @@
+[
+  {
+    "junction_from_mm": [
+      54.864,
+      19.558
+    ],
+    "junction_to_mm": [
+      54.5592,
+      19.6596
+    ],
+    "layer": null
+  },
+  {
+    "junction_from_mm": [
+      5.700014,
+      37.211
+    ],
+    "junction_to_mm": [
+      5.700014,
+      37.2872
+    ],
+    "layer": 6
+  },
+  {
+    "junction_from_mm": [
+      4.318,
+      37.211
+    ],
+    "junction_to_mm": [
+      4.318,
+      37.2872
+    ],
+    "layer": 6
+  },
+  {
+    "junction_from_mm": [
+      11.684,
+      7.874
+    ],
+    "junction_to_mm": [
+      11.684,
+      7.7978
+    ],
+    "layer": 6
+  },
+  {
+    "junction_from_mm": [
+      4.191,
+      7.874
+    ],
+    "junction_to_mm": [
+      4.191,
+      7.7978
+    ],
+    "layer": 6
+  }
+]

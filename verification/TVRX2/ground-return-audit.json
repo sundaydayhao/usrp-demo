@@ -1,0 +1,8 @@
+{
+  "ground_vias": 98,
+  "ground_pads_without_local_via": [
+    "U100.18",
+    "U140.18"
+  ],
+  "RF_tracks_locked": 64
+}

@@ -1,0 +1,13 @@
+{
+  "positions_mm": {
+    "C509": [
+      47.5,
+      33.75
+    ],
+    "C521": [
+      40.5,
+      34.25
+    ]
+  },
+  "ordinary_segments_removed_for_local_reroute": 26
+}

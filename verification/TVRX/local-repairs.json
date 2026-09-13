@@ -1,0 +1,7 @@
+[
+  {
+    "pad": "U2.22",
+    "diameter_mm": 3.9,
+    "reason": "retain tuner mounting drill while clearing board edge"
+  }
+]
