@@ -62,6 +62,94 @@
 			)
 		)
 	)
+	(property "Manufacturer" "Samsung Electro-Mechanics"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "973e147a-ae11-553e-8591-c7f0284f90b0")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "MPN" "CL05B104KO5NNNC"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "17f17a3a-703a-5991-8a64-e5cde67f0c32")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "LCSC" "C1525"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7358e2fd-1647-5834-a9b8-a83898923141")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Sourcing_status" "已核对0402与电源对地去耦连接；待实机电源噪声验证"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4bf6be07-5b45-5ecd-95e8-2651d1c38a29")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Specification" "0402; 100 nF; X7R; 16 V; +/-10%; 电源去耦；需考虑直流偏压降容"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "bc81da6f-2b68-51d0-96a3-3de55fcb357e")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Evidence" "https://datasheet.lcsc.com/datasheet/pdf/02336ea48ea44ca18c72517dd3cb7b47.pdf?productCode=C1525"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "de128e8c-d97e-5073-ac41-69023027c60b")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Approved_brands" "Murata / TDK / Samsung Electro-Mechanics / Walsin / FH / EYANG"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4ee8074b-85bc-5f95-9ab2-b08bd8db70df")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Sourcing_policy" "国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "85fb809c-fc73-569a-8552-5c6cf57b0909")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
 	(attr smd)
 	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line

@@ -62,6 +62,94 @@
 			)
 		)
 	)
+	(property "Manufacturer" "YAGEO"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "310c0fac-4738-54be-8758-e2f8fef3178c")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "MPN" "RC0402FR-071KL"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "808d9ffe-54df-568d-bab6-160005e6d107")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "LCSC" "C106235"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5905b6be-fc6a-5376-b242-924f6f808dc2")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Sourcing_status" "已核对厂家规格和库存目录；控制/AGC/偏置电阻"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1f020467-f138-57d1-9396-849b306e4db4")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Specification" "0402; 1 kohm; +/-1%; 1/16 W at 70 C; +/-100 ppm/C; 50 V（功率限制优先）"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6c093b08-5379-5809-af77-e015054eace9")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Evidence" "https://www.yageogroup.com/component-documentation/download/specsheet/RC0402FR-071KL"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1b2b94b6-306d-5a83-822d-77809771d4a2")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Approved_brands" "YAGEO / Vishay / Panasonic / UNI-ROYAL / FH"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "aa3200bc-ce82-5cab-8891-bb0a20e72c5a")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Sourcing_policy" "国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "de113611-eb32-5e03-a6f5-8bde6002c0cc")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
 	(attr smd)
 	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line

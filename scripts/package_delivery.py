@@ -9,11 +9,15 @@ for name in names:
  assert not s['unconnected'] and not any(k.startswith('error:') for k in [*s['erc'],*s['drc']]),name
  for key in ['PCB_pin_net_mismatches','missing_PCB_components','empty_schematic_paths','duplicate_schematic_paths','ordinary_tracks_on_RF_reference','copper_outside_board_bounds']:assert not s[key],(name,key)
  assert hashlib.sha256((d/(name+'.kicad_pcb')).read_bytes()).hexdigest()==s['pcb_sha256'],name+' stale board checks'
+ component=json.loads((v/'component-update-review.json').read_text(encoding='utf-8'))
+ assert component['machine_review']=='PASS' and component['pcb_sha256']==s['pcb_sha256'],name+' stale component review'
+ for filename,digest in component['schematic_sha256'].items():assert hashlib.sha256((d/filename).read_bytes()).hexdigest()==digest,name+' stale schematic review'
+ assert hashlib.sha256((d/'BOM-sourcing.csv').read_bytes()).hexdigest()==component['BOM_sha256'],name+' stale BOM review'
  files += [p for p in d.rglob('*') if p.is_file() and p.suffix not in ['.kicad_prl','.svg','.png'] and not p.name.startswith('~')]
- wanted=['final-summary.json','final-rf-audit.json','erc.json','drc.json','validation-summary.json','independent-reference-audit.json','assembly-labels.json','rf-net-classes.json','delivery-review.json','source-netlist.json','reconstructed-netlist.json','pcb-import-audit.json','footprint-audit.json','kicad-net-name-map.json','rf-audit.json','dangling-cleanup.json','3d-models.json','3d-review.json']
+ wanted=['final-summary.json','final-rf-audit.json','erc.json','drc.json','validation-summary.json','independent-reference-audit.json','assembly-labels.json','rf-net-classes.json','delivery-review.json','source-netlist.json','reconstructed-netlist.json','pcb-import-audit.json','footprint-audit.json','kicad-net-name-map.json','rf-audit.json','dangling-cleanup.json','3d-models.json','3d-review.json','component-update-review.json']
  files += [v/f for f in wanted if (v/f).exists()]
  files += list(v.glob('*geometry.json'))
-files += [ROOT/f for f in ['README.md','DESIGN_NOTES.md','REVIEW.md','3D_MODELS.md','verification/3d-review-summary.json','verification/3d-import-alignment.json','deliverables/3D-previews.pdf'] if (ROOT/f).exists()]
+files += [ROOT/f for f in ['README.md','DESIGN_NOTES.md','REVIEW.md','3D_MODELS.md','COMPONENT_UPDATE.md','verification/3d-review-summary.json','verification/3d-import-alignment.json','verification/component-update-summary.json','verification/component-update-visual.json','deliverables/3D-previews.pdf','deliverables/AT24C02-review.pdf'] if (ROOT/f).exists()]
 files += list((ROOT/'usrp1-daughterboard').glob('*.pdf'))
 files += [p for p in (ROOT/'scripts').glob('*') if p.suffix in ['.py','.md','.json'] and p.name!='inspect_wbx_pending.py']
 manifest={'created_utc':datetime.datetime.now(datetime.timezone.utc).isoformat(),'KiCad':'10.0.5','projects':names,'purpose':'Editable CAD prototype review; hardware and RF validation pending','files':{str(p.relative_to(ROOT)).replace('\\','/'):hashlib.sha256(p.read_bytes()).hexdigest() for p in sorted(set(files))}}

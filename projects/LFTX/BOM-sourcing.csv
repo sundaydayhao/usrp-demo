@@ -1,56 +1,56 @@
-﻿Reference,Value,Footprint,Manufacturer,MPN,LCSC,Sourcing_status,Specification,Source_value,Evidence
-C1,1uF,USRP:C1,FH 风华高科,,,规格选型，待锁定料号,按项目焊盘尺寸；RF/匹配/PLL环路优先 C0G；去耦 X7R；耐压 >=16 V；保留原容差,1uF,
-C2,1uF,USRP:C2,FH 风华高科,,,规格选型，待锁定料号,按项目焊盘尺寸；RF/匹配/PLL环路优先 C0G；去耦 X7R；耐压 >=16 V；保留原容差,1uF,
-C3,10uF,USRP:C3,FH 风华高科,,,规格选型，待锁定料号,按项目焊盘尺寸；RF/匹配/PLL环路优先 C0G；去耦 X7R；耐压 >=16 V；保留原容差,10uF,
-C4,22pF,USRP:C4,FH 风华高科,,,规格选型，待锁定料号,按项目焊盘尺寸；RF/匹配/PLL环路优先 C0G；去耦 X7R；耐压 >=16 V；保留原容差,22pF,
-C5,220pF,USRP:C5,FH 风华高科,,,规格选型，待锁定料号,按项目焊盘尺寸；RF/匹配/PLL环路优先 C0G；去耦 X7R；耐压 >=16 V；保留原容差,220pF,
-C6,0.1uF,USRP:C6,FH 风华高科,0603B104K500NT,C30926,已核对目录料号，0603 时采用,0603; 100 nF; X7R; 50 V; +/-10%,0.1uF,https://item.szlcsc.com/31683.html
-C8,0.1uF,USRP:C8,FH 风华高科,0603B104K500NT,C30926,已核对目录料号，0603 时采用,0603; 100 nF; X7R; 50 V; +/-10%,0.1uF,https://item.szlcsc.com/31683.html
-C10,220pF,USRP:C10,FH 风华高科,,,规格选型，待锁定料号,按项目焊盘尺寸；RF/匹配/PLL环路优先 C0G；去耦 X7R；耐压 >=16 V；保留原容差,220pF,
-C11,10uF,USRP:C11,FH 风华高科,,,规格选型，待锁定料号,按项目焊盘尺寸；RF/匹配/PLL环路优先 C0G；去耦 X7R；耐压 >=16 V；保留原容差,10uF,
-C12,0.1uF,USRP:C12,FH 风华高科,0603B104K500NT,C30926,已核对目录料号，0603 时采用,0603; 100 nF; X7R; 50 V; +/-10%,0.1uF,https://item.szlcsc.com/31683.html
-C14,20pF,USRP:C14,FH 风华高科,,,规格选型，待锁定料号,按项目焊盘尺寸；RF/匹配/PLL环路优先 C0G；去耦 X7R；耐压 >=16 V；保留原容差,20pF,
-C15,20pF,USRP:C15,FH 风华高科,,,规格选型，待锁定料号,按项目焊盘尺寸；RF/匹配/PLL环路优先 C0G；去耦 X7R；耐压 >=16 V；保留原容差,20pF,
-C20,0.1uF,USRP:C20,FH 风华高科,0603B104K500NT,C30926,已核对目录料号，0603 时采用,0603; 100 nF; X7R; 50 V; +/-10%,0.1uF,https://item.szlcsc.com/31683.html
-C21,220pF,USRP:C21,FH 风华高科,,,规格选型，待锁定料号,按项目焊盘尺寸；RF/匹配/PLL环路优先 C0G；去耦 X7R；耐压 >=16 V；保留原容差,220pF,
-C22,0.1uF,USRP:C22,FH 风华高科,0603B104K500NT,C30926,已核对目录料号，0603 时采用,0603; 100 nF; X7R; 50 V; +/-10%,0.1uF,https://item.szlcsc.com/31683.html
-C23,0.1uF,USRP:C23,FH 风华高科,0603B104K500NT,C30926,已核对目录料号，0603 时采用,0603; 100 nF; X7R; 50 V; +/-10%,0.1uF,https://item.szlcsc.com/31683.html
-C31,100pF,USRP:C31,FH 风华高科,,,规格选型，待锁定料号,按项目焊盘尺寸；RF/匹配/PLL环路优先 C0G；去耦 X7R；耐压 >=16 V；保留原容差,100pF,
-C32,100pF,USRP:C32,FH 风华高科,,,规格选型，待锁定料号,按项目焊盘尺寸；RF/匹配/PLL环路优先 C0G；去耦 X7R；耐压 >=16 V；保留原容差,100pF,
-C33,4.7pF,USRP:C33,FH 风华高科,,,规格选型，待锁定料号,按项目焊盘尺寸；RF/匹配/PLL环路优先 C0G；去耦 X7R；耐压 >=16 V；保留原容差,4.7pF,
-C34,4.7pF,USRP:C34,FH 风华高科,,,规格选型，待锁定料号,按项目焊盘尺寸；RF/匹配/PLL环路优先 C0G；去耦 X7R；耐压 >=16 V；保留原容差,4.7pF,
-FB1,600R@100MHz,USRP:FB1,Sunlord 顺络,GZ3216D601TF,,新选磁珠；需测电源噪声与压降,1206; 600 ohm @100 MHz; 600 mA; DCR <=0.30 ohm,100uH,https://atta.szlcsc.com/upload/public/pdf/source/20151029/1457707509886.pdf
-FB2,600R@100MHz,USRP:FB2,Sunlord 顺络,GZ3216D601TF,,新选磁珠；需测电源噪声与压降,1206; 600 ohm @100 MHz; 600 mA; DCR <=0.30 ohm,100uH,https://atta.szlcsc.com/upload/public/pdf/source/20151029/1457707509886.pdf
-J44,PMC64,USRP:J44,,,,规格选型，待锁定料号,按工程封装和 USRP1 接口核对插合方向、针脚与高度,PMC64,
-J45,HEADER20,USRP:J45,,,,规格选型，待锁定料号,按工程封装和 USRP1 接口核对插合方向、针脚与高度,HEADER20,
-J46,HEADER16,USRP:J46,,,,规格选型，待锁定料号,按工程封装和 USRP1 接口核对插合方向、针脚与高度,HEADER16,
-J47,HEADER10,USRP:J47,,,,规格选型，待锁定料号,按工程封装和 USRP1 接口核对插合方向、针脚与高度,HEADER10,
-J48,SMA5,USRP:J48,,,,规格选型，待锁定料号,按工程封装和 USRP1 接口核对插合方向、针脚与高度,SMA5,
-J49,SMA5,USRP:J49,,,,规格选型，待锁定料号,按工程封装和 USRP1 接口核对插合方向、针脚与高度,SMA5,
-J50,HEADER16,USRP:J50,,,,规格选型，待锁定料号,按工程封装和 USRP1 接口核对插合方向、针脚与高度,HEADER16,
-J51,HEADER16,USRP:J51,,,,规格选型，待锁定料号,按工程封装和 USRP1 接口核对插合方向、针脚与高度,HEADER16,
-L1,22uH,USRP:L1,Sunlord 顺络 / FH 风华高科,,,规格选型，待锁定料号,RF电感须核对 Q、SRF、DCR 与偏置电流，按原值及容差；磁珠按阻抗曲线选型,22uH,
-L2,22uH,USRP:L2,Sunlord 顺络 / FH 风华高科,,,规格选型，待锁定料号,RF电感须核对 Q、SRF、DCR 与偏置电流，按原值及容差；磁珠按阻抗曲线选型,22uH,
-R1,68.1K,USRP:R1,UNI-ROYAL 厚声,,,规格选型，待锁定料号,0603; <=1%; >=0.1 W; 按原值采购；反馈/终端电阻需同批次,68.1K,
-R2,178K,USRP:R2,UNI-ROYAL 厚声,,,规格选型，待锁定料号,0603; <=1%; >=0.1 W; 按原值采购；反馈/终端电阻需同批次,178K,
-R3,225,USRP:R3,UNI-ROYAL 厚声,,,规格选型，待锁定料号,0603; <=1%; >=0.1 W; 按原值采购；反馈/终端电阻需同批次,225,
-R4,500,USRP:R4,UNI-ROYAL 厚声,,,规格选型，待锁定料号,0603; <=1%; >=0.1 W; 按原值采购；反馈/终端电阻需同批次,500,
-R5,225,USRP:R5,UNI-ROYAL 厚声,,,规格选型，待锁定料号,0603; <=1%; >=0.1 W; 按原值采购；反馈/终端电阻需同批次,225,
-R6,225,USRP:R6,UNI-ROYAL 厚声,,,规格选型，待锁定料号,0603; <=1%; >=0.1 W; 按原值采购；反馈/终端电阻需同批次,225,
-R7,500,USRP:R7,UNI-ROYAL 厚声,,,规格选型，待锁定料号,0603; <=1%; >=0.1 W; 按原值采购；反馈/终端电阻需同批次,500,
-R8,225,USRP:R8,UNI-ROYAL 厚声,,,规格选型，待锁定料号,0603; <=1%; >=0.1 W; 按原值采购；反馈/终端电阻需同批次,225,
-R29,0,USRP:R29,UNI-ROYAL 厚声,0603WAF0000T5E,C21189,已核对目录料号,0603; <=1%; >=0.1 W; 按原值采购；反馈/终端电阻需同批次,0,https://www.lcsc.com/product-detail/C21189.html
-R32,500,USRP:R32,UNI-ROYAL 厚声,,,规格选型，待锁定料号,0603; <=1%; >=0.1 W; 按原值采购；反馈/终端电阻需同批次,500,
-R33,25,USRP:R33,UNI-ROYAL 厚声,,,规格选型，待锁定料号,0603; <=1%; >=0.1 W; 按原值采购；反馈/终端电阻需同批次,25,
-R34,25,USRP:R34,UNI-ROYAL 厚声,,,规格选型，待锁定料号,0603; <=1%; >=0.1 W; 按原值采购；反馈/终端电阻需同批次,25,
-R35,25,USRP:R35,UNI-ROYAL 厚声,,,规格选型，待锁定料号,0603; <=1%; >=0.1 W; 按原值采购；反馈/终端电阻需同批次,25,
-R36,25,USRP:R36,UNI-ROYAL 厚声,,,规格选型，待锁定料号,0603; <=1%; >=0.1 W; 按原值采购；反馈/终端电阻需同批次,25,
-R37,500,USRP:R37,UNI-ROYAL 厚声,,,规格选型，待锁定料号,0603; <=1%; >=0.1 W; 按原值采购；反馈/终端电阻需同批次,500,
-R38,25,USRP:R38,UNI-ROYAL 厚声,,,规格选型，待锁定料号,0603; <=1%; >=0.1 W; 按原值采购；反馈/终端电阻需同批次,25,
-R39,25,USRP:R39,UNI-ROYAL 厚声,,,规格选型，待锁定料号,0603; <=1%; >=0.1 W; 按原值采购；反馈/终端电阻需同批次,25,
-R40,25,USRP:R40,UNI-ROYAL 厚声,,,规格选型，待锁定料号,0603; <=1%; >=0.1 W; 按原值采购；反馈/终端电阻需同批次,25,
-R41,25,USRP:R41,UNI-ROYAL 厚声,,,规格选型，待锁定料号,0603; <=1%; >=0.1 W; 按原值采购；反馈/终端电阻需同批次,25,
-U1,AD8047ARZ,USRP:U1,,AD8047ARZ,,保留原功能型号；采购需核对后缀、封装与供应状态,射频/高速/低噪声器件，不作未经验证的国产等效替换,OPERATIONAL_AMPLIFIER,
-U2,AD8047ARZ,USRP:U2,,AD8047ARZ,,保留原功能型号；采购需核对后缀、封装与供应状态,射频/高速/低噪声器件，不作未经验证的国产等效替换,OPERATIONAL_AMPLIFIER,
-U3,LT3462ES6,USRP:U3,,LT3462ES6,,保留原功能型号；采购需核对后缀、封装与供应状态,射频/高速/低噪声器件，不作未经验证的国产等效替换,LT3462,
-U52,GT24C02A-2GLI-TR,USRP:U52,Giantec 聚辰,GT24C02A-2GLI-TR,C239137,已核对引脚、电压、容量；待写入/识别实测,SOIC-8; 1.7–5.5 V; 2 Kbit; 16-byte page; WP=0; 5 ms max write,24LC025B,https://www.giantec-semi.com/uploads/20220929/aea94631838957c81f132940c6e46526.pdf
+﻿Reference,Value,Footprint,Manufacturer,MPN,LCSC,Sourcing_status,Specification,Source_value,Evidence,Approved_brands,Sourcing_policy
+C1,1uF,USRP:C1,候选：Murata / TDK / Samsung Electro-Mechanics / Walsin / FH / EYANG,,,规格选型，待锁定料号,按项目焊盘尺寸；RF/匹配/PLL环路优先 C0G；去耦 X7R；耐压 >=16 V；保留原容差,1uF,,Murata / TDK / Samsung Electro-Mechanics / Walsin / FH / EYANG,国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标
+C2,1uF,USRP:C2,候选：Murata / TDK / Samsung Electro-Mechanics / Walsin / FH / EYANG,,,规格选型，待锁定料号,按项目焊盘尺寸；RF/匹配/PLL环路优先 C0G；去耦 X7R；耐压 >=16 V；保留原容差,1uF,,Murata / TDK / Samsung Electro-Mechanics / Walsin / FH / EYANG,国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标
+C3,10uF,USRP:C3,候选：Murata / TDK / Samsung Electro-Mechanics / Walsin / FH / EYANG,,,规格选型，待锁定料号,按项目焊盘尺寸；RF/匹配/PLL环路优先 C0G；去耦 X7R；耐压 >=16 V；保留原容差,10uF,,Murata / TDK / Samsung Electro-Mechanics / Walsin / FH / EYANG,国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标
+C4,22pF,USRP:C4,候选：Murata / TDK / Samsung Electro-Mechanics / Walsin / FH / EYANG,,,规格选型，待锁定料号,按项目焊盘尺寸；RF/匹配/PLL环路优先 C0G；去耦 X7R；耐压 >=16 V；保留原容差,22pF,,Murata / TDK / Samsung Electro-Mechanics / Walsin / FH / EYANG,国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标
+C5,220pF,USRP:C5,候选：Murata / TDK / Samsung Electro-Mechanics / Walsin / FH / EYANG,,,规格选型，待锁定料号,按项目焊盘尺寸；RF/匹配/PLL环路优先 C0G；去耦 X7R；耐压 >=16 V；保留原容差,220pF,,Murata / TDK / Samsung Electro-Mechanics / Walsin / FH / EYANG,国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标
+C6,0.1uF,USRP:C6,FH 风华高科,0603B104K500NT,C30926,已核对目录料号，0603 时采用,0603; 100 nF; X7R; 50 V; +/-10%,0.1uF,https://item.szlcsc.com/31683.html,Murata / TDK / Samsung Electro-Mechanics / Walsin / FH / EYANG,国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标
+C8,0.1uF,USRP:C8,FH 风华高科,0603B104K500NT,C30926,已核对目录料号，0603 时采用,0603; 100 nF; X7R; 50 V; +/-10%,0.1uF,https://item.szlcsc.com/31683.html,Murata / TDK / Samsung Electro-Mechanics / Walsin / FH / EYANG,国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标
+C10,220pF,USRP:C10,候选：Murata / TDK / Samsung Electro-Mechanics / Walsin / FH / EYANG,,,规格选型，待锁定料号,按项目焊盘尺寸；RF/匹配/PLL环路优先 C0G；去耦 X7R；耐压 >=16 V；保留原容差,220pF,,Murata / TDK / Samsung Electro-Mechanics / Walsin / FH / EYANG,国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标
+C11,10uF,USRP:C11,候选：Murata / TDK / Samsung Electro-Mechanics / Walsin / FH / EYANG,,,规格选型，待锁定料号,按项目焊盘尺寸；RF/匹配/PLL环路优先 C0G；去耦 X7R；耐压 >=16 V；保留原容差,10uF,,Murata / TDK / Samsung Electro-Mechanics / Walsin / FH / EYANG,国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标
+C12,0.1uF,USRP:C12,FH 风华高科,0603B104K500NT,C30926,已核对目录料号，0603 时采用,0603; 100 nF; X7R; 50 V; +/-10%,0.1uF,https://item.szlcsc.com/31683.html,Murata / TDK / Samsung Electro-Mechanics / Walsin / FH / EYANG,国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标
+C14,20pF,USRP:C14,候选：Murata / TDK / Samsung Electro-Mechanics / Walsin / FH / EYANG,,,规格选型，待锁定料号,按项目焊盘尺寸；RF/匹配/PLL环路优先 C0G；去耦 X7R；耐压 >=16 V；保留原容差,20pF,,Murata / TDK / Samsung Electro-Mechanics / Walsin / FH / EYANG,国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标
+C15,20pF,USRP:C15,候选：Murata / TDK / Samsung Electro-Mechanics / Walsin / FH / EYANG,,,规格选型，待锁定料号,按项目焊盘尺寸；RF/匹配/PLL环路优先 C0G；去耦 X7R；耐压 >=16 V；保留原容差,20pF,,Murata / TDK / Samsung Electro-Mechanics / Walsin / FH / EYANG,国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标
+C20,0.1uF,USRP:C20,FH 风华高科,0603B104K500NT,C30926,已核对目录料号，0603 时采用,0603; 100 nF; X7R; 50 V; +/-10%,0.1uF,https://item.szlcsc.com/31683.html,Murata / TDK / Samsung Electro-Mechanics / Walsin / FH / EYANG,国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标
+C21,220pF,USRP:C21,候选：Murata / TDK / Samsung Electro-Mechanics / Walsin / FH / EYANG,,,规格选型，待锁定料号,按项目焊盘尺寸；RF/匹配/PLL环路优先 C0G；去耦 X7R；耐压 >=16 V；保留原容差,220pF,,Murata / TDK / Samsung Electro-Mechanics / Walsin / FH / EYANG,国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标
+C22,0.1uF,USRP:C22,FH 风华高科,0603B104K500NT,C30926,已核对目录料号，0603 时采用,0603; 100 nF; X7R; 50 V; +/-10%,0.1uF,https://item.szlcsc.com/31683.html,Murata / TDK / Samsung Electro-Mechanics / Walsin / FH / EYANG,国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标
+C23,0.1uF,USRP:C23,FH 风华高科,0603B104K500NT,C30926,已核对目录料号，0603 时采用,0603; 100 nF; X7R; 50 V; +/-10%,0.1uF,https://item.szlcsc.com/31683.html,Murata / TDK / Samsung Electro-Mechanics / Walsin / FH / EYANG,国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标
+C31,100pF,USRP:C31,候选：Murata / TDK / Samsung Electro-Mechanics / Walsin / FH / EYANG,,,规格选型，待锁定料号,按项目焊盘尺寸；RF/匹配/PLL环路优先 C0G；去耦 X7R；耐压 >=16 V；保留原容差,100pF,,Murata / TDK / Samsung Electro-Mechanics / Walsin / FH / EYANG,国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标
+C32,100pF,USRP:C32,候选：Murata / TDK / Samsung Electro-Mechanics / Walsin / FH / EYANG,,,规格选型，待锁定料号,按项目焊盘尺寸；RF/匹配/PLL环路优先 C0G；去耦 X7R；耐压 >=16 V；保留原容差,100pF,,Murata / TDK / Samsung Electro-Mechanics / Walsin / FH / EYANG,国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标
+C33,4.7pF,USRP:C33,候选：Murata / TDK / Samsung Electro-Mechanics / Walsin / FH / EYANG,,,规格选型，待锁定料号,按项目焊盘尺寸；RF/匹配/PLL环路优先 C0G；去耦 X7R；耐压 >=16 V；保留原容差,4.7pF,,Murata / TDK / Samsung Electro-Mechanics / Walsin / FH / EYANG,国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标
+C34,4.7pF,USRP:C34,候选：Murata / TDK / Samsung Electro-Mechanics / Walsin / FH / EYANG,,,规格选型，待锁定料号,按项目焊盘尺寸；RF/匹配/PLL环路优先 C0G；去耦 X7R；耐压 >=16 V；保留原容差,4.7pF,,Murata / TDK / Samsung Electro-Mechanics / Walsin / FH / EYANG,国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标
+FB1,600R@100MHz,USRP:FB1,Sunlord 顺络,GZ3216D601TF,,新选磁珠；需测电源噪声与压降,1206; 600 ohm @100 MHz; 600 mA; DCR <=0.30 ohm,100uH,https://atta.szlcsc.com/upload/public/pdf/source/20151029/1457707509886.pdf,Murata / TDK / Coilcraft / Sunlord / FH,国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标
+FB2,600R@100MHz,USRP:FB2,Sunlord 顺络,GZ3216D601TF,,新选磁珠；需测电源噪声与压降,1206; 600 ohm @100 MHz; 600 mA; DCR <=0.30 ohm,100uH,https://atta.szlcsc.com/upload/public/pdf/source/20151029/1457707509886.pdf,Murata / TDK / Coilcraft / Sunlord / FH,国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标
+J44,PMC64,USRP:J44,,,,规格选型，待锁定料号,按工程封装和 USRP1 接口核对插合方向、针脚与高度,PMC64,,,
+J45,HEADER20,USRP:J45,,,,规格选型，待锁定料号,按工程封装和 USRP1 接口核对插合方向、针脚与高度,HEADER20,,,
+J46,HEADER16,USRP:J46,,,,规格选型，待锁定料号,按工程封装和 USRP1 接口核对插合方向、针脚与高度,HEADER16,,,
+J47,HEADER10,USRP:J47,,,,规格选型，待锁定料号,按工程封装和 USRP1 接口核对插合方向、针脚与高度,HEADER10,,,
+J48,SMA5,USRP:J48,,,,规格选型，待锁定料号,按工程封装和 USRP1 接口核对插合方向、针脚与高度,SMA5,,,
+J49,SMA5,USRP:J49,,,,规格选型，待锁定料号,按工程封装和 USRP1 接口核对插合方向、针脚与高度,SMA5,,,
+J50,HEADER16,USRP:J50,,,,规格选型，待锁定料号,按工程封装和 USRP1 接口核对插合方向、针脚与高度,HEADER16,,,
+J51,HEADER16,USRP:J51,,,,规格选型，待锁定料号,按工程封装和 USRP1 接口核对插合方向、针脚与高度,HEADER16,,,
+L1,22uH,USRP:L1,候选：Murata / TDK / Coilcraft / Sunlord / FH,,,规格选型，待锁定料号,RF电感须核对 Q、SRF、DCR 与偏置电流，按原值及容差；磁珠按阻抗曲线选型,22uH,,Murata / TDK / Coilcraft / Sunlord / FH,国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标
+L2,22uH,USRP:L2,候选：Murata / TDK / Coilcraft / Sunlord / FH,,,规格选型，待锁定料号,RF电感须核对 Q、SRF、DCR 与偏置电流，按原值及容差；磁珠按阻抗曲线选型,22uH,,Murata / TDK / Coilcraft / Sunlord / FH,国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标
+R1,68.1K,USRP:R1,候选：YAGEO / Vishay / Panasonic / UNI-ROYAL / FH,,,规格选型，待锁定料号,0603; <=1%; >=0.1 W; 按原值采购；反馈/终端电阻需同批次,68.1K,,YAGEO / Vishay / Panasonic / UNI-ROYAL / FH,国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标
+R2,178K,USRP:R2,候选：YAGEO / Vishay / Panasonic / UNI-ROYAL / FH,,,规格选型，待锁定料号,0603; <=1%; >=0.1 W; 按原值采购；反馈/终端电阻需同批次,178K,,YAGEO / Vishay / Panasonic / UNI-ROYAL / FH,国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标
+R3,225,USRP:R3,候选：YAGEO / Vishay / Panasonic / UNI-ROYAL / FH,,,规格选型，待锁定料号,0603; <=1%; >=0.1 W; 按原值采购；反馈/终端电阻需同批次,225,,YAGEO / Vishay / Panasonic / UNI-ROYAL / FH,国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标
+R4,500,USRP:R4,候选：YAGEO / Vishay / Panasonic / UNI-ROYAL / FH,,,规格选型，待锁定料号,0603; <=1%; >=0.1 W; 按原值采购；反馈/终端电阻需同批次,500,,YAGEO / Vishay / Panasonic / UNI-ROYAL / FH,国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标
+R5,225,USRP:R5,候选：YAGEO / Vishay / Panasonic / UNI-ROYAL / FH,,,规格选型，待锁定料号,0603; <=1%; >=0.1 W; 按原值采购；反馈/终端电阻需同批次,225,,YAGEO / Vishay / Panasonic / UNI-ROYAL / FH,国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标
+R6,225,USRP:R6,候选：YAGEO / Vishay / Panasonic / UNI-ROYAL / FH,,,规格选型，待锁定料号,0603; <=1%; >=0.1 W; 按原值采购；反馈/终端电阻需同批次,225,,YAGEO / Vishay / Panasonic / UNI-ROYAL / FH,国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标
+R7,500,USRP:R7,候选：YAGEO / Vishay / Panasonic / UNI-ROYAL / FH,,,规格选型，待锁定料号,0603; <=1%; >=0.1 W; 按原值采购；反馈/终端电阻需同批次,500,,YAGEO / Vishay / Panasonic / UNI-ROYAL / FH,国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标
+R8,225,USRP:R8,候选：YAGEO / Vishay / Panasonic / UNI-ROYAL / FH,,,规格选型，待锁定料号,0603; <=1%; >=0.1 W; 按原值采购；反馈/终端电阻需同批次,225,,YAGEO / Vishay / Panasonic / UNI-ROYAL / FH,国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标
+R29,0,USRP:R29,UNI-ROYAL 厚声,0603WAF0000T5E,C21189,已核对目录料号,0603; <=1%; >=0.1 W; 按原值采购；反馈/终端电阻需同批次,0,https://www.lcsc.com/product-detail/C21189.html,YAGEO / Vishay / Panasonic / UNI-ROYAL / FH,国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标
+R32,500,USRP:R32,候选：YAGEO / Vishay / Panasonic / UNI-ROYAL / FH,,,规格选型，待锁定料号,0603; <=1%; >=0.1 W; 按原值采购；反馈/终端电阻需同批次,500,,YAGEO / Vishay / Panasonic / UNI-ROYAL / FH,国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标
+R33,25,USRP:R33,候选：YAGEO / Vishay / Panasonic / UNI-ROYAL / FH,,,规格选型，待锁定料号,0603; <=1%; >=0.1 W; 按原值采购；反馈/终端电阻需同批次,25,,YAGEO / Vishay / Panasonic / UNI-ROYAL / FH,国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标
+R34,25,USRP:R34,候选：YAGEO / Vishay / Panasonic / UNI-ROYAL / FH,,,规格选型，待锁定料号,0603; <=1%; >=0.1 W; 按原值采购；反馈/终端电阻需同批次,25,,YAGEO / Vishay / Panasonic / UNI-ROYAL / FH,国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标
+R35,25,USRP:R35,候选：YAGEO / Vishay / Panasonic / UNI-ROYAL / FH,,,规格选型，待锁定料号,0603; <=1%; >=0.1 W; 按原值采购；反馈/终端电阻需同批次,25,,YAGEO / Vishay / Panasonic / UNI-ROYAL / FH,国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标
+R36,25,USRP:R36,候选：YAGEO / Vishay / Panasonic / UNI-ROYAL / FH,,,规格选型，待锁定料号,0603; <=1%; >=0.1 W; 按原值采购；反馈/终端电阻需同批次,25,,YAGEO / Vishay / Panasonic / UNI-ROYAL / FH,国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标
+R37,500,USRP:R37,候选：YAGEO / Vishay / Panasonic / UNI-ROYAL / FH,,,规格选型，待锁定料号,0603; <=1%; >=0.1 W; 按原值采购；反馈/终端电阻需同批次,500,,YAGEO / Vishay / Panasonic / UNI-ROYAL / FH,国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标
+R38,25,USRP:R38,候选：YAGEO / Vishay / Panasonic / UNI-ROYAL / FH,,,规格选型，待锁定料号,0603; <=1%; >=0.1 W; 按原值采购；反馈/终端电阻需同批次,25,,YAGEO / Vishay / Panasonic / UNI-ROYAL / FH,国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标
+R39,25,USRP:R39,候选：YAGEO / Vishay / Panasonic / UNI-ROYAL / FH,,,规格选型，待锁定料号,0603; <=1%; >=0.1 W; 按原值采购；反馈/终端电阻需同批次,25,,YAGEO / Vishay / Panasonic / UNI-ROYAL / FH,国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标
+R40,25,USRP:R40,候选：YAGEO / Vishay / Panasonic / UNI-ROYAL / FH,,,规格选型，待锁定料号,0603; <=1%; >=0.1 W; 按原值采购；反馈/终端电阻需同批次,25,,YAGEO / Vishay / Panasonic / UNI-ROYAL / FH,国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标
+R41,25,USRP:R41,候选：YAGEO / Vishay / Panasonic / UNI-ROYAL / FH,,,规格选型，待锁定料号,0603; <=1%; >=0.1 W; 按原值采购；反馈/终端电阻需同批次,25,,YAGEO / Vishay / Panasonic / UNI-ROYAL / FH,国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标
+U1,AD8047ARZ,USRP:U1,,AD8047ARZ,,保留原功能型号；采购需核对后缀、封装与供应状态,射频/高速/低噪声器件，不作未经验证的国产等效替换,OPERATIONAL_AMPLIFIER,,,
+U2,AD8047ARZ,USRP:U2,,AD8047ARZ,,保留原功能型号；采购需核对后缀、封装与供应状态,射频/高速/低噪声器件，不作未经验证的国产等效替换,OPERATIONAL_AMPLIFIER,,,
+U3,LT3462ES6,USRP:U3,,LT3462ES6,,保留原功能型号；采购需核对后缀、封装与供应状态,射频/高速/低噪声器件，不作未经验证的国产等效替换,LT3462,,,
+U52,AT24C02,USRP:U52,Microchip,AT24C02C-SSHM-T,C6203,已核对引脚/封装/电压/目录；8-byte页写；待实机写入及识别,"SOIC-8 3.9x4.9 mm, P1.27 mm; 1.7–5.5 V; 2 Kbit (256x8); 8-byte page; WP=0; write <=5 ms; ACK polling; 不跨8字节页边界",24LC025B,https://ww1.microchip.com/downloads/en/DeviceDoc/AT24C01C-AT24C02C-I2C-Compatible-Two-Wire-Serial-EEPROM-1Kbit-2Kbit-20006111A.pdf,Microchip,按完整MPN和厂家采购，不能仅按AT24C02通用名下单

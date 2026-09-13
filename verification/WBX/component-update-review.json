@@ -1,0 +1,137 @@
+{
+  "project": "WBX",
+  "baseline_commit": "bf6d371",
+  "machine_review": "PASS",
+  "pcb_sha256": "ea2fe0e5d4c06987bf5ac629dbec6f4d9845db70017fc5d2d6b2d41d365fb527",
+  "cad_files_compared": 309,
+  "geometry_connectivity_UUIDs_paths_and_settings_preserved": true,
+  "EEPROM_signal_unit_labels_aligned_above_symbol": [
+    "U202",
+    "U403"
+  ],
+  "other_existing_text_placement_preserved": true,
+  "model_bindings_and_files_preserved": 291,
+  "EEPROMs": [
+    {
+      "reference": "U202",
+      "value": "AT24C02",
+      "MPN": "AT24C02C-SSHM-T",
+      "LCSC": "C6203",
+      "symbol_pin_names": {
+        "5": "SDA",
+        "1": "A0",
+        "3": "A2",
+        "6": "SCL",
+        "2": "A1",
+        "7": "WP",
+        "4": "DGND_RX",
+        "8": "DVDD_RX"
+      },
+      "pad_nets": {
+        "1": "I2C_A0_RX",
+        "2": "I2C_A1_RX",
+        "3": "DVDD_RX",
+        "4": "DGND_RX",
+        "5": "SDA_RX",
+        "6": "SCL_RX",
+        "7": "DGND_RX",
+        "8": "DVDD_RX"
+      },
+      "WP_ground_via_zero_ohm": null,
+      "page_bytes": 8
+    },
+    {
+      "reference": "U403",
+      "value": "AT24C02",
+      "MPN": "AT24C02C-SSHM-T",
+      "LCSC": "C6203",
+      "symbol_pin_names": {
+        "5": "SDA",
+        "1": "A0",
+        "3": "A2",
+        "6": "SCL",
+        "2": "A1",
+        "7": "WP",
+        "4": "DGND_TX",
+        "8": "DVDD_TX"
+      },
+      "pad_nets": {
+        "1": "I2C_A0_TX",
+        "2": "I2C_A1_TX",
+        "3": "DVDD_TX",
+        "4": "DGND_TX",
+        "5": "SDA_TX",
+        "6": "SCL_TX",
+        "7": "DGND_TX",
+        "8": "DVDD_TX"
+      },
+      "WP_ground_via_zero_ohm": null,
+      "page_bytes": 8
+    }
+  ],
+  "selected_YAGEO_resistors": [
+    "R302",
+    "R303",
+    "R304",
+    "R305",
+    "R306",
+    "R307",
+    "R317",
+    "R330",
+    "R333",
+    "R334"
+  ],
+  "selected_Samsung_decoupling_caps": [
+    "C216",
+    "C217",
+    "C219",
+    "C221",
+    "C307",
+    "C308",
+    "C311",
+    "C313",
+    "C314",
+    "C316",
+    "C318",
+    "C335",
+    "C338",
+    "C350",
+    "C351",
+    "C352",
+    "C353",
+    "C354",
+    "C355",
+    "C356",
+    "C416",
+    "C417",
+    "C419",
+    "C421",
+    "C514",
+    "C525",
+    "C535",
+    "C536",
+    "C537",
+    "C538",
+    "C539",
+    "C540",
+    "C541"
+  ],
+  "electrical_check_set_diff": {
+    "erc": {
+      "added": 0,
+      "removed": 0
+    },
+    "drc": {
+      "added": 0,
+      "removed": 0
+    }
+  },
+  "schematic_sha256": {
+    "WBX.kicad_sch": "7b26705f7fe8a48f72195ceb82e4361ea10d57484336e2e8523ae1ba63cecb9f",
+    "WBX_p2.kicad_sch": "1093b99f2a2fae5fbf27ce7d398bd096ff7d3046a74b285e66a0066c6b580c45",
+    "WBX_p3.kicad_sch": "7190ed4ac071599122cd8aed07b999bbeba1dee52696189a5b85cd4a40becd86",
+    "WBX_p4.kicad_sch": "ee506c9f5453d64790de3a0047327124625bd724bf6303778af612c5fef510b5",
+    "WBX_p5.kicad_sch": "424be1fc17012ead0f0428641781e9443f01bc8b81e74004efc832a7176bcc89"
+  },
+  "BOM_sha256": "081e1f2f18553fed81854377b15fe4c5fc1161744e05c44c691ab2405545e090"
+}

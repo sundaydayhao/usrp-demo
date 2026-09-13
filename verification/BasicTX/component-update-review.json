@@ -1,0 +1,59 @@
+{
+  "project": "BasicTX",
+  "baseline_commit": "bf6d371",
+  "machine_review": "PASS",
+  "pcb_sha256": "80485b0b5fd21aa25c1a085d483d7771c4577fd27ace8addd819fd2a529d15ae",
+  "cad_files_compared": 23,
+  "geometry_connectivity_UUIDs_paths_and_settings_preserved": true,
+  "EEPROM_signal_unit_labels_aligned_above_symbol": [
+    "U52"
+  ],
+  "other_existing_text_placement_preserved": true,
+  "model_bindings_and_files_preserved": 20,
+  "EEPROMs": [
+    {
+      "reference": "U52",
+      "value": "AT24C02",
+      "MPN": "AT24C02C-SSHM-T",
+      "LCSC": "C6203",
+      "symbol_pin_names": {
+        "5": "SDA",
+        "1": "A0",
+        "3": "A2",
+        "6": "SCL",
+        "2": "A1",
+        "7": "WP",
+        "4": "GND",
+        "8": "DVDD"
+      },
+      "pad_nets": {
+        "1": "/I2C_A0",
+        "2": "/I2C_A1",
+        "3": "/DVDD",
+        "4": "/GND",
+        "5": "/SDA",
+        "6": "/SCL",
+        "7": "/GND",
+        "8": "/DVDD"
+      },
+      "WP_ground_via_zero_ohm": null,
+      "page_bytes": 8
+    }
+  ],
+  "selected_YAGEO_resistors": [],
+  "selected_Samsung_decoupling_caps": [],
+  "electrical_check_set_diff": {
+    "erc": {
+      "added": 0,
+      "removed": 0
+    },
+    "drc": {
+      "added": 0,
+      "removed": 0
+    }
+  },
+  "schematic_sha256": {
+    "BasicTX.kicad_sch": "262630890e7bb8bcb25e70ad1942c7e07fdf259413b760f684167aba61030378"
+  },
+  "BOM_sha256": "019dc337a4d466dbc9de6ca712987281d9cb7a01a20594c087ab66269713c581"
+}

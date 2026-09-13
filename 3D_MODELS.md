@@ -47,3 +47,5 @@ PMC 的系列对应关系参考 [Molex 714390164](https://www.molex.com/en-us/pr
 - 七块板正反面均用 KiCad 10.0.5 渲染并审查。每个工程附 `preview/3d-views.pdf`，总预览见 [3D-previews.pdf](deliverables/3D-previews.pdf)。
 
 检查证据：`verification/<工程>/3d-models.json`、`3d-review.json`、`verification/3d-review-summary.json`。用于本次迁移的脚本在 `scripts/`，依赖本机 KiCad、KiSkill 解析器；立创重新获取/转换还需要 easyeda2kicad 与 cadquery-ocp。已交付的工程打开和 3D 显示不依赖这些脚本或临时目录。
+
+2026-09-14 的 AT24C02 器件更新已另外核对：本节记录的 578 个模型绑定、模型文件和变换均保持不变。该次更新的当前 PCB 校验值及证据见各工程 `component-update-review.json`；此前 `3d-review.json` 保留为历史专项审查记录。

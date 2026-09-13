@@ -272,7 +272,7 @@
 				)
 			)
 		)
-		(property "Value" "GT24C02A-2GLI-TR"
+		(property "Value" "AT24C02"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -283,7 +283,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://ww1.microchip.com/downloads/en/DeviceDoc/AT24C01C-AT24C02C-I2C-Compatible-Two-Wire-Serial-EEPROM-1Kbit-2Kbit-20006111A.pdf"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -299,6 +299,94 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "7dcde369-e24b-40ba-8ca5-877beb2fd3e7")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Microchip"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "207fd69a-61fd-56d2-85a8-75c8a90714aa")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "AT24C02C-SSHM-T"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3ef8c3c0-6055-5426-b7ad-a6f14ce826a8")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C6203"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9edd0772-c93d-5d85-8fb3-e2a0116d4e2d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sourcing_status" "已核对引脚/封装/电压/目录；8-byte页写；待实机写入及识别"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7a395cee-c959-530b-8905-2b8b8ea30297")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Specification" "SOIC-8 3.9x4.9 mm, P1.27 mm; 1.7–5.5 V; 2 Kbit (256x8); 8-byte page; WP=0; write <=5 ms; ACK polling; 不跨8字节页边界"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "073ed4eb-2613-59e5-a3bf-a49ad44f3e45")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Evidence" "https://ww1.microchip.com/downloads/en/DeviceDoc/AT24C01C-AT24C02C-I2C-Compatible-Two-Wire-Serial-EEPROM-1Kbit-2Kbit-20006111A.pdf"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6b58b401-89ec-5710-9bd7-babbc6633989")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Approved_brands" "Microchip"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "06dbf929-fc36-52e0-b9ca-e0d0607f5826")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sourcing_policy" "按完整MPN和厂家采购，不能仅按AT24C02通用名下单"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f1218404-61ee-5575-8ede-eb92e3546deb")
 			(effects
 				(font
 					(size 1.27 1.27)

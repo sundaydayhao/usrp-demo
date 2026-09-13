@@ -6258,6 +6258,94 @@
 				)
 			)
 		)
+		(property "Manufacturer" "Samsung Electro-Mechanics"
+			(at 0 0 180)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c0ee4fb8-07a6-5591-ac2f-0685eb6011f5")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CL05B104KO5NNNC"
+			(at 0 0 180)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4abe78d3-4327-5d05-bbb5-2626d6482773")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C1525"
+			(at 0 0 180)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bdf2a383-2f23-5a42-8cdf-c8337c3ccdab")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sourcing_status" "已核对0402与电源对地去耦连接；待实机电源噪声验证"
+			(at 0 0 180)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e8bf19f2-b8db-5aa1-adae-e547943297f4")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Specification" "0402; 100 nF; X7R; 16 V; +/-10%; 电源去耦；需考虑直流偏压降容"
+			(at 0 0 180)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6b7b5f39-8efc-5160-8b3b-43a8e4a70a7a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Evidence" "https://datasheet.lcsc.com/datasheet/pdf/02336ea48ea44ca18c72517dd3cb7b47.pdf?productCode=C1525"
+			(at 0 0 180)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a2ea89f5-8882-5044-975b-3430048e994a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Approved_brands" "Murata / TDK / Samsung Electro-Mechanics / Walsin / FH / EYANG"
+			(at 0 0 180)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2b4addbe-9d07-55ae-bb72-acf52b05e29a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sourcing_policy" "国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标"
+			(at 0 0 180)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "626b4bd2-3442-5661-950a-7c92373220ed")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(path "/af2f11e2-9465-5dc2-9754-092e4cf1fc35/d6fe5c5f-8739-5db2-b491-08f46fbe54b7")
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
@@ -6403,6 +6491,94 @@
 				(font
 					(size 1 1)
 					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "Samsung Electro-Mechanics"
+			(at 0 0 180)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5f3e5aa0-2689-539a-b04f-5dcd16e0ba9f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CL05B104KO5NNNC"
+			(at 0 0 180)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b7699fef-523d-5ad2-b43c-6b77bc053bad")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C1525"
+			(at 0 0 180)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d249d769-90ac-58d2-84da-dea2a2a2fea8")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sourcing_status" "已核对0402与电源对地去耦连接；待实机电源噪声验证"
+			(at 0 0 180)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "15d48c38-a1df-5bf3-9ea6-fa758259bca6")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Specification" "0402; 100 nF; X7R; 16 V; +/-10%; 电源去耦；需考虑直流偏压降容"
+			(at 0 0 180)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "601c0921-6483-55fb-8e23-00bc339e6192")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Evidence" "https://datasheet.lcsc.com/datasheet/pdf/02336ea48ea44ca18c72517dd3cb7b47.pdf?productCode=C1525"
+			(at 0 0 180)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "74cecefe-dd80-5420-b589-650838a9a669")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Approved_brands" "Murata / TDK / Samsung Electro-Mechanics / Walsin / FH / EYANG"
+			(at 0 0 180)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7035e536-d2b9-561a-bcdf-fcf0624ae995")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sourcing_policy" "国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标"
+			(at 0 0 180)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "72a79448-d69f-55f7-bf33-503a8006ef0e")
+			(effects
+				(font
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -8508,6 +8684,94 @@
 				(font
 					(size 1 1)
 					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 0 0 270)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fe25713e-ee93-596e-8590-3c4de5e6e124")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "RC0402FR-071KL"
+			(at 0 0 270)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ba38f466-881d-596e-9aab-670791d9b047")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C106235"
+			(at 0 0 270)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "16a56acb-609e-5cb8-a41d-bf7b5ecfc231")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sourcing_status" "已核对厂家规格和库存目录；控制/AGC/偏置电阻"
+			(at 0 0 270)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "421920b5-426d-57f7-a0e3-fcf114fa819e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Specification" "0402; 1 kohm; +/-1%; 1/16 W at 70 C; +/-100 ppm/C; 50 V（功率限制优先）"
+			(at 0 0 270)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e7a42848-f091-510c-93f4-c0573d66322a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Evidence" "https://www.yageogroup.com/component-documentation/download/specsheet/RC0402FR-071KL"
+			(at 0 0 270)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b1460cbc-5900-5424-b689-bfcdd41fa1fa")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Approved_brands" "YAGEO / Vishay / Panasonic / UNI-ROYAL / FH"
+			(at 0 0 270)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c6b9ce10-f8dc-5194-8928-c84e43d620a8")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sourcing_policy" "国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标"
+			(at 0 0 270)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "41245cba-5f5c-5515-9408-55df2fd6d1c5")
+			(effects
+				(font
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -11805,6 +12069,94 @@
 				)
 			)
 		)
+		(property "Manufacturer" "Samsung Electro-Mechanics"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4be6e028-0cc2-59e8-8c6f-d3a8fe44f213")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CL05B104KO5NNNC"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "48b40475-71fc-59ef-a82b-09ca00dccb09")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C1525"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "db337482-609d-5aa2-a34a-b62b1c20f15d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sourcing_status" "已核对0402与电源对地去耦连接；待实机电源噪声验证"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "65046008-8cdd-5e62-8a91-6b9abaad5589")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Specification" "0402; 100 nF; X7R; 16 V; +/-10%; 电源去耦；需考虑直流偏压降容"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5c69b99b-9629-5750-9ae9-df45a469ee9a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Evidence" "https://datasheet.lcsc.com/datasheet/pdf/02336ea48ea44ca18c72517dd3cb7b47.pdf?productCode=C1525"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "dfb58797-f005-5a61-882a-16f14a329872")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Approved_brands" "Murata / TDK / Samsung Electro-Mechanics / Walsin / FH / EYANG"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2c26cfe1-2415-5189-a894-066a039f66d7")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sourcing_policy" "国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "598aa600-4bde-5471-b4f8-99198ef1f76f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(path "/af2f11e2-9465-5dc2-9754-092e4cf1fc35/db67d22b-2f60-508b-8bca-9d421561c3f0/c5920b7b-d629-5fe2-a230-a0199541f3ad")
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
@@ -12610,6 +12962,94 @@
 				(font
 					(size 1 1)
 					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "Samsung Electro-Mechanics"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7c83ccef-427e-5961-85d7-2d557fd44347")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CL05B104KO5NNNC"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6539b9fe-5537-5407-9c6e-a2cf93a00aad")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C1525"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a8c9309f-28c1-5cfb-b905-2a8d86a37bb9")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sourcing_status" "已核对0402与电源对地去耦连接；待实机电源噪声验证"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cd7870e2-d255-5bad-a582-1a17a3b5430f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Specification" "0402; 100 nF; X7R; 16 V; +/-10%; 电源去耦；需考虑直流偏压降容"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1f70c0c1-ea89-5571-9cee-8a529f3b63f2")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Evidence" "https://datasheet.lcsc.com/datasheet/pdf/02336ea48ea44ca18c72517dd3cb7b47.pdf?productCode=C1525"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4f96ac22-d754-5500-aa17-a2cb05fd1d10")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Approved_brands" "Murata / TDK / Samsung Electro-Mechanics / Walsin / FH / EYANG"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6010c3de-42fc-53b8-b700-f21e5950a299")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sourcing_policy" "国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3d0e848a-0db2-5e8a-bea7-9e977e957d0c")
+			(effects
+				(font
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -14310,6 +14750,94 @@
 				(font
 					(size 1 1)
 					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 0 0 90)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "adce5250-cd2e-5541-ba1a-169f2988d51b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "RC0402FR-071KL"
+			(at 0 0 90)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4878acb5-7126-57b4-bcbf-886d51c7f541")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C106235"
+			(at 0 0 90)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e573bbc2-8e11-5c3c-bf87-a35acf4e2c04")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sourcing_status" "已核对厂家规格和库存目录；控制/AGC/偏置电阻"
+			(at 0 0 90)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f5f990b8-2ead-5418-8877-1b1f172e15a9")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Specification" "0402; 1 kohm; +/-1%; 1/16 W at 70 C; +/-100 ppm/C; 50 V（功率限制优先）"
+			(at 0 0 90)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6614f703-0af9-55b6-aa29-d45aa1f5c5b8")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Evidence" "https://www.yageogroup.com/component-documentation/download/specsheet/RC0402FR-071KL"
+			(at 0 0 90)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ec8fc873-33e6-554f-8440-a65da4776b35")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Approved_brands" "YAGEO / Vishay / Panasonic / UNI-ROYAL / FH"
+			(at 0 0 90)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "dd8c0c60-3a38-5442-baed-e5b2c7c1f31f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sourcing_policy" "国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标"
+			(at 0 0 90)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "728924be-82d3-550d-9b4a-9029a0f5c10f")
+			(effects
+				(font
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -16401,6 +16929,94 @@
 				)
 			)
 		)
+		(property "Manufacturer" "Samsung Electro-Mechanics"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "dd365618-205a-51b9-a487-59160f7d7b96")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CL05B104KO5NNNC"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e2ed5f3d-c4dc-5c2c-9819-2c1f7c29f8de")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C1525"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "750e84fc-3c7a-5296-a90c-575997975140")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sourcing_status" "已核对0402与电源对地去耦连接；待实机电源噪声验证"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1619607e-cce3-5481-b173-337cf6be5354")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Specification" "0402; 100 nF; X7R; 16 V; +/-10%; 电源去耦；需考虑直流偏压降容"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9c04ab4a-b656-5f53-8214-8319648bdc00")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Evidence" "https://datasheet.lcsc.com/datasheet/pdf/02336ea48ea44ca18c72517dd3cb7b47.pdf?productCode=C1525"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4c36283b-370d-5785-bdbc-7a5c835bf38d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Approved_brands" "Murata / TDK / Samsung Electro-Mechanics / Walsin / FH / EYANG"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3add1a6c-bbc5-5807-84ba-5ac8a6bfb025")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sourcing_policy" "国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e9f52336-c2f6-51b4-a219-51e767114140")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(path "/af2f11e2-9465-5dc2-9754-092e4cf1fc35/db67d22b-2f60-508b-8bca-9d421561c3f0/2b389501-f1ca-5893-9fd4-5b53d681c6ae")
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
@@ -17942,7 +18558,7 @@
 				)
 			)
 		)
-		(property "Value" "GT24C02A-2GLI-TR"
+		(property "Value" "AT24C02"
 			(at 0 3.4 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -17954,7 +18570,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://ww1.microchip.com/downloads/en/DeviceDoc/AT24C01C-AT24C02C-I2C-Compatible-Two-Wire-Serial-EEPROM-1Kbit-2Kbit-20006111A.pdf"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -17985,6 +18601,94 @@
 				(font
 					(size 1 1)
 					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "Microchip"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "21a17391-54d8-5595-b0b6-fbf8e33d8643")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "AT24C02C-SSHM-T"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1f2fd20c-2d7d-538e-aa33-6228b5ae3ece")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C6203"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bbff2268-c250-5590-9b64-970e79c5bcd0")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sourcing_status" "已核对引脚/封装/电压/目录；8-byte页写；待实机写入及识别"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "63587c4c-c097-53e3-bd43-bf6febb5572e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Specification" "SOIC-8 3.9x4.9 mm, P1.27 mm; 1.7–5.5 V; 2 Kbit (256x8); 8-byte page; WP=0; write <=5 ms; ACK polling; 不跨8字节页边界"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "44981359-6673-5825-808f-e41faa80f81a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Evidence" "https://ww1.microchip.com/downloads/en/DeviceDoc/AT24C01C-AT24C02C-I2C-Compatible-Two-Wire-Serial-EEPROM-1Kbit-2Kbit-20006111A.pdf"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d989d490-6613-5be3-8d8d-f02d6203ca28")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Approved_brands" "Microchip"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "56cab11a-e957-5a10-9ccb-9aab99344229")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sourcing_policy" "按完整MPN和厂家采购，不能仅按AT24C02通用名下单"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1e7a8298-e1c4-5a98-bac7-a5ac51cc6b3d")
+			(effects
+				(font
+					(size 1.27 1.27)
 				)
 			)
 		)

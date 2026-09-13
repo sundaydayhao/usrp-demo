@@ -16,7 +16,7 @@
 			)
 		)
 	)
-	(property "Value" "24LC024/SN"
+	(property "Value" "AT24C02"
 		(at 0 3.4 0)
 		(layer "F.Fab")
 		(hide yes)
@@ -28,7 +28,7 @@
 			)
 		)
 	)
-	(property "Datasheet" ""
+	(property "Datasheet" "https://ww1.microchip.com/downloads/en/DeviceDoc/AT24C01C-AT24C02C-I2C-Compatible-Two-Wire-Serial-EEPROM-1Kbit-2Kbit-20006111A.pdf"
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
@@ -59,6 +59,94 @@
 			(font
 				(size 1 1)
 				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer" "Microchip"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "32fe1ba4-6c1b-5629-a478-d783eaf3ff36")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "MPN" "AT24C02C-SSHM-T"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "733f2606-ae0d-5236-a10a-d2dfe9e99807")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "LCSC" "C6203"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "199fec5f-e5fd-5b97-ac4c-de983051abfc")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Sourcing_status" "已核对引脚/封装/电压/目录；8-byte页写；待实机写入及识别"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "dbc21929-49c9-559b-b80d-a7fff5260f8a")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Specification" "SOIC-8 3.9x4.9 mm, P1.27 mm; 1.7–5.5 V; 2 Kbit (256x8); 8-byte page; WP=0; write <=5 ms; ACK polling; 不跨8字节页边界"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f9ac82ce-3f12-57fe-9493-8247f3a415d5")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Evidence" "https://ww1.microchip.com/downloads/en/DeviceDoc/AT24C01C-AT24C02C-I2C-Compatible-Two-Wire-Serial-EEPROM-1Kbit-2Kbit-20006111A.pdf"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9d1c5bfc-f25a-5b58-8c95-96e6d143af10")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Approved_brands" "Microchip"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "39dbd21c-e8db-5368-a09e-544ac5091e45")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Sourcing_policy" "按完整MPN和厂家采购，不能仅按AT24C02通用名下单"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7bb7d9fa-b77b-598a-a799-0905531a673a")
+		(effects
+			(font
+				(size 1.27 1.27)
 			)
 		)
 	)

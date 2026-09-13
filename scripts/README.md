@@ -2,6 +2,9 @@
 
 交付对象是 `projects/` 中已经布好并检查过的 KiCad 工程。修改前先保存版本；不要把全部脚本按文件名顺序重跑。
 
+- `component_policy.py` 保存当前 AT24C02、国巨/三星选型及阻容感品牌策略。`apply_current_component_policy.py` 以现有 BOM 为输入，用 S 表达式同步元数据和 WP 引脚名称，保留布线与模型；修改后运行 `verify_final_projects.py`、`export_delivery_previews.py` 和 `review_component_update.py`。本次比较基线为 `bf6d371`。
+- `verify_3d_models.py` 是相对 `45f46ab` 的历史 3D 专项比较，后续 EEPROM 替换已有意改变器件名称；当前元数据迁移的模型保持性由 `review_component_update.py` 核对。
+
 - `build_*`、`import_legacy_boards.py`、`prepare_advanced_routing.py` 会重建文件或重新设置布局，只用于恢复设计的早期阶段。
 - `relocate_*`、`escape_*`、`adjust_*`、`restore_*`、`complete_wbx_rf_classification.py`、`import_wbx_rf_additional.py` 是本次设计过程的专项修改记录，不是可重复运行的日常命令。
 - `verify_final_projects.py <工程名>` 用 KiCad Python 检查 ERC、DRC、PCB 引脚/网络、原理图实例路径、板框外铜箔，以及复杂板的射频层和参考地。一次进程检查一块板。

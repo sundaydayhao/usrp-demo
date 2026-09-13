@@ -1,0 +1,69 @@
+{
+  "project": "TVRX2",
+  "baseline_commit": "bf6d371",
+  "machine_review": "PASS",
+  "pcb_sha256": "fc8279ac58197ce80e0a06d60631eaa9fcfcde669bd2ecdc471e038092f44e62",
+  "cad_files_compared": 121,
+  "geometry_connectivity_UUIDs_paths_and_settings_preserved": true,
+  "EEPROM_signal_unit_labels_aligned_above_symbol": [
+    "U1"
+  ],
+  "other_existing_text_placement_preserved": true,
+  "model_bindings_and_files_preserved": 109,
+  "EEPROMs": [
+    {
+      "reference": "U1",
+      "value": "AT24C02",
+      "MPN": "AT24C02C-SSHM-T",
+      "LCSC": "C6203",
+      "symbol_pin_names": {
+        "5": "SDA",
+        "1": "A0",
+        "3": "A2",
+        "6": "SCL",
+        "2": "A1",
+        "7": "WP",
+        "4": "DGND",
+        "8": "DVDD"
+      },
+      "pad_nets": {
+        "1": "DVDD",
+        "2": "I2C_A1",
+        "3": "DVDD",
+        "4": "DGND",
+        "5": "SDA",
+        "6": "SCL",
+        "7": "DGND",
+        "8": "DVDD"
+      },
+      "WP_ground_via_zero_ohm": null,
+      "page_bytes": 8
+    }
+  ],
+  "selected_YAGEO_resistors": [
+    "R111",
+    "R151"
+  ],
+  "selected_Samsung_decoupling_caps": [
+    "C181",
+    "C182",
+    "C280",
+    "C283",
+    "C285"
+  ],
+  "electrical_check_set_diff": {
+    "erc": {
+      "added": 0,
+      "removed": 0
+    },
+    "drc": {
+      "added": 0,
+      "removed": 0
+    }
+  },
+  "schematic_sha256": {
+    "TVRX2.kicad_sch": "1d9507e4947661a9c17b142ffb89d147b882c52fe040eba3f071bbd9367c0013",
+    "TVRX2_p2.kicad_sch": "91a3f2fe9686dc026c2362dbaddc48f8fcc93a0769fe48b102bb3e1cb96231e5"
+  },
+  "BOM_sha256": "e6e17fbf1ef04a16a51b693ada87a33311535957044bdd4e7335ca9f8ba70b36"
+}

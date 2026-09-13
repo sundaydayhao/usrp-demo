@@ -1622,7 +1622,7 @@
 					)
 				)
 			)
-			(property "Value" "GT24C02A-2GLI-TR"
+			(property "Value" "AT24C02"
 				(at 0 0 0)
 				(effects
 					(font
@@ -1635,6 +1635,87 @@
 				(effects
 					(font
 						(size 1.0 1.0)
+					)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer" "Microchip"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "MPN" "AT24C02C-SSHM-T"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC" "C6203"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sourcing_status" "已核对引脚/封装/电压/目录；8-byte页写；待实机写入及识别"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Specification" "SOIC-8 3.9x4.9 mm, P1.27 mm; 1.7–5.5 V; 2 Kbit (256x8); 8-byte page; WP=0; write <=5 ms; ACK polling; 不跨8字节页边界"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Evidence" "https://ww1.microchip.com/downloads/en/DeviceDoc/AT24C01C-AT24C02C-I2C-Compatible-Two-Wire-Serial-EEPROM-1Kbit-2Kbit-20006111A.pdf"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Approved_brands" "Microchip"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sourcing_policy" "按完整MPN和厂家采购，不能仅按AT24C02通用名下单"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://ww1.microchip.com/downloads/en/DeviceDoc/AT24C01C-AT24C02C-I2C-Compatible-Two-Wire-Serial-EEPROM-1Kbit-2Kbit-20006111A.pdf"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
 					)
 					(hide yes)
 				)
@@ -1841,6 +1922,78 @@
 				(effects
 					(font
 						(size 1.0 1.0)
+					)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer" "UNI-ROYAL 厚声"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "MPN" "0603WAF0000T5E"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC" "C21189"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sourcing_status" "已核对目录料号"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Specification" "0603; <=1%; >=0.1 W; 按原值采购；反馈/终端电阻需同批次"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Evidence" "https://www.lcsc.com/product-detail/C21189.html"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Approved_brands" "YAGEO / Vishay / Panasonic / UNI-ROYAL / FH"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sourcing_policy" "国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
 					)
 					(hide yes)
 				)
@@ -3130,6 +3283,78 @@
 					(hide yes)
 				)
 			)
+			(property "Manufacturer" "候选：Murata / TDK / Samsung Electro-Mechanics / Walsin / FH / EYANG"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "MPN" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sourcing_status" "规格选型，待锁定料号"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Specification" "按项目焊盘尺寸；RF/匹配/PLL环路优先 C0G；去耦 X7R；耐压 >=16 V；保留原容差"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Evidence" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Approved_brands" "Murata / TDK / Samsung Electro-Mechanics / Walsin / FH / EYANG"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sourcing_policy" "国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
 			(symbol "C14_capacitor_1_1_1"
 				(polyline
 					(pts
@@ -3246,6 +3471,78 @@
 				(effects
 					(font
 						(size 1.0 1.0)
+					)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer" "候选：YAGEO / Vishay / Panasonic / UNI-ROYAL / FH"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "MPN" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sourcing_status" "规格选型，待锁定料号"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Specification" "0603; <=1%; >=0.1 W; 按原值采购；反馈/终端电阻需同批次"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Evidence" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Approved_brands" "YAGEO / Vishay / Panasonic / UNI-ROYAL / FH"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sourcing_policy" "国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
 					)
 					(hide yes)
 				)
@@ -3402,6 +3699,78 @@
 				(effects
 					(font
 						(size 1.0 1.0)
+					)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer" "候选：YAGEO / Vishay / Panasonic / UNI-ROYAL / FH"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "MPN" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sourcing_status" "规格选型，待锁定料号"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Specification" "0603; <=1%; >=0.1 W; 按原值采购；反馈/终端电阻需同批次"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Evidence" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Approved_brands" "YAGEO / Vishay / Panasonic / UNI-ROYAL / FH"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sourcing_policy" "国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
 					)
 					(hide yes)
 				)
@@ -4866,6 +5235,78 @@
 					(hide yes)
 				)
 			)
+			(property "Manufacturer" "候选：Murata / TDK / Coilcraft / Sunlord / FH"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "MPN" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sourcing_status" "规格选型，待锁定料号"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Specification" "RF电感须核对 Q、SRF、DCR 与偏置电流，按原值及容差；磁珠按阻抗曲线选型"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Evidence" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Approved_brands" "Murata / TDK / Coilcraft / Sunlord / FH"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sourcing_policy" "国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
 			(symbol "L1_inductor_1_1_1"
 				(polyline
 					(pts
@@ -5046,6 +5487,78 @@
 					(hide yes)
 				)
 			)
+			(property "Manufacturer" "候选：Murata / TDK / Samsung Electro-Mechanics / Walsin / FH / EYANG"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "MPN" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sourcing_status" "规格选型，待锁定料号"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Specification" "按项目焊盘尺寸；RF/匹配/PLL环路优先 C0G；去耦 X7R；耐压 >=16 V；保留原容差"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Evidence" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Approved_brands" "Murata / TDK / Samsung Electro-Mechanics / Walsin / FH / EYANG"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sourcing_policy" "国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
 			(symbol "C1_capacitor_1_1_1"
 				(polyline
 					(pts
@@ -5162,6 +5675,78 @@
 				(effects
 					(font
 						(size 1.0 1.0)
+					)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer" "候选：YAGEO / Vishay / Panasonic / UNI-ROYAL / FH"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "MPN" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sourcing_status" "规格选型，待锁定料号"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Specification" "0603; <=1%; >=0.1 W; 按原值采购；反馈/终端电阻需同批次"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Evidence" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Approved_brands" "YAGEO / Vishay / Panasonic / UNI-ROYAL / FH"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sourcing_policy" "国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
 					)
 					(hide yes)
 				)
@@ -5318,6 +5903,78 @@
 				(effects
 					(font
 						(size 1.0 1.0)
+					)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer" "候选：Murata / TDK / Coilcraft / Sunlord / FH"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "MPN" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sourcing_status" "规格选型，待锁定料号"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Specification" "RF电感须核对 Q、SRF、DCR 与偏置电流，按原值及容差；磁珠按阻抗曲线选型"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Evidence" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Approved_brands" "Murata / TDK / Coilcraft / Sunlord / FH"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sourcing_policy" "国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
 					)
 					(hide yes)
 				)
@@ -5502,6 +6159,78 @@
 					(hide yes)
 				)
 			)
+			(property "Manufacturer" "候选：Murata / TDK / Samsung Electro-Mechanics / Walsin / FH / EYANG"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "MPN" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sourcing_status" "规格选型，待锁定料号"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Specification" "按项目焊盘尺寸；RF/匹配/PLL环路优先 C0G；去耦 X7R；耐压 >=16 V；保留原容差"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Evidence" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Approved_brands" "Murata / TDK / Samsung Electro-Mechanics / Walsin / FH / EYANG"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sourcing_policy" "国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
 			(symbol "C2_capacitor_1_1_1"
 				(polyline
 					(pts
@@ -5618,6 +6347,78 @@
 				(effects
 					(font
 						(size 1.0 1.0)
+					)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer" "候选：YAGEO / Vishay / Panasonic / UNI-ROYAL / FH"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "MPN" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sourcing_status" "规格选型，待锁定料号"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Specification" "0603; <=1%; >=0.1 W; 按原值采购；反馈/终端电阻需同批次"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Evidence" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Approved_brands" "YAGEO / Vishay / Panasonic / UNI-ROYAL / FH"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sourcing_policy" "国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
 					)
 					(hide yes)
 				)
@@ -5778,6 +6579,78 @@
 					(hide yes)
 				)
 			)
+			(property "Manufacturer" "候选：Murata / TDK / Samsung Electro-Mechanics / Walsin / FH / EYANG"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "MPN" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sourcing_status" "规格选型，待锁定料号"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Specification" "按项目焊盘尺寸；RF/匹配/PLL环路优先 C0G；去耦 X7R；耐压 >=16 V；保留原容差"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Evidence" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Approved_brands" "Murata / TDK / Samsung Electro-Mechanics / Walsin / FH / EYANG"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sourcing_policy" "国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
 			(symbol "C3_capacitor_1_1_1"
 				(polyline
 					(pts
@@ -5894,6 +6767,78 @@
 				(effects
 					(font
 						(size 1.0 1.0)
+					)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer" "候选：Murata / TDK / Samsung Electro-Mechanics / Walsin / FH / EYANG"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "MPN" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sourcing_status" "规格选型，待锁定料号"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Specification" "按项目焊盘尺寸；RF/匹配/PLL环路优先 C0G；去耦 X7R；耐压 >=16 V；保留原容差"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Evidence" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Approved_brands" "Murata / TDK / Samsung Electro-Mechanics / Walsin / FH / EYANG"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sourcing_policy" "国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
 					)
 					(hide yes)
 				)
@@ -6215,6 +7160,78 @@
 					(hide yes)
 				)
 			)
+			(property "Manufacturer" "候选：YAGEO / Vishay / Panasonic / UNI-ROYAL / FH"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "MPN" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sourcing_status" "规格选型，待锁定料号"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Specification" "0603; <=1%; >=0.1 W; 按原值采购；反馈/终端电阻需同批次"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Evidence" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Approved_brands" "YAGEO / Vishay / Panasonic / UNI-ROYAL / FH"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sourcing_policy" "国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
 			(symbol "R3_resistor_1_1_1"
 				(polyline
 					(pts
@@ -6367,6 +7384,78 @@
 				(effects
 					(font
 						(size 1.0 1.0)
+					)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer" "候选：YAGEO / Vishay / Panasonic / UNI-ROYAL / FH"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "MPN" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sourcing_status" "规格选型，待锁定料号"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Specification" "0603; <=1%; >=0.1 W; 按原值采购；反馈/终端电阻需同批次"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Evidence" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Approved_brands" "YAGEO / Vishay / Panasonic / UNI-ROYAL / FH"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sourcing_policy" "国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
 					)
 					(hide yes)
 				)
@@ -6527,6 +7616,78 @@
 					(hide yes)
 				)
 			)
+			(property "Manufacturer" "候选：YAGEO / Vishay / Panasonic / UNI-ROYAL / FH"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "MPN" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sourcing_status" "规格选型，待锁定料号"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Specification" "0603; <=1%; >=0.1 W; 按原值采购；反馈/终端电阻需同批次"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Evidence" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Approved_brands" "YAGEO / Vishay / Panasonic / UNI-ROYAL / FH"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sourcing_policy" "国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
 			(symbol "R5_resistor_1_1_1"
 				(polyline
 					(pts
@@ -6683,6 +7844,78 @@
 					(hide yes)
 				)
 			)
+			(property "Manufacturer" "候选：YAGEO / Vishay / Panasonic / UNI-ROYAL / FH"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "MPN" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sourcing_status" "规格选型，待锁定料号"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Specification" "0603; <=1%; >=0.1 W; 按原值采购；反馈/终端电阻需同批次"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Evidence" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Approved_brands" "YAGEO / Vishay / Panasonic / UNI-ROYAL / FH"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sourcing_policy" "国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
 			(symbol "R39_resistor_1_1_1"
 				(polyline
 					(pts
@@ -6835,6 +8068,78 @@
 				(effects
 					(font
 						(size 1.0 1.0)
+					)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer" "候选：YAGEO / Vishay / Panasonic / UNI-ROYAL / FH"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "MPN" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sourcing_status" "规格选型，待锁定料号"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Specification" "0603; <=1%; >=0.1 W; 按原值采购；反馈/终端电阻需同批次"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Evidence" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Approved_brands" "YAGEO / Vishay / Panasonic / UNI-ROYAL / FH"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sourcing_policy" "国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
 					)
 					(hide yes)
 				)
@@ -7166,6 +8471,78 @@
 					(hide yes)
 				)
 			)
+			(property "Manufacturer" "候选：Murata / TDK / Samsung Electro-Mechanics / Walsin / FH / EYANG"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "MPN" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sourcing_status" "规格选型，待锁定料号"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Specification" "按项目焊盘尺寸；RF/匹配/PLL环路优先 C0G；去耦 X7R；耐压 >=16 V；保留原容差"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Evidence" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Approved_brands" "Murata / TDK / Samsung Electro-Mechanics / Walsin / FH / EYANG"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sourcing_policy" "国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
 			(symbol "C15_capacitor_1_1_1"
 				(polyline
 					(pts
@@ -7282,6 +8659,78 @@
 				(effects
 					(font
 						(size 1.0 1.0)
+					)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer" "候选：YAGEO / Vishay / Panasonic / UNI-ROYAL / FH"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "MPN" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sourcing_status" "规格选型，待锁定料号"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Specification" "0603; <=1%; >=0.1 W; 按原值采购；反馈/终端电阻需同批次"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Evidence" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Approved_brands" "YAGEO / Vishay / Panasonic / UNI-ROYAL / FH"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sourcing_policy" "国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
 					)
 					(hide yes)
 				)
@@ -7438,6 +8887,78 @@
 				(effects
 					(font
 						(size 1.0 1.0)
+					)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer" "候选：YAGEO / Vishay / Panasonic / UNI-ROYAL / FH"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "MPN" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sourcing_status" "规格选型，待锁定料号"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Specification" "0603; <=1%; >=0.1 W; 按原值采购；反馈/终端电阻需同批次"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Evidence" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Approved_brands" "YAGEO / Vishay / Panasonic / UNI-ROYAL / FH"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sourcing_policy" "国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
 					)
 					(hide yes)
 				)
@@ -7795,6 +9316,78 @@
 					(hide yes)
 				)
 			)
+			(property "Manufacturer" "候选：YAGEO / Vishay / Panasonic / UNI-ROYAL / FH"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "MPN" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sourcing_status" "规格选型，待锁定料号"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Specification" "0603; <=1%; >=0.1 W; 按原值采购；反馈/终端电阻需同批次"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Evidence" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Approved_brands" "YAGEO / Vishay / Panasonic / UNI-ROYAL / FH"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sourcing_policy" "国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
 			(symbol "R6_resistor_1_1_1"
 				(polyline
 					(pts
@@ -7947,6 +9540,78 @@
 				(effects
 					(font
 						(size 1.0 1.0)
+					)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer" "候选：YAGEO / Vishay / Panasonic / UNI-ROYAL / FH"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "MPN" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sourcing_status" "规格选型，待锁定料号"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Specification" "0603; <=1%; >=0.1 W; 按原值采购；反馈/终端电阻需同批次"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Evidence" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Approved_brands" "YAGEO / Vishay / Panasonic / UNI-ROYAL / FH"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sourcing_policy" "国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
 					)
 					(hide yes)
 				)
@@ -8107,6 +9772,78 @@
 					(hide yes)
 				)
 			)
+			(property "Manufacturer" "候选：YAGEO / Vishay / Panasonic / UNI-ROYAL / FH"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "MPN" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sourcing_status" "规格选型，待锁定料号"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Specification" "0603; <=1%; >=0.1 W; 按原值采购；反馈/终端电阻需同批次"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Evidence" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Approved_brands" "YAGEO / Vishay / Panasonic / UNI-ROYAL / FH"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sourcing_policy" "国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
 			(symbol "R8_resistor_1_1_1"
 				(polyline
 					(pts
@@ -8259,6 +9996,78 @@
 				(effects
 					(font
 						(size 1.0 1.0)
+					)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer" "候选：YAGEO / Vishay / Panasonic / UNI-ROYAL / FH"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "MPN" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sourcing_status" "规格选型，待锁定料号"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Specification" "0603; <=1%; >=0.1 W; 按原值采购；反馈/终端电阻需同批次"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Evidence" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Approved_brands" "YAGEO / Vishay / Panasonic / UNI-ROYAL / FH"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sourcing_policy" "国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
 					)
 					(hide yes)
 				)
@@ -8419,6 +10228,78 @@
 					(hide yes)
 				)
 			)
+			(property "Manufacturer" "候选：YAGEO / Vishay / Panasonic / UNI-ROYAL / FH"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "MPN" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sourcing_status" "规格选型，待锁定料号"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Specification" "0603; <=1%; >=0.1 W; 按原值采购；反馈/终端电阻需同批次"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Evidence" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Approved_brands" "YAGEO / Vishay / Panasonic / UNI-ROYAL / FH"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sourcing_policy" "国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
 			(symbol "R37_resistor_1_1_1"
 				(polyline
 					(pts
@@ -8575,6 +10456,78 @@
 					(hide yes)
 				)
 			)
+			(property "Manufacturer" "FH 风华高科"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "MPN" "0603B104K500NT"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC" "C30926"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sourcing_status" "已核对目录料号，0603 时采用"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Specification" "0603; 100 nF; X7R; 50 V; +/-10%"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Evidence" "https://item.szlcsc.com/31683.html"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Approved_brands" "Murata / TDK / Samsung Electro-Mechanics / Walsin / FH / EYANG"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sourcing_policy" "国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
 			(symbol "C23_capacitor_1_1_1"
 				(polyline
 					(pts
@@ -8691,6 +10644,78 @@
 				(effects
 					(font
 						(size 1.0 1.0)
+					)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer" "FH 风华高科"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "MPN" "0603B104K500NT"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC" "C30926"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sourcing_status" "已核对目录料号，0603 时采用"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Specification" "0603; 100 nF; X7R; 50 V; +/-10%"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Evidence" "https://item.szlcsc.com/31683.html"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Approved_brands" "Murata / TDK / Samsung Electro-Mechanics / Walsin / FH / EYANG"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sourcing_policy" "国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
 					)
 					(hide yes)
 				)
@@ -8815,6 +10840,78 @@
 					(hide yes)
 				)
 			)
+			(property "Manufacturer" "候选：Murata / TDK / Samsung Electro-Mechanics / Walsin / FH / EYANG"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "MPN" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sourcing_status" "规格选型，待锁定料号"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Specification" "按项目焊盘尺寸；RF/匹配/PLL环路优先 C0G；去耦 X7R；耐压 >=16 V；保留原容差"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Evidence" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Approved_brands" "Murata / TDK / Samsung Electro-Mechanics / Walsin / FH / EYANG"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sourcing_policy" "国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
 			(symbol "C10_capacitor_1_1_1"
 				(polyline
 					(pts
@@ -8931,6 +11028,78 @@
 				(effects
 					(font
 						(size 1.0 1.0)
+					)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer" "候选：Murata / TDK / Samsung Electro-Mechanics / Walsin / FH / EYANG"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "MPN" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sourcing_status" "规格选型，待锁定料号"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Specification" "按项目焊盘尺寸；RF/匹配/PLL环路优先 C0G；去耦 X7R；耐压 >=16 V；保留原容差"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Evidence" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Approved_brands" "Murata / TDK / Samsung Electro-Mechanics / Walsin / FH / EYANG"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sourcing_policy" "国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
 					)
 					(hide yes)
 				)
@@ -9055,6 +11224,78 @@
 					(hide yes)
 				)
 			)
+			(property "Manufacturer" "FH 风华高科"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "MPN" "0603B104K500NT"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC" "C30926"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sourcing_status" "已核对目录料号，0603 时采用"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Specification" "0603; 100 nF; X7R; 50 V; +/-10%"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Evidence" "https://item.szlcsc.com/31683.html"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Approved_brands" "Murata / TDK / Samsung Electro-Mechanics / Walsin / FH / EYANG"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sourcing_policy" "国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
 			(symbol "C12_capacitor_1_1_1"
 				(polyline
 					(pts
@@ -9175,6 +11416,78 @@
 					(hide yes)
 				)
 			)
+			(property "Manufacturer" "候选：Murata / TDK / Samsung Electro-Mechanics / Walsin / FH / EYANG"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "MPN" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sourcing_status" "规格选型，待锁定料号"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Specification" "按项目焊盘尺寸；RF/匹配/PLL环路优先 C0G；去耦 X7R；耐压 >=16 V；保留原容差"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Evidence" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Approved_brands" "Murata / TDK / Samsung Electro-Mechanics / Walsin / FH / EYANG"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sourcing_policy" "国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
 			(symbol "C5_capacitor_1_1_1"
 				(polyline
 					(pts
@@ -9291,6 +11604,78 @@
 				(effects
 					(font
 						(size 1.0 1.0)
+					)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer" "Sunlord 顺络"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "MPN" "GZ3216D601TF"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sourcing_status" "新选磁珠；需测电源噪声与压降"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Specification" "1206; 600 ohm @100 MHz; 600 mA; DCR <=0.30 ohm"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Evidence" "https://atta.szlcsc.com/upload/public/pdf/source/20151029/1457707509886.pdf"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Approved_brands" "Murata / TDK / Coilcraft / Sunlord / FH"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sourcing_policy" "国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
 					)
 					(hide yes)
 				)
@@ -9475,6 +11860,78 @@
 					(hide yes)
 				)
 			)
+			(property "Manufacturer" "Sunlord 顺络"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "MPN" "GZ3216D601TF"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sourcing_status" "新选磁珠；需测电源噪声与压降"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Specification" "1206; 600 ohm @100 MHz; 600 mA; DCR <=0.30 ohm"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Evidence" "https://atta.szlcsc.com/upload/public/pdf/source/20151029/1457707509886.pdf"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Approved_brands" "Murata / TDK / Coilcraft / Sunlord / FH"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sourcing_policy" "国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
 			(symbol "FB2_inductor_1_1_1"
 				(polyline
 					(pts
@@ -9655,6 +12112,78 @@
 					(hide yes)
 				)
 			)
+			(property "Manufacturer" "FH 风华高科"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "MPN" "0603B104K500NT"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC" "C30926"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sourcing_status" "已核对目录料号，0603 时采用"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Specification" "0603; 100 nF; X7R; 50 V; +/-10%"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Evidence" "https://item.szlcsc.com/31683.html"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Approved_brands" "Murata / TDK / Samsung Electro-Mechanics / Walsin / FH / EYANG"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sourcing_policy" "国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
 			(symbol "C20_capacitor_1_1_1"
 				(polyline
 					(pts
@@ -9771,6 +12300,78 @@
 				(effects
 					(font
 						(size 1.0 1.0)
+					)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer" "候选：Murata / TDK / Samsung Electro-Mechanics / Walsin / FH / EYANG"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "MPN" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sourcing_status" "规格选型，待锁定料号"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Specification" "按项目焊盘尺寸；RF/匹配/PLL环路优先 C0G；去耦 X7R；耐压 >=16 V；保留原容差"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Evidence" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Approved_brands" "Murata / TDK / Samsung Electro-Mechanics / Walsin / FH / EYANG"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sourcing_policy" "国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
 					)
 					(hide yes)
 				)
@@ -9895,6 +12496,78 @@
 					(hide yes)
 				)
 			)
+			(property "Manufacturer" "FH 风华高科"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "MPN" "0603B104K500NT"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC" "C30926"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sourcing_status" "已核对目录料号，0603 时采用"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Specification" "0603; 100 nF; X7R; 50 V; +/-10%"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Evidence" "https://item.szlcsc.com/31683.html"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Approved_brands" "Murata / TDK / Samsung Electro-Mechanics / Walsin / FH / EYANG"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sourcing_policy" "国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
 			(symbol "C6_capacitor_1_1_1"
 				(polyline
 					(pts
@@ -10011,6 +12684,78 @@
 				(effects
 					(font
 						(size 1.0 1.0)
+					)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer" "FH 风华高科"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "MPN" "0603B104K500NT"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC" "C30926"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sourcing_status" "已核对目录料号，0603 时采用"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Specification" "0603; 100 nF; X7R; 50 V; +/-10%"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Evidence" "https://item.szlcsc.com/31683.html"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Approved_brands" "Murata / TDK / Samsung Electro-Mechanics / Walsin / FH / EYANG"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sourcing_policy" "国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
 					)
 					(hide yes)
 				)
@@ -10135,6 +12880,78 @@
 					(hide yes)
 				)
 			)
+			(property "Manufacturer" "候选：Murata / TDK / Samsung Electro-Mechanics / Walsin / FH / EYANG"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "MPN" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sourcing_status" "规格选型，待锁定料号"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Specification" "按项目焊盘尺寸；RF/匹配/PLL环路优先 C0G；去耦 X7R；耐压 >=16 V；保留原容差"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Evidence" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Approved_brands" "Murata / TDK / Samsung Electro-Mechanics / Walsin / FH / EYANG"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sourcing_policy" "国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
 			(symbol "C31_capacitor_1_1_1"
 				(polyline
 					(pts
@@ -10251,6 +13068,78 @@
 				(effects
 					(font
 						(size 1.0 1.0)
+					)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer" "候选：YAGEO / Vishay / Panasonic / UNI-ROYAL / FH"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "MPN" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sourcing_status" "规格选型，待锁定料号"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Specification" "0603; <=1%; >=0.1 W; 按原值采购；反馈/终端电阻需同批次"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Evidence" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Approved_brands" "YAGEO / Vishay / Panasonic / UNI-ROYAL / FH"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sourcing_policy" "国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
 					)
 					(hide yes)
 				)
@@ -10411,6 +13300,78 @@
 					(hide yes)
 				)
 			)
+			(property "Manufacturer" "候选：YAGEO / Vishay / Panasonic / UNI-ROYAL / FH"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "MPN" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sourcing_status" "规格选型，待锁定料号"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Specification" "0603; <=1%; >=0.1 W; 按原值采购；反馈/终端电阻需同批次"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Evidence" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Approved_brands" "YAGEO / Vishay / Panasonic / UNI-ROYAL / FH"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sourcing_policy" "国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
 			(symbol "R41_resistor_1_1_1"
 				(polyline
 					(pts
@@ -10567,6 +13528,78 @@
 					(hide yes)
 				)
 			)
+			(property "Manufacturer" "候选：Murata / TDK / Samsung Electro-Mechanics / Walsin / FH / EYANG"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "MPN" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sourcing_status" "规格选型，待锁定料号"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Specification" "按项目焊盘尺寸；RF/匹配/PLL环路优先 C0G；去耦 X7R；耐压 >=16 V；保留原容差"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Evidence" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Approved_brands" "Murata / TDK / Samsung Electro-Mechanics / Walsin / FH / EYANG"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sourcing_policy" "国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
 			(symbol "C32_capacitor_1_1_1"
 				(polyline
 					(pts
@@ -10687,6 +13720,78 @@
 					(hide yes)
 				)
 			)
+			(property "Manufacturer" "候选：Murata / TDK / Samsung Electro-Mechanics / Walsin / FH / EYANG"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "MPN" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sourcing_status" "规格选型，待锁定料号"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Specification" "按项目焊盘尺寸；RF/匹配/PLL环路优先 C0G；去耦 X7R；耐压 >=16 V；保留原容差"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Evidence" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Approved_brands" "Murata / TDK / Samsung Electro-Mechanics / Walsin / FH / EYANG"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sourcing_policy" "国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
 			(symbol "C34_capacitor_1_1_1"
 				(polyline
 					(pts
@@ -10803,6 +13908,78 @@
 				(effects
 					(font
 						(size 1.0 1.0)
+					)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer" "候选：Murata / TDK / Samsung Electro-Mechanics / Walsin / FH / EYANG"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "MPN" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sourcing_status" "规格选型，待锁定料号"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Specification" "按项目焊盘尺寸；RF/匹配/PLL环路优先 C0G；去耦 X7R；耐压 >=16 V；保留原容差"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Evidence" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Approved_brands" "Murata / TDK / Samsung Electro-Mechanics / Walsin / FH / EYANG"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sourcing_policy" "国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1 1)
 					)
 					(hide yes)
 				)
@@ -11088,15 +14265,15 @@
 		(dnp no)
 		(uuid "6c99cf1f-5106-51fd-bf9e-eea708127d54")
 		(property "Reference" "U52"
-			(at 159.385 22.67 0)
+			(at 159.385 20.53 0)
 			(effects
 				(font
 					(size 1.0 1.0)
 				)
 			)
 		)
-		(property "Value" "GT24C02A-2GLI-TR"
-			(at 159.385 24.67 0)
+		(property "Value" "AT24C02"
+			(at 159.385 22.53 0)
 			(effects
 				(font
 					(size 1.0 1.0)
@@ -11129,7 +14306,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Giantec 聚辰"
+		(property "Manufacturer" "Microchip"
 			(at 0 0 0)
 			(effects
 				(font
@@ -11138,7 +14315,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "GT24C02A-2GLI-TR"
+		(property "MPN" "AT24C02C-SSHM-T"
 			(at 0 0 0)
 			(effects
 				(font
@@ -11147,7 +14324,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C239137"
+		(property "LCSC" "C6203"
 			(at 0 0 0)
 			(effects
 				(font
@@ -11156,7 +14333,7 @@
 				(hide yes)
 			)
 		)
-		(property "Sourcing_status" "已核对引脚、电压、容量；待写入/识别实测"
+		(property "Sourcing_status" "已核对引脚/封装/电压/目录；8-byte页写；待实机写入及识别"
 			(at 0 0 0)
 			(effects
 				(font
@@ -11165,7 +14342,7 @@
 				(hide yes)
 			)
 		)
-		(property "Specification" "SOIC-8; 1.7–5.5 V; 2 Kbit; 16-byte page; WP=0; 5 ms max write"
+		(property "Specification" "SOIC-8 3.9x4.9 mm, P1.27 mm; 1.7–5.5 V; 2 Kbit (256x8); 8-byte page; WP=0; write <=5 ms; ACK polling; 不跨8字节页边界"
 			(at 0 0 0)
 			(effects
 				(font
@@ -11183,11 +14360,38 @@
 				(hide yes)
 			)
 		)
-		(property "Evidence" "https://www.giantec-semi.com/uploads/20220929/aea94631838957c81f132940c6e46526.pdf"
+		(property "Evidence" "https://ww1.microchip.com/downloads/en/DeviceDoc/AT24C01C-AT24C02C-I2C-Compatible-Two-Wire-Serial-EEPROM-1Kbit-2Kbit-20006111A.pdf"
 			(at 0 0 0)
 			(effects
 				(font
 					(size 1.0 1.0)
+				)
+				(hide yes)
+			)
+		)
+		(property "Approved_brands" "Microchip"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourcing_policy" "按完整MPN和厂家采购，不能仅按AT24C02通用名下单"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://ww1.microchip.com/downloads/en/DeviceDoc/AT24C01C-AT24C02C-I2C-Compatible-Two-Wire-Serial-EEPROM-1Kbit-2Kbit-20006111A.pdf"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
 				)
 				(hide yes)
 			)
@@ -11210,7 +14414,7 @@
 				)
 			)
 		)
-		(property "Value" "GT24C02A-2GLI-TR"
+		(property "Value" "AT24C02"
 			(at 317.5 21.4 0)
 			(effects
 				(font
@@ -11244,7 +14448,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Giantec 聚辰"
+		(property "Manufacturer" "Microchip"
 			(at 0 0 0)
 			(effects
 				(font
@@ -11253,7 +14457,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "GT24C02A-2GLI-TR"
+		(property "MPN" "AT24C02C-SSHM-T"
 			(at 0 0 0)
 			(effects
 				(font
@@ -11262,7 +14466,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C239137"
+		(property "LCSC" "C6203"
 			(at 0 0 0)
 			(effects
 				(font
@@ -11271,7 +14475,7 @@
 				(hide yes)
 			)
 		)
-		(property "Sourcing_status" "已核对引脚、电压、容量；待写入/识别实测"
+		(property "Sourcing_status" "已核对引脚/封装/电压/目录；8-byte页写；待实机写入及识别"
 			(at 0 0 0)
 			(effects
 				(font
@@ -11280,7 +14484,7 @@
 				(hide yes)
 			)
 		)
-		(property "Specification" "SOIC-8; 1.7–5.5 V; 2 Kbit; 16-byte page; WP=0; 5 ms max write"
+		(property "Specification" "SOIC-8 3.9x4.9 mm, P1.27 mm; 1.7–5.5 V; 2 Kbit (256x8); 8-byte page; WP=0; write <=5 ms; ACK polling; 不跨8字节页边界"
 			(at 0 0 0)
 			(effects
 				(font
@@ -11298,11 +14502,38 @@
 				(hide yes)
 			)
 		)
-		(property "Evidence" "https://www.giantec-semi.com/uploads/20220929/aea94631838957c81f132940c6e46526.pdf"
+		(property "Evidence" "https://ww1.microchip.com/downloads/en/DeviceDoc/AT24C01C-AT24C02C-I2C-Compatible-Two-Wire-Serial-EEPROM-1Kbit-2Kbit-20006111A.pdf"
 			(at 0 0 0)
 			(effects
 				(font
 					(size 1.0 1.0)
+				)
+				(hide yes)
+			)
+		)
+		(property "Approved_brands" "Microchip"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourcing_policy" "按完整MPN和厂家采购，不能仅按AT24C02通用名下单"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://ww1.microchip.com/downloads/en/DeviceDoc/AT24C01C-AT24C02C-I2C-Compatible-Two-Wire-Serial-EEPROM-1Kbit-2Kbit-20006111A.pdf"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
 				)
 				(hide yes)
 			)
@@ -11418,6 +14649,24 @@
 			(effects
 				(font
 					(size 1.0 1.0)
+				)
+				(hide yes)
+			)
+		)
+		(property "Approved_brands" "YAGEO / Vishay / Panasonic / UNI-ROYAL / FH"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourcing_policy" "国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
 				)
 				(hide yes)
 			)
@@ -11831,7 +15080,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "FH 风华高科"
+		(property "Manufacturer" "候选：Murata / TDK / Samsung Electro-Mechanics / Walsin / FH / EYANG"
 			(at 0 0 0)
 			(effects
 				(font
@@ -11894,6 +15143,24 @@
 				(hide yes)
 			)
 		)
+		(property "Approved_brands" "Murata / TDK / Samsung Electro-Mechanics / Walsin / FH / EYANG"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourcing_policy" "国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(symbol
 		(lib_id "USRP:R33_resistor_1")
@@ -11946,7 +15213,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "UNI-ROYAL 厚声"
+		(property "Manufacturer" "候选：YAGEO / Vishay / Panasonic / UNI-ROYAL / FH"
 			(at 0 0 0)
 			(effects
 				(font
@@ -12005,6 +15272,24 @@
 			(effects
 				(font
 					(size 1.0 1.0)
+				)
+				(hide yes)
+			)
+		)
+		(property "Approved_brands" "YAGEO / Vishay / Panasonic / UNI-ROYAL / FH"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourcing_policy" "国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
 				)
 				(hide yes)
 			)
@@ -12061,7 +15346,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "UNI-ROYAL 厚声"
+		(property "Manufacturer" "候选：YAGEO / Vishay / Panasonic / UNI-ROYAL / FH"
 			(at 0 0 0)
 			(effects
 				(font
@@ -12120,6 +15405,24 @@
 			(effects
 				(font
 					(size 1.0 1.0)
+				)
+				(hide yes)
+			)
+		)
+		(property "Approved_brands" "YAGEO / Vishay / Panasonic / UNI-ROYAL / FH"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourcing_policy" "国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
 				)
 				(hide yes)
 			)
@@ -12636,7 +15939,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Sunlord 顺络 / FH 风华高科"
+		(property "Manufacturer" "候选：Murata / TDK / Coilcraft / Sunlord / FH"
 			(at 0 0 0)
 			(effects
 				(font
@@ -12699,6 +16002,24 @@
 				(hide yes)
 			)
 		)
+		(property "Approved_brands" "Murata / TDK / Coilcraft / Sunlord / FH"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourcing_policy" "国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(symbol
 		(lib_id "USRP:C1_capacitor_1")
@@ -12751,7 +16072,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "FH 风华高科"
+		(property "Manufacturer" "候选：Murata / TDK / Samsung Electro-Mechanics / Walsin / FH / EYANG"
 			(at 0 0 0)
 			(effects
 				(font
@@ -12814,6 +16135,24 @@
 				(hide yes)
 			)
 		)
+		(property "Approved_brands" "Murata / TDK / Samsung Electro-Mechanics / Walsin / FH / EYANG"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourcing_policy" "国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(symbol
 		(lib_id "USRP:R1_resistor_1")
@@ -12866,7 +16205,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "UNI-ROYAL 厚声"
+		(property "Manufacturer" "候选：YAGEO / Vishay / Panasonic / UNI-ROYAL / FH"
 			(at 0 0 0)
 			(effects
 				(font
@@ -12929,6 +16268,24 @@
 				(hide yes)
 			)
 		)
+		(property "Approved_brands" "YAGEO / Vishay / Panasonic / UNI-ROYAL / FH"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourcing_policy" "国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(symbol
 		(lib_id "USRP:L2_inductor_1")
@@ -12981,7 +16338,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Sunlord 顺络 / FH 风华高科"
+		(property "Manufacturer" "候选：Murata / TDK / Coilcraft / Sunlord / FH"
 			(at 0 0 0)
 			(effects
 				(font
@@ -13044,6 +16401,24 @@
 				(hide yes)
 			)
 		)
+		(property "Approved_brands" "Murata / TDK / Coilcraft / Sunlord / FH"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourcing_policy" "国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(symbol
 		(lib_id "USRP:C2_capacitor_1")
@@ -13096,7 +16471,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "FH 风华高科"
+		(property "Manufacturer" "候选：Murata / TDK / Samsung Electro-Mechanics / Walsin / FH / EYANG"
 			(at 0 0 0)
 			(effects
 				(font
@@ -13159,6 +16534,24 @@
 				(hide yes)
 			)
 		)
+		(property "Approved_brands" "Murata / TDK / Samsung Electro-Mechanics / Walsin / FH / EYANG"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourcing_policy" "国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(symbol
 		(lib_id "USRP:R2_resistor_1")
@@ -13211,7 +16604,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "UNI-ROYAL 厚声"
+		(property "Manufacturer" "候选：YAGEO / Vishay / Panasonic / UNI-ROYAL / FH"
 			(at 0 0 0)
 			(effects
 				(font
@@ -13274,6 +16667,24 @@
 				(hide yes)
 			)
 		)
+		(property "Approved_brands" "YAGEO / Vishay / Panasonic / UNI-ROYAL / FH"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourcing_policy" "国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(symbol
 		(lib_id "USRP:C3_capacitor_1")
@@ -13326,7 +16737,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "FH 风华高科"
+		(property "Manufacturer" "候选：Murata / TDK / Samsung Electro-Mechanics / Walsin / FH / EYANG"
 			(at 0 0 0)
 			(effects
 				(font
@@ -13389,6 +16800,24 @@
 				(hide yes)
 			)
 		)
+		(property "Approved_brands" "Murata / TDK / Samsung Electro-Mechanics / Walsin / FH / EYANG"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourcing_policy" "国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(symbol
 		(lib_id "USRP:C4_capacitor_1")
@@ -13441,7 +16870,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "FH 风华高科"
+		(property "Manufacturer" "候选：Murata / TDK / Samsung Electro-Mechanics / Walsin / FH / EYANG"
 			(at 0 0 0)
 			(effects
 				(font
@@ -13500,6 +16929,24 @@
 			(effects
 				(font
 					(size 1.0 1.0)
+				)
+				(hide yes)
+			)
+		)
+		(property "Approved_brands" "Murata / TDK / Samsung Electro-Mechanics / Walsin / FH / EYANG"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourcing_policy" "国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
 				)
 				(hide yes)
 			)
@@ -13671,7 +17118,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "UNI-ROYAL 厚声"
+		(property "Manufacturer" "候选：YAGEO / Vishay / Panasonic / UNI-ROYAL / FH"
 			(at 0 0 0)
 			(effects
 				(font
@@ -13734,6 +17181,24 @@
 				(hide yes)
 			)
 		)
+		(property "Approved_brands" "YAGEO / Vishay / Panasonic / UNI-ROYAL / FH"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourcing_policy" "国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(symbol
 		(lib_id "USRP:R4_resistor_1")
@@ -13786,7 +17251,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "UNI-ROYAL 厚声"
+		(property "Manufacturer" "候选：YAGEO / Vishay / Panasonic / UNI-ROYAL / FH"
 			(at 0 0 0)
 			(effects
 				(font
@@ -13849,6 +17314,24 @@
 				(hide yes)
 			)
 		)
+		(property "Approved_brands" "YAGEO / Vishay / Panasonic / UNI-ROYAL / FH"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourcing_policy" "国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(symbol
 		(lib_id "USRP:R5_resistor_1")
@@ -13901,7 +17384,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "UNI-ROYAL 厚声"
+		(property "Manufacturer" "候选：YAGEO / Vishay / Panasonic / UNI-ROYAL / FH"
 			(at 0 0 0)
 			(effects
 				(font
@@ -13964,6 +17447,24 @@
 				(hide yes)
 			)
 		)
+		(property "Approved_brands" "YAGEO / Vishay / Panasonic / UNI-ROYAL / FH"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourcing_policy" "国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(symbol
 		(lib_id "USRP:R39_resistor_1")
@@ -14016,7 +17517,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "UNI-ROYAL 厚声"
+		(property "Manufacturer" "候选：YAGEO / Vishay / Panasonic / UNI-ROYAL / FH"
 			(at 0 0 0)
 			(effects
 				(font
@@ -14079,6 +17580,24 @@
 				(hide yes)
 			)
 		)
+		(property "Approved_brands" "YAGEO / Vishay / Panasonic / UNI-ROYAL / FH"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourcing_policy" "国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(symbol
 		(lib_id "USRP:R32_resistor_1")
@@ -14131,7 +17650,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "UNI-ROYAL 厚声"
+		(property "Manufacturer" "候选：YAGEO / Vishay / Panasonic / UNI-ROYAL / FH"
 			(at 0 0 0)
 			(effects
 				(font
@@ -14190,6 +17709,24 @@
 			(effects
 				(font
 					(size 1.0 1.0)
+				)
+				(hide yes)
+			)
+		)
+		(property "Approved_brands" "YAGEO / Vishay / Panasonic / UNI-ROYAL / FH"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourcing_policy" "国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
 				)
 				(hide yes)
 			)
@@ -14361,7 +17898,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "FH 风华高科"
+		(property "Manufacturer" "候选：Murata / TDK / Samsung Electro-Mechanics / Walsin / FH / EYANG"
 			(at 0 0 0)
 			(effects
 				(font
@@ -14424,6 +17961,24 @@
 				(hide yes)
 			)
 		)
+		(property "Approved_brands" "Murata / TDK / Samsung Electro-Mechanics / Walsin / FH / EYANG"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourcing_policy" "国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(symbol
 		(lib_id "USRP:R35_resistor_1")
@@ -14476,7 +18031,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "UNI-ROYAL 厚声"
+		(property "Manufacturer" "候选：YAGEO / Vishay / Panasonic / UNI-ROYAL / FH"
 			(at 0 0 0)
 			(effects
 				(font
@@ -14535,6 +18090,24 @@
 			(effects
 				(font
 					(size 1.0 1.0)
+				)
+				(hide yes)
+			)
+		)
+		(property "Approved_brands" "YAGEO / Vishay / Panasonic / UNI-ROYAL / FH"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourcing_policy" "国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
 				)
 				(hide yes)
 			)
@@ -14591,7 +18164,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "UNI-ROYAL 厚声"
+		(property "Manufacturer" "候选：YAGEO / Vishay / Panasonic / UNI-ROYAL / FH"
 			(at 0 0 0)
 			(effects
 				(font
@@ -14650,6 +18223,24 @@
 			(effects
 				(font
 					(size 1.0 1.0)
+				)
+				(hide yes)
+			)
+		)
+		(property "Approved_brands" "YAGEO / Vishay / Panasonic / UNI-ROYAL / FH"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourcing_policy" "国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
 				)
 				(hide yes)
 			)
@@ -14821,7 +18412,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "UNI-ROYAL 厚声"
+		(property "Manufacturer" "候选：YAGEO / Vishay / Panasonic / UNI-ROYAL / FH"
 			(at 0 0 0)
 			(effects
 				(font
@@ -14884,6 +18475,24 @@
 				(hide yes)
 			)
 		)
+		(property "Approved_brands" "YAGEO / Vishay / Panasonic / UNI-ROYAL / FH"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourcing_policy" "国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(symbol
 		(lib_id "USRP:R7_resistor_1")
@@ -14936,7 +18545,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "UNI-ROYAL 厚声"
+		(property "Manufacturer" "候选：YAGEO / Vishay / Panasonic / UNI-ROYAL / FH"
 			(at 0 0 0)
 			(effects
 				(font
@@ -14999,6 +18608,24 @@
 				(hide yes)
 			)
 		)
+		(property "Approved_brands" "YAGEO / Vishay / Panasonic / UNI-ROYAL / FH"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourcing_policy" "国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(symbol
 		(lib_id "USRP:R8_resistor_1")
@@ -15051,7 +18678,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "UNI-ROYAL 厚声"
+		(property "Manufacturer" "候选：YAGEO / Vishay / Panasonic / UNI-ROYAL / FH"
 			(at 0 0 0)
 			(effects
 				(font
@@ -15114,6 +18741,24 @@
 				(hide yes)
 			)
 		)
+		(property "Approved_brands" "YAGEO / Vishay / Panasonic / UNI-ROYAL / FH"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourcing_policy" "国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(symbol
 		(lib_id "USRP:R36_resistor_1")
@@ -15166,7 +18811,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "UNI-ROYAL 厚声"
+		(property "Manufacturer" "候选：YAGEO / Vishay / Panasonic / UNI-ROYAL / FH"
 			(at 0 0 0)
 			(effects
 				(font
@@ -15229,6 +18874,24 @@
 				(hide yes)
 			)
 		)
+		(property "Approved_brands" "YAGEO / Vishay / Panasonic / UNI-ROYAL / FH"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourcing_policy" "国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(symbol
 		(lib_id "USRP:R37_resistor_1")
@@ -15281,7 +18944,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "UNI-ROYAL 厚声"
+		(property "Manufacturer" "候选：YAGEO / Vishay / Panasonic / UNI-ROYAL / FH"
 			(at 0 0 0)
 			(effects
 				(font
@@ -15340,6 +19003,24 @@
 			(effects
 				(font
 					(size 1.0 1.0)
+				)
+				(hide yes)
+			)
+		)
+		(property "Approved_brands" "YAGEO / Vishay / Panasonic / UNI-ROYAL / FH"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourcing_policy" "国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
 				)
 				(hide yes)
 			)
@@ -15459,6 +19140,24 @@
 				(hide yes)
 			)
 		)
+		(property "Approved_brands" "Murata / TDK / Samsung Electro-Mechanics / Walsin / FH / EYANG"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourcing_policy" "国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(symbol
 		(lib_id "USRP:C22_capacitor_1")
@@ -15574,6 +19273,24 @@
 				(hide yes)
 			)
 		)
+		(property "Approved_brands" "Murata / TDK / Samsung Electro-Mechanics / Walsin / FH / EYANG"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourcing_policy" "国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(symbol
 		(lib_id "USRP:C10_capacitor_1")
@@ -15626,7 +19343,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "FH 风华高科"
+		(property "Manufacturer" "候选：Murata / TDK / Samsung Electro-Mechanics / Walsin / FH / EYANG"
 			(at 0 0 0)
 			(effects
 				(font
@@ -15689,6 +19406,24 @@
 				(hide yes)
 			)
 		)
+		(property "Approved_brands" "Murata / TDK / Samsung Electro-Mechanics / Walsin / FH / EYANG"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourcing_policy" "国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(symbol
 		(lib_id "USRP:C11_capacitor_1")
@@ -15741,7 +19476,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "FH 风华高科"
+		(property "Manufacturer" "候选：Murata / TDK / Samsung Electro-Mechanics / Walsin / FH / EYANG"
 			(at 0 0 0)
 			(effects
 				(font
@@ -15800,6 +19535,24 @@
 			(effects
 				(font
 					(size 1.0 1.0)
+				)
+				(hide yes)
+			)
+		)
+		(property "Approved_brands" "Murata / TDK / Samsung Electro-Mechanics / Walsin / FH / EYANG"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourcing_policy" "国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
 				)
 				(hide yes)
 			)
@@ -15919,6 +19672,24 @@
 				(hide yes)
 			)
 		)
+		(property "Approved_brands" "Murata / TDK / Samsung Electro-Mechanics / Walsin / FH / EYANG"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourcing_policy" "国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(symbol
 		(lib_id "USRP:C5_capacitor_1")
@@ -15971,7 +19742,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "FH 风华高科"
+		(property "Manufacturer" "候选：Murata / TDK / Samsung Electro-Mechanics / Walsin / FH / EYANG"
 			(at 0 0 0)
 			(effects
 				(font
@@ -16030,6 +19801,24 @@
 			(effects
 				(font
 					(size 1.0 1.0)
+				)
+				(hide yes)
+			)
+		)
+		(property "Approved_brands" "Murata / TDK / Samsung Electro-Mechanics / Walsin / FH / EYANG"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourcing_policy" "国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
 				)
 				(hide yes)
 			)
@@ -16149,6 +19938,24 @@
 				(hide yes)
 			)
 		)
+		(property "Approved_brands" "Murata / TDK / Coilcraft / Sunlord / FH"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourcing_policy" "国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(symbol
 		(lib_id "USRP:FB2_inductor_1")
@@ -16260,6 +20067,24 @@
 			(effects
 				(font
 					(size 1.0 1.0)
+				)
+				(hide yes)
+			)
+		)
+		(property "Approved_brands" "Murata / TDK / Coilcraft / Sunlord / FH"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourcing_policy" "国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
 				)
 				(hide yes)
 			)
@@ -16379,6 +20204,24 @@
 				(hide yes)
 			)
 		)
+		(property "Approved_brands" "Murata / TDK / Samsung Electro-Mechanics / Walsin / FH / EYANG"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourcing_policy" "国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(symbol
 		(lib_id "USRP:C21_capacitor_1")
@@ -16431,7 +20274,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "FH 风华高科"
+		(property "Manufacturer" "候选：Murata / TDK / Samsung Electro-Mechanics / Walsin / FH / EYANG"
 			(at 0 0 0)
 			(effects
 				(font
@@ -16490,6 +20333,24 @@
 			(effects
 				(font
 					(size 1.0 1.0)
+				)
+				(hide yes)
+			)
+		)
+		(property "Approved_brands" "Murata / TDK / Samsung Electro-Mechanics / Walsin / FH / EYANG"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourcing_policy" "国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
 				)
 				(hide yes)
 			)
@@ -16609,6 +20470,24 @@
 				(hide yes)
 			)
 		)
+		(property "Approved_brands" "Murata / TDK / Samsung Electro-Mechanics / Walsin / FH / EYANG"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourcing_policy" "国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(symbol
 		(lib_id "USRP:C8_capacitor_1")
@@ -16724,6 +20603,24 @@
 				(hide yes)
 			)
 		)
+		(property "Approved_brands" "Murata / TDK / Samsung Electro-Mechanics / Walsin / FH / EYANG"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourcing_policy" "国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(symbol
 		(lib_id "USRP:C31_capacitor_1")
@@ -16776,7 +20673,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "FH 风华高科"
+		(property "Manufacturer" "候选：Murata / TDK / Samsung Electro-Mechanics / Walsin / FH / EYANG"
 			(at 0 0 0)
 			(effects
 				(font
@@ -16835,6 +20732,24 @@
 			(effects
 				(font
 					(size 1.0 1.0)
+				)
+				(hide yes)
+			)
+		)
+		(property "Approved_brands" "Murata / TDK / Samsung Electro-Mechanics / Walsin / FH / EYANG"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourcing_policy" "国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
 				)
 				(hide yes)
 			)
@@ -16891,7 +20806,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "UNI-ROYAL 厚声"
+		(property "Manufacturer" "候选：YAGEO / Vishay / Panasonic / UNI-ROYAL / FH"
 			(at 0 0 0)
 			(effects
 				(font
@@ -16950,6 +20865,24 @@
 			(effects
 				(font
 					(size 1.0 1.0)
+				)
+				(hide yes)
+			)
+		)
+		(property "Approved_brands" "YAGEO / Vishay / Panasonic / UNI-ROYAL / FH"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourcing_policy" "国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
 				)
 				(hide yes)
 			)
@@ -17006,7 +20939,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "UNI-ROYAL 厚声"
+		(property "Manufacturer" "候选：YAGEO / Vishay / Panasonic / UNI-ROYAL / FH"
 			(at 0 0 0)
 			(effects
 				(font
@@ -17069,6 +21002,24 @@
 				(hide yes)
 			)
 		)
+		(property "Approved_brands" "YAGEO / Vishay / Panasonic / UNI-ROYAL / FH"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourcing_policy" "国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(symbol
 		(lib_id "USRP:C32_capacitor_1")
@@ -17121,7 +21072,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "FH 风华高科"
+		(property "Manufacturer" "候选：Murata / TDK / Samsung Electro-Mechanics / Walsin / FH / EYANG"
 			(at 0 0 0)
 			(effects
 				(font
@@ -17184,6 +21135,24 @@
 				(hide yes)
 			)
 		)
+		(property "Approved_brands" "Murata / TDK / Samsung Electro-Mechanics / Walsin / FH / EYANG"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourcing_policy" "国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(hide yes)
+			)
+		)
 	)
 	(symbol
 		(lib_id "USRP:C34_capacitor_1")
@@ -17236,7 +21205,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "FH 风华高科"
+		(property "Manufacturer" "候选：Murata / TDK / Samsung Electro-Mechanics / Walsin / FH / EYANG"
 			(at 0 0 0)
 			(effects
 				(font
@@ -17295,6 +21264,24 @@
 			(effects
 				(font
 					(size 1.0 1.0)
+				)
+				(hide yes)
+			)
+		)
+		(property "Approved_brands" "Murata / TDK / Samsung Electro-Mechanics / Walsin / FH / EYANG"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourcing_policy" "国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
 				)
 				(hide yes)
 			)
@@ -17351,7 +21338,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "FH 风华高科"
+		(property "Manufacturer" "候选：Murata / TDK / Samsung Electro-Mechanics / Walsin / FH / EYANG"
 			(at 0 0 0)
 			(effects
 				(font
@@ -17410,6 +21397,24 @@
 			(effects
 				(font
 					(size 1.0 1.0)
+				)
+				(hide yes)
+			)
+		)
+		(property "Approved_brands" "Murata / TDK / Samsung Electro-Mechanics / Walsin / FH / EYANG"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sourcing_policy" "国产与国际品牌均可；满足参数后比较含税到手价、起订量、库存和交期；换料须复核封装及电气指标"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1 1)
 				)
 				(hide yes)
 			)

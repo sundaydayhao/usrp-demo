@@ -2,6 +2,8 @@
 
 按用户提供资料重建，每款一个独立工程。BasicRX 与 RXMOD、BasicTX 与 TXMOD 分别合并，不重复交付。所有工程保留 USRP1 接口。
 
+2026-09-14 更新：七个工程的 8 颗 EEPROM 全部改为 **AT24C02（Microchip AT24C02C-SSHM-T / C6203）**，同步原理图、PCB 和 BOM。阻容感支持按价格与供货选择国内或国际品牌；本次锁定 12 颗国巨电阻和 38 颗三星去耦电容。详见 [器件更新说明与采购快照](COMPONENT_UPDATE.md)，EEPROM 页写长度为 8 字节。
+
 | 工程 | 原理图 | PCB | ERC 错误 | DRC 错误 | 未连接 |
 |---|---|---|---:|---:|---:|
 | [BasicRX](projects/BasicRX/BasicRX.kicad_pro) | [原理图](projects/BasicRX/BasicRX.kicad_sch) | [PCB](projects/BasicRX/BasicRX.kicad_pcb) | 0 | 0 | 0 |

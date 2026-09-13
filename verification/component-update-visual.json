@@ -1,0 +1,123 @@
+{
+  "baseline_commit": "bf6d371",
+  "source": "KiCad schematic PDF raster comparison",
+  "render_DPI": 144,
+  "pages": [
+    {
+      "project": "BasicRX",
+      "sheet": 1,
+      "changed_pixels_at_144_dpi": 1131,
+      "difference_bbox_points": [
+        412.5,
+        49.0,
+        885.0,
+        64.5
+      ]
+    },
+    {
+      "project": "BasicTX",
+      "sheet": 1,
+      "changed_pixels_at_144_dpi": 1153,
+      "difference_bbox_points": [
+        430.5,
+        58.5,
+        888.5,
+        270.5
+      ]
+    },
+    {
+      "project": "LFRX",
+      "sheet": 1,
+      "changed_pixels_at_144_dpi": 1081,
+      "difference_bbox_points": [
+        412.5,
+        56.0,
+        914.0,
+        71.5
+      ]
+    },
+    {
+      "project": "LFTX",
+      "sheet": 1,
+      "changed_pixels_at_144_dpi": 1164,
+      "difference_bbox_points": [
+        169.0,
+        56.0,
+        921.0,
+        439.5
+      ]
+    },
+    {
+      "project": "TVRX",
+      "sheet": 1,
+      "changed_pixels_at_144_dpi": 1108,
+      "difference_bbox_points": [
+        286.5,
+        58.5,
+        921.0,
+        129.5
+      ]
+    },
+    {
+      "project": "TVRX2",
+      "sheet": 1,
+      "changed_pixels_at_144_dpi": 0,
+      "difference_bbox_points": null
+    },
+    {
+      "project": "TVRX2",
+      "sheet": 2,
+      "changed_pixels_at_144_dpi": 1200,
+      "difference_bbox_points": [
+        169.5,
+        711.5,
+        932.5,
+        1000.0
+      ]
+    },
+    {
+      "project": "WBX",
+      "sheet": 1,
+      "changed_pixels_at_144_dpi": 0,
+      "difference_bbox_points": null
+    },
+    {
+      "project": "WBX",
+      "sheet": 2,
+      "changed_pixels_at_144_dpi": 0,
+      "difference_bbox_points": null
+    },
+    {
+      "project": "WBX",
+      "sheet": 3,
+      "changed_pixels_at_144_dpi": 1317,
+      "difference_bbox_points": [
+        169.5,
+        607.0,
+        468.0,
+        1000.0
+      ]
+    },
+    {
+      "project": "WBX",
+      "sheet": 4,
+      "changed_pixels_at_144_dpi": 0,
+      "difference_bbox_points": null
+    },
+    {
+      "project": "WBX",
+      "sheet": 5,
+      "changed_pixels_at_144_dpi": 1296,
+      "difference_bbox_points": [
+        169.5,
+        64.5,
+        698.5,
+        1000.0
+      ]
+    }
+  ],
+  "EEPROM_review_pages": 8,
+  "review_pdf": "deliverables/AT24C02-review.pdf",
+  "human_visual_review": "PASS for all 8 EEPROM before/after pages; new part labels above body and WP visible",
+  "review_pdf_sha256": "a0d801dedc262dc63075835cd4ec2f181eeb246a906d87b497e8848cb51b1660"
+}

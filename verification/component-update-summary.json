@@ -1,0 +1,507 @@
+{
+  "baseline_commit": "bf6d371",
+  "EEPROM_total": 8,
+  "projects": [
+    {
+      "project": "BasicRX",
+      "baseline_commit": "bf6d371",
+      "machine_review": "PASS",
+      "pcb_sha256": "86eeca6a2380d7c21be3811ea5e192214a142ccb862369404882ff22f5497fae",
+      "cad_files_compared": 29,
+      "geometry_connectivity_UUIDs_paths_and_settings_preserved": true,
+      "EEPROM_signal_unit_labels_aligned_above_symbol": [
+        "U1"
+      ],
+      "other_existing_text_placement_preserved": true,
+      "model_bindings_and_files_preserved": 26,
+      "EEPROMs": [
+        {
+          "reference": "U1",
+          "value": "AT24C02",
+          "MPN": "AT24C02C-SSHM-T",
+          "LCSC": "C6203",
+          "symbol_pin_names": {
+            "5": "SDA",
+            "1": "A0",
+            "3": "A2",
+            "6": "SCL",
+            "2": "A1",
+            "7": "WP",
+            "4": "GND",
+            "8": "DVDD"
+          },
+          "pad_nets": {
+            "1": "/I2C_A0",
+            "2": "/I2C_A1",
+            "3": "/DVDD",
+            "4": "/GND",
+            "5": "/SDA",
+            "6": "/SCL",
+            "7": "/GND",
+            "8": "/DVDD"
+          },
+          "WP_ground_via_zero_ohm": null,
+          "page_bytes": 8
+        }
+      ],
+      "selected_YAGEO_resistors": [],
+      "selected_Samsung_decoupling_caps": [],
+      "electrical_check_set_diff": {
+        "erc": {
+          "added": 0,
+          "removed": 0
+        },
+        "drc": {
+          "added": 0,
+          "removed": 0
+        }
+      },
+      "schematic_sha256": {
+        "BasicRX.kicad_sch": "3f3234b60c6c0ac78d12962762eeefe86ab5975414d951ffb8d4ed216c69c030"
+      },
+      "BOM_sha256": "b8d76b958ab327bccf9441ea251842976aac81aae09a51ff8755f344df27d137"
+    },
+    {
+      "project": "BasicTX",
+      "baseline_commit": "bf6d371",
+      "machine_review": "PASS",
+      "pcb_sha256": "80485b0b5fd21aa25c1a085d483d7771c4577fd27ace8addd819fd2a529d15ae",
+      "cad_files_compared": 23,
+      "geometry_connectivity_UUIDs_paths_and_settings_preserved": true,
+      "EEPROM_signal_unit_labels_aligned_above_symbol": [
+        "U52"
+      ],
+      "other_existing_text_placement_preserved": true,
+      "model_bindings_and_files_preserved": 20,
+      "EEPROMs": [
+        {
+          "reference": "U52",
+          "value": "AT24C02",
+          "MPN": "AT24C02C-SSHM-T",
+          "LCSC": "C6203",
+          "symbol_pin_names": {
+            "5": "SDA",
+            "1": "A0",
+            "3": "A2",
+            "6": "SCL",
+            "2": "A1",
+            "7": "WP",
+            "4": "GND",
+            "8": "DVDD"
+          },
+          "pad_nets": {
+            "1": "/I2C_A0",
+            "2": "/I2C_A1",
+            "3": "/DVDD",
+            "4": "/GND",
+            "5": "/SDA",
+            "6": "/SCL",
+            "7": "/GND",
+            "8": "/DVDD"
+          },
+          "WP_ground_via_zero_ohm": null,
+          "page_bytes": 8
+        }
+      ],
+      "selected_YAGEO_resistors": [],
+      "selected_Samsung_decoupling_caps": [],
+      "electrical_check_set_diff": {
+        "erc": {
+          "added": 0,
+          "removed": 0
+        },
+        "drc": {
+          "added": 0,
+          "removed": 0
+        }
+      },
+      "schematic_sha256": {
+        "BasicTX.kicad_sch": "262630890e7bb8bcb25e70ad1942c7e07fdf259413b760f684167aba61030378"
+      },
+      "BOM_sha256": "019dc337a4d466dbc9de6ca712987281d9cb7a01a20594c087ab66269713c581"
+    },
+    {
+      "project": "LFRX",
+      "baseline_commit": "bf6d371",
+      "machine_review": "PASS",
+      "pcb_sha256": "b7e5ad2cb024697010f520ea3871ae0c8d7504d5341c9a64d13ca31151909046",
+      "cad_files_compared": 39,
+      "geometry_connectivity_UUIDs_paths_and_settings_preserved": true,
+      "EEPROM_signal_unit_labels_aligned_above_symbol": [
+        "U1"
+      ],
+      "other_existing_text_placement_preserved": true,
+      "model_bindings_and_files_preserved": 36,
+      "EEPROMs": [
+        {
+          "reference": "U1",
+          "value": "AT24C02",
+          "MPN": "AT24C02C-SSHM-T",
+          "LCSC": "C6203",
+          "symbol_pin_names": {
+            "5": "SDA",
+            "1": "A0",
+            "3": "A2",
+            "6": "SCL",
+            "2": "A1",
+            "7": "WP",
+            "4": "GND",
+            "8": "DVDD"
+          },
+          "pad_nets": {
+            "1": "/I2C_A0",
+            "2": "/I2C_A1",
+            "3": "/DVDD",
+            "4": "/GND",
+            "5": "/SDA",
+            "6": "/SCL",
+            "7": "Net-(U1A-WP)",
+            "8": "/DVDD"
+          },
+          "WP_ground_via_zero_ohm": "R28",
+          "page_bytes": 8
+        }
+      ],
+      "selected_YAGEO_resistors": [],
+      "selected_Samsung_decoupling_caps": [],
+      "electrical_check_set_diff": {
+        "erc": {
+          "added": 0,
+          "removed": 0
+        },
+        "drc": {
+          "added": 0,
+          "removed": 0
+        }
+      },
+      "schematic_sha256": {
+        "LFRX.kicad_sch": "eb05d20c33c149a06557b2b3fb3cb08524c1473eeffc417440ed1b937d8c28aa"
+      },
+      "BOM_sha256": "ea56c61e4b3aa3460eb73b50e8b7dcc4a35c69109ea550c34b58058e67508a03"
+    },
+    {
+      "project": "LFTX",
+      "baseline_commit": "bf6d371",
+      "machine_review": "PASS",
+      "pcb_sha256": "ee804291689bf88615b44d0ca07ec71444ab80bbe2c336c2178600a970bd4c19",
+      "cad_files_compared": 58,
+      "geometry_connectivity_UUIDs_paths_and_settings_preserved": true,
+      "EEPROM_signal_unit_labels_aligned_above_symbol": [
+        "U52"
+      ],
+      "other_existing_text_placement_preserved": true,
+      "model_bindings_and_files_preserved": 55,
+      "EEPROMs": [
+        {
+          "reference": "U52",
+          "value": "AT24C02",
+          "MPN": "AT24C02C-SSHM-T",
+          "LCSC": "C6203",
+          "symbol_pin_names": {
+            "5": "SDA",
+            "1": "A0",
+            "3": "A2",
+            "6": "SCL",
+            "2": "A1",
+            "7": "WP",
+            "4": "GND",
+            "8": "DVDD"
+          },
+          "pad_nets": {
+            "1": "/I2C_A0",
+            "2": "/I2C_A1",
+            "3": "/DVDD",
+            "4": "/GND",
+            "5": "/SDA",
+            "6": "/SCL",
+            "7": "Net-(U52A-WP)",
+            "8": "/DVDD"
+          },
+          "WP_ground_via_zero_ohm": "R29",
+          "page_bytes": 8
+        }
+      ],
+      "selected_YAGEO_resistors": [],
+      "selected_Samsung_decoupling_caps": [],
+      "electrical_check_set_diff": {
+        "erc": {
+          "added": 0,
+          "removed": 0
+        },
+        "drc": {
+          "added": 0,
+          "removed": 0
+        }
+      },
+      "schematic_sha256": {
+        "LFTX.kicad_sch": "e79aced8aac7063cd8009f6bf790c3c2aca52d6d48a7ad8bbc4ed8e87c180c2e"
+      },
+      "BOM_sha256": "ae4ba815b8053e18a871ab4a5b1f083a18a4826bf014103642e219c40e7bfe9c"
+    },
+    {
+      "project": "TVRX",
+      "baseline_commit": "bf6d371",
+      "machine_review": "PASS",
+      "pcb_sha256": "836de784e067528ed0c3273613d3da7e768ec46a55702626d63ff831c3f70e29",
+      "cad_files_compared": 44,
+      "geometry_connectivity_UUIDs_paths_and_settings_preserved": true,
+      "EEPROM_signal_unit_labels_aligned_above_symbol": [
+        "U1"
+      ],
+      "other_existing_text_placement_preserved": true,
+      "model_bindings_and_files_preserved": 41,
+      "EEPROMs": [
+        {
+          "reference": "U1",
+          "value": "AT24C02",
+          "MPN": "AT24C02C-SSHM-T",
+          "LCSC": "C6203",
+          "symbol_pin_names": {
+            "5": "SDA",
+            "1": "A0",
+            "3": "A2",
+            "6": "SCL",
+            "2": "A1",
+            "7": "WP",
+            "4": "AGND",
+            "8": "DVDD"
+          },
+          "pad_nets": {
+            "1": "/I2C_A0",
+            "2": "/I2C_A1",
+            "3": "/DVDD",
+            "4": "/AGND",
+            "5": "/SDA",
+            "6": "/SCL",
+            "7": "/AGND",
+            "8": "/DVDD"
+          },
+          "WP_ground_via_zero_ohm": null,
+          "page_bytes": 8
+        }
+      ],
+      "selected_YAGEO_resistors": [],
+      "selected_Samsung_decoupling_caps": [],
+      "electrical_check_set_diff": {
+        "erc": {
+          "added": 0,
+          "removed": 0
+        },
+        "drc": {
+          "added": 0,
+          "removed": 0
+        }
+      },
+      "schematic_sha256": {
+        "TVRX.kicad_sch": "d8e1bfde2468d1b4263c7a3793174c37a4cfd265155f7aaf429013ad29291abf"
+      },
+      "BOM_sha256": "f9f64585816f675e60f8c454009effcfccd00c919659cbae1e7472ad34b936d5"
+    },
+    {
+      "project": "TVRX2",
+      "baseline_commit": "bf6d371",
+      "machine_review": "PASS",
+      "pcb_sha256": "fc8279ac58197ce80e0a06d60631eaa9fcfcde669bd2ecdc471e038092f44e62",
+      "cad_files_compared": 121,
+      "geometry_connectivity_UUIDs_paths_and_settings_preserved": true,
+      "EEPROM_signal_unit_labels_aligned_above_symbol": [
+        "U1"
+      ],
+      "other_existing_text_placement_preserved": true,
+      "model_bindings_and_files_preserved": 109,
+      "EEPROMs": [
+        {
+          "reference": "U1",
+          "value": "AT24C02",
+          "MPN": "AT24C02C-SSHM-T",
+          "LCSC": "C6203",
+          "symbol_pin_names": {
+            "5": "SDA",
+            "1": "A0",
+            "3": "A2",
+            "6": "SCL",
+            "2": "A1",
+            "7": "WP",
+            "4": "DGND",
+            "8": "DVDD"
+          },
+          "pad_nets": {
+            "1": "DVDD",
+            "2": "I2C_A1",
+            "3": "DVDD",
+            "4": "DGND",
+            "5": "SDA",
+            "6": "SCL",
+            "7": "DGND",
+            "8": "DVDD"
+          },
+          "WP_ground_via_zero_ohm": null,
+          "page_bytes": 8
+        }
+      ],
+      "selected_YAGEO_resistors": [
+        "R111",
+        "R151"
+      ],
+      "selected_Samsung_decoupling_caps": [
+        "C181",
+        "C182",
+        "C280",
+        "C283",
+        "C285"
+      ],
+      "electrical_check_set_diff": {
+        "erc": {
+          "added": 0,
+          "removed": 0
+        },
+        "drc": {
+          "added": 0,
+          "removed": 0
+        }
+      },
+      "schematic_sha256": {
+        "TVRX2.kicad_sch": "1d9507e4947661a9c17b142ffb89d147b882c52fe040eba3f071bbd9367c0013",
+        "TVRX2_p2.kicad_sch": "91a3f2fe9686dc026c2362dbaddc48f8fcc93a0769fe48b102bb3e1cb96231e5"
+      },
+      "BOM_sha256": "e6e17fbf1ef04a16a51b693ada87a33311535957044bdd4e7335ca9f8ba70b36"
+    },
+    {
+      "project": "WBX",
+      "baseline_commit": "bf6d371",
+      "machine_review": "PASS",
+      "pcb_sha256": "ea2fe0e5d4c06987bf5ac629dbec6f4d9845db70017fc5d2d6b2d41d365fb527",
+      "cad_files_compared": 309,
+      "geometry_connectivity_UUIDs_paths_and_settings_preserved": true,
+      "EEPROM_signal_unit_labels_aligned_above_symbol": [
+        "U202",
+        "U403"
+      ],
+      "other_existing_text_placement_preserved": true,
+      "model_bindings_and_files_preserved": 291,
+      "EEPROMs": [
+        {
+          "reference": "U202",
+          "value": "AT24C02",
+          "MPN": "AT24C02C-SSHM-T",
+          "LCSC": "C6203",
+          "symbol_pin_names": {
+            "5": "SDA",
+            "1": "A0",
+            "3": "A2",
+            "6": "SCL",
+            "2": "A1",
+            "7": "WP",
+            "4": "DGND_RX",
+            "8": "DVDD_RX"
+          },
+          "pad_nets": {
+            "1": "I2C_A0_RX",
+            "2": "I2C_A1_RX",
+            "3": "DVDD_RX",
+            "4": "DGND_RX",
+            "5": "SDA_RX",
+            "6": "SCL_RX",
+            "7": "DGND_RX",
+            "8": "DVDD_RX"
+          },
+          "WP_ground_via_zero_ohm": null,
+          "page_bytes": 8
+        },
+        {
+          "reference": "U403",
+          "value": "AT24C02",
+          "MPN": "AT24C02C-SSHM-T",
+          "LCSC": "C6203",
+          "symbol_pin_names": {
+            "5": "SDA",
+            "1": "A0",
+            "3": "A2",
+            "6": "SCL",
+            "2": "A1",
+            "7": "WP",
+            "4": "DGND_TX",
+            "8": "DVDD_TX"
+          },
+          "pad_nets": {
+            "1": "I2C_A0_TX",
+            "2": "I2C_A1_TX",
+            "3": "DVDD_TX",
+            "4": "DGND_TX",
+            "5": "SDA_TX",
+            "6": "SCL_TX",
+            "7": "DGND_TX",
+            "8": "DVDD_TX"
+          },
+          "WP_ground_via_zero_ohm": null,
+          "page_bytes": 8
+        }
+      ],
+      "selected_YAGEO_resistors": [
+        "R302",
+        "R303",
+        "R304",
+        "R305",
+        "R306",
+        "R307",
+        "R317",
+        "R330",
+        "R333",
+        "R334"
+      ],
+      "selected_Samsung_decoupling_caps": [
+        "C216",
+        "C217",
+        "C219",
+        "C221",
+        "C307",
+        "C308",
+        "C311",
+        "C313",
+        "C314",
+        "C316",
+        "C318",
+        "C335",
+        "C338",
+        "C350",
+        "C351",
+        "C352",
+        "C353",
+        "C354",
+        "C355",
+        "C356",
+        "C416",
+        "C417",
+        "C419",
+        "C421",
+        "C514",
+        "C525",
+        "C535",
+        "C536",
+        "C537",
+        "C538",
+        "C539",
+        "C540",
+        "C541"
+      ],
+      "electrical_check_set_diff": {
+        "erc": {
+          "added": 0,
+          "removed": 0
+        },
+        "drc": {
+          "added": 0,
+          "removed": 0
+        }
+      },
+      "schematic_sha256": {
+        "WBX.kicad_sch": "7b26705f7fe8a48f72195ceb82e4361ea10d57484336e2e8523ae1ba63cecb9f",
+        "WBX_p2.kicad_sch": "1093b99f2a2fae5fbf27ce7d398bd096ff7d3046a74b285e66a0066c6b580c45",
+        "WBX_p3.kicad_sch": "7190ed4ac071599122cd8aed07b999bbeba1dee52696189a5b85cd4a40becd86",
+        "WBX_p4.kicad_sch": "ee506c9f5453d64790de3a0047327124625bd724bf6303778af612c5fef510b5",
+        "WBX_p5.kicad_sch": "424be1fc17012ead0f0428641781e9443f01bc8b81e74004efc832a7176bcc89"
+      },
+      "BOM_sha256": "081e1f2f18553fed81854377b15fe4c5fc1161744e05c44c691ab2405545e090"
+    }
+  ]
+}
