@@ -1,0 +1,62 @@
+{
+  "uhd": "4.10.0.0-release",
+  "device_args": "type=usrp1,mcr=52e6",
+  "clock_rate_configured_hz": 52000000.0,
+  "clock_frequency_measured": false,
+  "tx_stream_started": false,
+  "rx_stream_started": false,
+  "boards": {
+    "A": {
+      "rx": {
+        "mboard_id": "USRP1",
+        "mboard_name": "",
+        "mboard_serial": "",
+        "module_serial": "",
+        "rx_antenna": "",
+        "rx_id": "Unknown (0xffff)",
+        "rx_serial": "",
+        "rx_subdev_name": "Unknown (0xffff) - 0",
+        "rx_subdev_spec": "A:0 B:0"
+      },
+      "tx": {
+        "mboard_id": "USRP1",
+        "mboard_name": "",
+        "mboard_serial": "",
+        "module_serial": "",
+        "tx_antenna": "",
+        "tx_id": "Unknown (0xffff)",
+        "tx_serial": "",
+        "tx_subdev_name": "Unknown (0xffff) - 0",
+        "tx_subdev_spec": "A:0 B:0"
+      }
+    },
+    "B": {
+      "rx": {
+        "mboard_id": "USRP1",
+        "mboard_name": "",
+        "mboard_serial": "",
+        "module_serial": "",
+        "rx_antenna": "",
+        "rx_id": "Unknown (0xffff)",
+        "rx_serial": "",
+        "rx_subdev_name": "Unknown (0xffff) - 0",
+        "rx_subdev_spec": "A:0 B:0"
+      },
+      "tx": {
+        "mboard_id": "USRP1",
+        "mboard_name": "",
+        "mboard_serial": "",
+        "module_serial": "",
+        "tx_antenna": "",
+        "tx_id": "Unknown (0xffff)",
+        "tx_serial": "",
+        "tx_subdev_name": "Unknown (0xffff) - 0",
+        "tx_subdev_spec": "A:0 B:0"
+      }
+    }
+  },
+  "settle_seconds": 0.25,
+  "poll_interval_seconds": 0.1,
+  "rounds": [],
+  "error": "RuntimeError('A-RX: no lo_locked sensor')"
+}

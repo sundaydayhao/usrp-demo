@@ -1,0 +1,39 @@
+{
+  "captures": [
+    {
+      "file": "logs/external-clock-rx-A-20260928-165329.dat",
+      "samples": 606208,
+      "nonzero_iq_samples": 592802,
+      "minimum": -22582,
+      "maximum": 10675,
+      "mean_iq": [
+        -1.635006466427365,
+        0.30881479624155406
+      ],
+      "std_iq": [
+        34.027824352788336,
+        18.519831993756306
+      ],
+      "bytes": 2424832
+    },
+    {
+      "file": "logs/external-clock-rx-B-20260928-165352.dat",
+      "samples": 606208,
+      "nonzero_iq_samples": 593000,
+      "minimum": -20357,
+      "maximum": 2628,
+      "mean_iq": [
+        -1.6892518739442568,
+        0.4152963999155405
+      ],
+      "std_iq": [
+        33.29260641957728,
+        7.319472323442695
+      ],
+      "bytes": 2424832
+    }
+  ],
+  "identical_files": false,
+  "rf_performance_verified": false,
+  "clock_frequency_measured": false
+}

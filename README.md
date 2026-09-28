@@ -1,5 +1,18 @@
 # USRP1 七款子板 KiCad 工程
 
+## Windows 实机诊断与 IQ 采集
+
+2026-09-28 合入本地 Windows 项目的安装、硬件排查和接收实验资料，完整记录见 [Windows 安装与诊断记录](WINDOWS_DIAGNOSTICS.md)。
+
+- `scripts/`：诊断、EEPROM 读取、IQ 采集与离线绘图脚本；Python 依赖见 `requirements.txt`。
+- `logs/`：诊断日志、EEPROM 备份、原始 sc16 IQ 数据及采集参数。
+- `plots/`：频谱、时频图、CSV 和分析结果。
+- `downloads/`：排查时使用的参考源码、原理图、器件资料与 USB 驱动文件。
+
+本地虚拟环境、Python 缓存、UHD 安装包、解压工具目录和上游完整文件列表未提交；这些文件仍保留在本机。原始 IQ 录制及已有的采样溢出、时钟配置等限制详见诊断记录。
+
+## KiCad 子板工程
+
 按用户提供资料重建，每款一个独立工程。BasicRX 与 RXMOD、BasicTX 与 TXMOD 分别合并，不重复交付。所有工程保留 USRP1 接口。
 
 2026-09-14 更新：七个工程的 8 颗 EEPROM 全部改为 **AT24C02（Microchip AT24C02C-SSHM-T / C6203）**，同步原理图、PCB 和 BOM。阻容感支持按价格与供货选择国内或国际品牌；本次锁定 12 颗国巨电阻和 38 颗三星去耦电容。详见 [器件更新说明与采购快照](COMPONENT_UPDATE.md)，EEPROM 页写长度为 8 字节。

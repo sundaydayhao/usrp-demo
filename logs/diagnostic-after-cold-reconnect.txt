@@ -1,0 +1,9 @@
+[INFO] [UHD] Win32; Microsoft Visual C++ version 1944; Boost_108500; UHD_4.10.0.0-release
+[INFO] [USRP1] Opening a USRP1 device...
+Traceback (most recent call last):
+  File "C:\projects\usrp-demo\scripts\diagnose-usrp.py", line 16, in <module>
+    usrp = uhd.usrp.MultiUSRP('type=usrp1')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\projects\usrp-demo\.venv\Lib\site-packages\uhd\usrp\multi_usrp.py", line 36, in __init__
+    super(MultiUSRP, self).__init__(args)
+RuntimeError: RuntimeError: USBError -1: usb rx6 submit failed: LIBUSB_ERROR_IO

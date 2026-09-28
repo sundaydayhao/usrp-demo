@@ -1,0 +1,11 @@
+[INFO] [UHD] Win32; Microsoft Visual C++ version 1944; Boost_108500; UHD_4.10.0.0-release
+[INFO] [USRP1] Opening a USRP1 device...
+[INFO] [USRP1] Using FPGA clock rate of 64.000000MHz...
+{"trial": 1, "frequency_mhz": 1550.0, "locks": {"A-RX": "0/20", "A-TX": "20/20", "B-RX": "0/20", "B-TX": "0/20"}}
+{"trial": 1, "frequency_mhz": 1800.0, "locks": {"A-RX": "20/20", "A-TX": "20/20", "B-RX": "20/20", "B-TX": "20/20"}}
+{"trial": 1, "frequency_mhz": 2050.0, "locks": {"A-RX": "20/20", "A-TX": "20/20", "B-RX": "20/20", "B-TX": "20/20"}}
+{"trial": 2, "frequency_mhz": 2050.0, "locks": {"A-RX": "20/20", "A-TX": "20/20", "B-RX": "20/20", "B-TX": "20/20"}}
+{"trial": 2, "frequency_mhz": 1800.0, "locks": {"A-RX": "20/20", "A-TX": "20/20", "B-RX": "20/20", "B-TX": "20/20"}}
+{"trial": 2, "frequency_mhz": 1550.0, "locks": {"A-RX": "0/20", "A-TX": "20/20", "B-RX": "0/20", "B-TX": "0/20"}}
+{"trial": 3, "frequency_mhz": 1800.0, "locks": {"A-RX": "20/20", "A-TX": "20/20", "B-RX": "20/20", "B-TX": "20/20"}}
+Report: C:\projects\usrp-demo\logs\lo-stability-20260928-212537.json

@@ -1,0 +1,40 @@
+
+Creating the usrp device with: type=usrp1...
+[INFO] [UHD] Win32; Microsoft Visual C++ version 1944; Boost_108500; UHD_4.10.0.0-release
+[INFO] [USRP1] Opening a USRP1 device...
+[INFO] [USRP1] Using FPGA clock rate of 64.000000MHz...
+[WARNING] [DBMGR] Unknown transceiver board ID combination.
+Is your daughter-board mounted properly?
+RX dboard ID: RFX1800 (0x0034)
+TX dboard ID: Unknown (0xffff)
+
+Using Device: Single USRP:
+  Device: USRP1 Device
+  Mboard 0: USRP1
+  RX Channel: 0
+    RX DSP: 0
+    RX Dboard: A
+    RX Subdev: RFX1800 RX
+  TX Channel: 0
+    TX DSP: 0
+    TX Dboard: A
+    TX Subdev: RFX1800 TX
+
+Setting RX Rate: 1.000000 Msps...
+Actual RX Rate: 1.000000 Msps...
+
+Setting RX Freq: 1800.000000 MHz...
+Setting RX LO Offset: 0.000000 MHz...
+Actual RX Freq: 1800.000000 MHz...
+
+Setting RX Gain: 0.000000 dB...
+Actual RX Gain: 0.000000 dB...
+
+Press Ctrl + C to stop streaming...
+
+Timeout while streaming
+
+Received 0 samples in 3.006074 seconds
+
+Done!
+

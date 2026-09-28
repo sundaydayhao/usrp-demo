@@ -1,0 +1,32 @@
+
+[INFO] [UHD] Win32; Microsoft Visual C++ version 1944; Boost_108500; UHD_4.10.0.0-release
+*** Warning! ***
+Benchmark results will be inaccurate on USRP1 due to insufficient features.
+[00:00:00.011700] Creating the usrp device with: type=usrp1...
+
+[INFO] [USRP1] Opening a USRP1 device...
+[INFO] [USRP1] Using FPGA clock rate of 64.000000MHz...
+[WARNING] [DBMGR] Unknown transceiver board ID combination.
+Is your daughter-board mounted properly?
+RX dboard ID: RFX1800 (0x0034)
+TX dboard ID: Unknown (0xffff)
+
+Using Device: Single USRP:
+  Device: USRP1 Device
+  Mboard 0: USRP1
+  RX Channel: 0
+    RX DSP: 0
+    RX Dboard: A
+    RX Subdev: RFX1800 RX
+  RX Channel: 1
+    RX DSP: 1
+    RX Dboard: B
+    RX Subdev: RFX1800 (0x0034) - 0
+  TX Channel: 0
+    TX DSP: 0
+    TX Dboard: A
+    TX Subdev: RFX1800 TX
+
+[00:00:00.239181500] Setting device timestamp to 0...
+[INFO] [MULTI_USRP]     1) catch time transition at pps edge
+Error: LookupError: Path not found in tree: /mboards/0/time/pps

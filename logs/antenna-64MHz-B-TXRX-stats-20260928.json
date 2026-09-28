@@ -1,0 +1,24 @@
+{
+  "captures": [
+    {
+      "file": "logs/antenna-64MHz-B-TXRX-g0-20260928-211550.dat",
+      "samples": 606208,
+      "nonzero": 593028,
+      "rms_adc": 49.11528549646518,
+      "ac_rms_trimmed_adc": 7.603844966199127,
+      "peak_adc": 34405.79044288912,
+      "clipped_components": 0
+    },
+    {
+      "file": "logs/antenna-64MHz-B-TXRX-g40-20260928-211516.dat",
+      "samples": 1011712,
+      "nonzero": 990194,
+      "rms_adc": 16.399605062164287,
+      "ac_rms_trimmed_adc": 7.751408933889481,
+      "peak_adc": 10665.740527502065,
+      "clipped_components": 0
+    }
+  ],
+  "gain_response_db": 0.16694791308209025,
+  "known_rf_signal_verified": false
+}

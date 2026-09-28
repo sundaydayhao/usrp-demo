@@ -1,0 +1,16 @@
+{
+  "mode": "FPGA internal counter, not RF samples",
+  "sample_rate": 1000000.0,
+  "samples": 0,
+  "errors": [
+    "ERROR_CODE_TIMEOUT",
+    "ERROR_CODE_TIMEOUT",
+    "ERROR_CODE_TIMEOUT",
+    "ERROR_CODE_TIMEOUT",
+    "ERROR_CODE_TIMEOUT",
+    "ERROR_CODE_TIMEOUT"
+  ],
+  "first_samples": [],
+  "tx_stream_started": false,
+  "counter_mode_restored_off": true
+}

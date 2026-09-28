@@ -1,0 +1,137 @@
+{
+  "operation": "I2C read only; no pointer or EEPROM data writes",
+  "results": [
+    {
+      "trial": 0,
+      "address": "0x50",
+      "read_completed": true,
+      "length": 8,
+      "current_pointer_data_hex": "ff ff ff ff ff ff ff ff"
+    },
+    {
+      "trial": 0,
+      "address": "0x51",
+      "error": "[Errno 32] Pipe error"
+    },
+    {
+      "trial": 0,
+      "address": "0x52",
+      "error": "[Errno 32] Pipe error"
+    },
+    {
+      "trial": 0,
+      "address": "0x53",
+      "error": "[Errno 32] Pipe error"
+    },
+    {
+      "trial": 0,
+      "address": "0x54",
+      "error": "[Errno 32] Pipe error"
+    },
+    {
+      "trial": 0,
+      "address": "0x55",
+      "read_completed": true,
+      "length": 8,
+      "current_pointer_data_hex": "ff ff ff ff ff ff ff ff"
+    },
+    {
+      "trial": 0,
+      "address": "0x56",
+      "error": "[Errno 32] Pipe error"
+    },
+    {
+      "trial": 0,
+      "address": "0x57",
+      "error": "[Errno 32] Pipe error"
+    },
+    {
+      "trial": 1,
+      "address": "0x50",
+      "read_completed": true,
+      "length": 8,
+      "current_pointer_data_hex": "ff ff ff ff ff ff ff ff"
+    },
+    {
+      "trial": 1,
+      "address": "0x51",
+      "error": "[Errno 32] Pipe error"
+    },
+    {
+      "trial": 1,
+      "address": "0x52",
+      "error": "[Errno 32] Pipe error"
+    },
+    {
+      "trial": 1,
+      "address": "0x53",
+      "error": "[Errno 32] Pipe error"
+    },
+    {
+      "trial": 1,
+      "address": "0x54",
+      "error": "[Errno 32] Pipe error"
+    },
+    {
+      "trial": 1,
+      "address": "0x55",
+      "read_completed": true,
+      "length": 8,
+      "current_pointer_data_hex": "ff ff ff ff ff ff ff ff"
+    },
+    {
+      "trial": 1,
+      "address": "0x56",
+      "error": "[Errno 32] Pipe error"
+    },
+    {
+      "trial": 1,
+      "address": "0x57",
+      "error": "[Errno 32] Pipe error"
+    },
+    {
+      "trial": 2,
+      "address": "0x50",
+      "read_completed": true,
+      "length": 8,
+      "current_pointer_data_hex": "ff ff ff ff ff ff ff ff"
+    },
+    {
+      "trial": 2,
+      "address": "0x51",
+      "error": "[Errno 32] Pipe error"
+    },
+    {
+      "trial": 2,
+      "address": "0x52",
+      "error": "[Errno 32] Pipe error"
+    },
+    {
+      "trial": 2,
+      "address": "0x53",
+      "error": "[Errno 32] Pipe error"
+    },
+    {
+      "trial": 2,
+      "address": "0x54",
+      "error": "[Errno 32] Pipe error"
+    },
+    {
+      "trial": 2,
+      "address": "0x55",
+      "read_completed": true,
+      "length": 8,
+      "current_pointer_data_hex": "ff ff ff ff ff ff ff ff"
+    },
+    {
+      "trial": 2,
+      "address": "0x56",
+      "error": "[Errno 32] Pipe error"
+    },
+    {
+      "trial": 2,
+      "address": "0x57",
+      "error": "[Errno 32] Pipe error"
+    }
+  ]
+}

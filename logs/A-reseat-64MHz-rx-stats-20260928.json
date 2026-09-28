@@ -1,0 +1,21 @@
+{
+  "file": "logs\\A-reseat-64MHz-TXRX-g40-20260928-212612.dat",
+  "format": "little-endian interleaved int16 I,Q",
+  "bytes": 4046848,
+  "samples": 1011712,
+  "nonzero_iq": 992245,
+  "rms_adc": 8.144298481216087,
+  "mean_iq": [
+    -1.6204087724569838,
+    0.2535138458375506
+  ],
+  "peak_adc": 35.805027579936315,
+  "saturated_components": 0,
+  "configured_clock_hz": 64000000,
+  "configured_rx_hz": 1800000000,
+  "configured_rate_sps": 250000,
+  "antenna": "TX/RX",
+  "rx_gain_db": 40,
+  "rf_performance_verified": false,
+  "overflow_or_sequence_warning_present": true
+}

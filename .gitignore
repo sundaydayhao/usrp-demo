@@ -15,3 +15,9 @@ verification/*/*.ses
 projects/*/preview/*.svg
 projects/*/preview/*.png
 deliverables/*.zip
+
+# Local Windows runtime, downloaded installers, and upstream file listing.
+/.venv/
+/tools/uhd-3.15/
+/downloads/uhd_*.exe
+/downloads/ettus-file-manifest.json

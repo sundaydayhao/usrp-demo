@@ -1,0 +1,27 @@
+{
+  "usb_serial": "00000000",
+  "eeproms": {
+    "A-TX": {
+      "i2c_address": "0x54",
+      "error": "[Errno 32] Pipe error"
+    },
+    "A-RX": {
+      "i2c_address": "0x55",
+      "header_hex": "db 34 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 f1",
+      "magic_valid": true,
+      "checksum_valid": true,
+      "stored_id": "0x0034"
+    },
+    "B-TX": {
+      "i2c_address": "0x56",
+      "error": "[Errno 32] Pipe error"
+    },
+    "B-RX": {
+      "i2c_address": "0x57",
+      "header_hex": "db 34 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 f1",
+      "magic_valid": true,
+      "checksum_valid": true,
+      "stored_id": "0x0034"
+    }
+  }
+}

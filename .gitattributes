@@ -3,3 +3,7 @@
 *.stp binary
 *.wrl binary
 *.pdf binary
+
+# Preserve raw IQ recordings and EEPROM backups byte for byte.
+logs/**/*.dat binary
+logs/**/*.bin binary

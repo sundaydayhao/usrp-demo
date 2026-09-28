@@ -1,0 +1,59 @@
+{
+  "usb": {
+    "vid": "0xfffe",
+    "pid": "0x2",
+    "serial": "00000000",
+    "usb_version": "0x200",
+    "speed": 3
+  },
+  "interfaces": [
+    {
+      "number": 0,
+      "alt": 0,
+      "endpoints": []
+    },
+    {
+      "number": 1,
+      "alt": 0,
+      "endpoints": [
+        {
+          "address": "0x2",
+          "max_packet": 512
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "alt": 0,
+      "endpoints": [
+        {
+          "address": "0x86",
+          "max_packet": 512
+        }
+      ]
+    }
+  ],
+  "readback": [
+    {
+      "trial": 0,
+      "reg_1": "0xff7bff7b",
+      "reg_2": "0xff7fff5f",
+      "reg_3": "0x0000002a",
+      "reg_4": "0xf0f0931a"
+    },
+    {
+      "trial": 1,
+      "reg_1": "0xff7bff7b",
+      "reg_2": "0xff7fff5f",
+      "reg_3": "0x0000002a",
+      "reg_4": "0xf0f0931a"
+    },
+    {
+      "trial": 2,
+      "reg_1": "0xff7bff7b",
+      "reg_2": "0xff7fff5f",
+      "reg_3": "0x0000002a",
+      "reg_4": "0xf0f0931a"
+    }
+  ]
+}

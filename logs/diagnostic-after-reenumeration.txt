@@ -1,0 +1,48 @@
+[INFO] [UHD] Win32; Microsoft Visual C++ version 1944; Boost_108500; UHD_4.10.0.0-release
+[INFO] [USRP1] Opening a USRP1 device...
+[INFO] [USRP1] Using FPGA clock rate of 64.000000MHz...
+[WARNING] [DBMGR] Unknown transceiver board ID combination.
+Is your daughter-board mounted properly?
+RX dboard ID: RFX1800 (0x0034)
+TX dboard ID: Unknown (0xffff)
+
+Single USRP:
+  Device: USRP1 Device
+  Mboard 0: USRP1
+  RX Channel: 0
+    RX DSP: 0
+    RX Dboard: A
+    RX Subdev: RFX1800 RX
+  RX Channel: 1
+    RX DSP: 1
+    RX Dboard: B
+    RX Subdev: RFX1800 (0x0034) - 0
+  TX Channel: 0
+    TX DSP: 0
+    TX Dboard: A
+    TX Subdev: RFX1800 TX
+  TX Channel: 1
+    TX DSP: 1
+    TX Dboard: B
+    TX Subdev: Unknown (0xffff) - 0
+
+A {"rx_info": {"mboard_id": "USRP1", "mboard_name": "", "mboard_serial": "", "module_serial": "", "rx_antenna": "RX2", "rx_id": "RFX1800 (0x0034)", "rx_serial": "", "rx_subdev_name": "RFX1800 RX", "rx_subdev_spec": "A:0 B:0"}, "tx_info": {"mboard_id": "USRP1", "mboard_name": "", "mboard_serial": "", "module_serial": "", "tx_antenna": "TX/RX", "tx_id": "RFX1800 (0x0035)", "tx_serial": "", "tx_subdev_name": "RFX1800 TX", "tx_subdev_spec": "A:0 B:0"}, "rx": {"sensors": ["lo_locked"], "freq_range_hz": [1480000000.0, 2120000000.0], "tuning": [{"requested_hz": 1550000000.0, "actual_hz": 1550000000.0, "lo_locked": false}, {"requested_hz": 1800000000.0, "actual_hz": 1800000000.0, "lo_locked": false}, {"requested_hz": 2050000000.0, "actual_hz": 2050000000.0, "lo_locked": false}], "status": "lock_fail"}, "tx": {"sensors": ["lo_locked"], "freq_range_hz": [1480000000.0, 2120000000.0], "tuning": [{"requested_hz": 1550000000.0, "actual_hz": 1550000000.0, "lo_locked": false}, {"requested_hz": 1800000000.0, "actual_hz": 1800000000.0, "lo_locked": false}, {"requested_hz": 2050000000.0, "actual_hz": 2050000000.0, "lo_locked": false}], "status": "lock_fail"}}
+B {"rx_info": {"mboard_id": "USRP1", "mboard_name": "", "mboard_serial": "", "module_serial": "", "rx_antenna": "", "rx_id": "RFX1800 (0x0034)", "rx_serial": "", "rx_subdev_name": "RFX1800 (0x0034) - 0", "rx_subdev_spec": "A:0 B:0"}, "tx_info": {"mboard_id": "USRP1", "mboard_name": "", "mboard_serial": "", "module_serial": "", "tx_antenna": "", "tx_id": "Unknown (0xffff)", "tx_serial": "", "tx_subdev_name": "Unknown (0xffff) - 0", "tx_subdev_spec": "A:0 B:0"}, "rx": {"sensors": [], "freq_range_hz": [0.0, 0.0], "tuning": [], "status": "frontend_not_initialized"}, "tx": {"sensors": [], "freq_range_hz": [0.0, 0.0], "tuning": [], "status": "frontend_not_initialized"}}
+{
+  "channels": [
+    "A:0",
+    "B:0"
+  ],
+  "rate_per_channel": 1000000.0,
+  "samples_per_channel": 0,
+  "elapsed_seconds": 5.062000000005355,
+  "metadata_errors": [
+    "ERROR_CODE_TIMEOUT",
+    "ERROR_CODE_TIMEOUT",
+    "ERROR_CODE_TIMEOUT",
+    "ERROR_CODE_TIMEOUT",
+    "ERROR_CODE_TIMEOUT"
+  ],
+  "limitation": "USRP1 lacks hardware timestamps and robust loss accounting; unknown frontends do not validate RF reception."
+}
+Report: C:\projects\usrp-demo\logs\diagnostic-20260912-181749

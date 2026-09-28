@@ -1,0 +1,4 @@
+  File "<string>", line 1
+    import usb.core,usb.util,usb.backend.libusb1,time; b=usb.backend.libusb1.get_backend(find_library=lambda _: r'C:\Program Files\UHD\bin\libusb-1.0.dll'); d=usb.core.find(idVendor=0xfffe,idProduct=2,backend=b); exec('for trial in range(3):\n for a in (0x54,0x55,0x56,0x57):\n  stage=\
+                                                                                                                                                                                                                          ^
+SyntaxError: unterminated string literal (detected at line 1)

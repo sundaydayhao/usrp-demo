@@ -1,0 +1,73 @@
+{
+  "comparison": "a-b",
+  "configured_master_clock_hz": 64000000.0,
+  "configured_center_frequency_hz": 1800000000.0,
+  "configured_sample_rate_hz": 250000.0,
+  "actual_rf_frequency_verified": false,
+  "source_format": "sc16, little-endian int16, interleaved I then Q",
+  "normalization": "Each I/Q component divided by 32768; a unit-amplitude complex tone has 0 dBFS total power. No dBm calibration.",
+  "method": "Two-sided periodogram, periodic Hann, each frame mean removed, 50% overlap. Arithmetic mean PSD and uncorrected median PSD shown separately. No frames clipped or rejected.",
+  "nfft": 4096,
+  "hop_samples": 2048,
+  "bin_spacing_hz": 61.03515625,
+  "hann_enbw_hz": 91.552734375,
+  "limitations": [
+    "User requested 64 MHz assumption; earlier user measurement was 52 MHz. Axes are nominal.",
+    "Both captures reported overflow/out-of-sequence indications; file sample indices do not preserve wall-clock gaps.",
+    "Captures at different times are not a calibrated gain comparison.",
+    "DC removed per frame; center bin is not evidence of a radio signal.",
+    "An incomplete final FFT window is omitted; no complete window is rejected."
+  ],
+  "captures": [
+    {
+      "capture_label": "A 槽 · 40 dB",
+      "configured_gain_db": 40,
+      "path": "logs\\A-reseat-64MHz-TXRX-g40-20260928-212612.dat",
+      "sha256": "29b9d778f637550b43b63988c9938c65fa3b755b1a5688695dd77ae5e1707a1b",
+      "complex_samples": 1011712,
+      "recording_elapsed_seconds": 5.001286,
+      "sample_index_duration_seconds_nominal": 4.046848,
+      "fft_frames": 493,
+      "unused_tail_samples": 0,
+      "full_scale_component_clips": 0,
+      "global_iq_mean": [
+        -4.945095130789135e-05,
+        7.736628596116656e-06
+      ],
+      "mean_psd_integral_dbfs": -72.2726030655498,
+      "median_psd_floor_dbfs_per_hz": -127.40483964526643,
+      "mean_psd_peak_offset_hz": -65429.6875,
+      "mean_psd_peak_dbfs_per_hz": -120.06830256535213,
+      "median_psd_peak_offset_hz": -65429.6875,
+      "median_psd_peak_dbfs_per_hz": -120.82850436547764,
+      "normalization_relative_error": 1.116736318332777e-16
+    },
+    {
+      "capture_label": "B 槽 · 40 dB",
+      "configured_gain_db": 40,
+      "path": "logs\\antenna-64MHz-B-TXRX-g40-20260928-211516.dat",
+      "sha256": "91b500105a4072871dc6332f41632422e99b102b60972b04b0195f2568b797c7",
+      "complex_samples": 1011712,
+      "recording_elapsed_seconds": 5.001313,
+      "sample_index_duration_seconds_nominal": 4.046848,
+      "fft_frames": 493,
+      "unused_tail_samples": 0,
+      "full_scale_component_clips": 0,
+      "global_iq_mean": [
+        -4.7545955490004195e-05,
+        8.68270151045641e-06
+      ],
+      "mean_psd_integral_dbfs": -72.47779392705156,
+      "median_psd_floor_dbfs_per_hz": -127.77100928593606,
+      "mean_psd_peak_offset_hz": 3051.7578125,
+      "mean_psd_peak_dbfs_per_hz": -124.41024964175767,
+      "median_psd_peak_offset_hz": 3051.7578125,
+      "median_psd_peak_dbfs_per_hz": -125.78435665800824,
+      "normalization_relative_error": 0.0
+    }
+  ],
+  "waterfall_color_limits_dbfs_per_hz": [
+    -140.0,
+    -115.0
+  ]
+}

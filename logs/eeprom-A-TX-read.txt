@@ -1,0 +1,19 @@
+[INFO] [UHD] Win32; Microsoft Visual C++ version 1944; Boost_108500; UHD_4.10.0.0-release
+[INFO] [USRP1] Opening a USRP1 device...
+[INFO] [USRP1] Using FPGA clock rate of 64.000000MHz...
+[WARNING] [DBMGR] Unknown transceiver board ID combination.
+Is your daughter-board mounted properly?
+RX dboard ID: RFX1800 (0x0034)
+TX dboard ID: Unknown (0xffff)
+
+[WARNING] [DBMGR] Unknown transceiver board ID combination.
+Is your daughter-board mounted properly?
+RX dboard ID: RFX1800 (0x0034)
+TX dboard ID: Unknown (0xffff)
+
+Reading TX EEPROM on dboard A...
+  Current ID: Unknown (0xffff)
+  Current serial: ""
+  Current revision: ""
+  Done
+

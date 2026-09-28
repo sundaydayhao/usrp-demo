@@ -1,0 +1,132 @@
+[
+  {
+    "trial": 0,
+    "address": "0x54",
+    "stage": "pointer",
+    "error": "[Errno 32] Pipe error"
+  },
+  {
+    "trial": 0,
+    "address": "0x55",
+    "stage": "read",
+    "length": 32,
+    "header_hex": "db 34 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 f1",
+    "valid": true
+  },
+  {
+    "trial": 0,
+    "address": "0x56",
+    "stage": "pointer",
+    "error": "[Errno 32] Pipe error"
+  },
+  {
+    "trial": 0,
+    "address": "0x57",
+    "stage": "pointer",
+    "error": "[Errno 32] Pipe error"
+  },
+  {
+    "trial": 1,
+    "address": "0x54",
+    "stage": "pointer",
+    "error": "[Errno 32] Pipe error"
+  },
+  {
+    "trial": 1,
+    "address": "0x55",
+    "stage": "read",
+    "length": 32,
+    "header_hex": "db 34 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 f1",
+    "valid": true
+  },
+  {
+    "trial": 1,
+    "address": "0x56",
+    "stage": "pointer",
+    "error": "[Errno 32] Pipe error"
+  },
+  {
+    "trial": 1,
+    "address": "0x57",
+    "stage": "pointer",
+    "error": "[Errno 32] Pipe error"
+  },
+  {
+    "trial": 2,
+    "address": "0x54",
+    "stage": "pointer",
+    "error": "[Errno 32] Pipe error"
+  },
+  {
+    "trial": 2,
+    "address": "0x55",
+    "stage": "read",
+    "length": 32,
+    "header_hex": "db 34 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 f1",
+    "valid": true
+  },
+  {
+    "trial": 2,
+    "address": "0x56",
+    "stage": "pointer",
+    "error": "[Errno 32] Pipe error"
+  },
+  {
+    "trial": 2,
+    "address": "0x57",
+    "stage": "pointer",
+    "error": "[Errno 32] Pipe error"
+  },
+  {
+    "trial": 3,
+    "address": "0x54",
+    "stage": "pointer",
+    "error": "[Errno 32] Pipe error"
+  },
+  {
+    "trial": 3,
+    "address": "0x55",
+    "stage": "read",
+    "length": 32,
+    "header_hex": "db 34 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 f1",
+    "valid": true
+  },
+  {
+    "trial": 3,
+    "address": "0x56",
+    "stage": "pointer",
+    "error": "[Errno 32] Pipe error"
+  },
+  {
+    "trial": 3,
+    "address": "0x57",
+    "stage": "pointer",
+    "error": "[Errno 32] Pipe error"
+  },
+  {
+    "trial": 4,
+    "address": "0x54",
+    "stage": "pointer",
+    "error": "[Errno 32] Pipe error"
+  },
+  {
+    "trial": 4,
+    "address": "0x55",
+    "stage": "read",
+    "length": 32,
+    "header_hex": "db 34 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 f1",
+    "valid": true
+  },
+  {
+    "trial": 4,
+    "address": "0x56",
+    "stage": "pointer",
+    "error": "[Errno 32] Pipe error"
+  },
+  {
+    "trial": 4,
+    "address": "0x57",
+    "stage": "pointer",
+    "error": "[Errno 32] Pipe error"
+  }
+]

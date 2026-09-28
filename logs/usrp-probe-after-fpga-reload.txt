@@ -1,0 +1,122 @@
+[INFO] [UHD] Win32; Microsoft Visual C++ version 1944; Boost_108500; UHD_4.10.0.0-release
+[INFO] [FX2] Loading firmware image: C:\Program Files\UHD\share\uhd\images\usrp1_fw.ihx...
+[INFO] [FX2] Firmware loaded
+[INFO] [USRP1] Opening a USRP1 device...
+[INFO] [FX2] Loading FPGA image: C:\Program Files\UHD\share\uhd\images\usrp1_fpga.rbf...
+[INFO] [FX2] FPGA image loaded
+[INFO] [USRP1] Using FPGA clock rate of 64.000000MHz...
+[WARNING] [DBMGR] Unknown transceiver board ID combination.
+Is your daughter-board mounted properly?
+RX dboard ID: RFX1800 (0x0034)
+TX dboard ID: Unknown (0xffff)
+
+  _____________________________________________________
+ /
+|       Device: USRP1 Device
+|     _____________________________________________________
+|    /
+|   |       Mboard: USRP1
+|   |   
+|   |   Time sources:  none
+|   |   Clock sources: internal
+|   |   Sensors: 
+|   |     _____________________________________________________
+|   |    /
+|   |   |       RX DSP: 0
+|   |   |   
+|   |   |   Freq range: -32.000 to 32.000 MHz
+|   |     _____________________________________________________
+|   |    /
+|   |   |       RX DSP: 1
+|   |   |   
+|   |   |   Freq range: -32.000 to 32.000 MHz
+|   |     _____________________________________________________
+|   |    /
+|   |   |       RX Dboard: A
+|   |   |   ID: RFX1800 (0x0034)
+|   |   |     _____________________________________________________
+|   |   |    /
+|   |   |   |       RX Frontend: 0
+|   |   |   |   Name: RFX1800 RX
+|   |   |   |   Antennas: TX/RX, RX2, CAL
+|   |   |   |   Sensors: lo_locked
+|   |   |   |   Freq range: 1500.000 to 2100.000 MHz
+|   |   |   |   Gain range PGA0: 0.0 to 70.0 step 0.0 dB
+|   |   |   |   Bandwidth range: 40000000.0 to 40000000.0 step 0.0 Hz
+|   |   |   |   Connection Type: QI
+|   |   |   |   Uses LO offset: No
+|   |   |     _____________________________________________________
+|   |   |    /
+|   |   |   |       RX Codec: A
+|   |   |   |   Name: ad9862
+|   |   |   |   Gain range pga: 0.0 to 20.0 step 1.0 dB
+|   |     _____________________________________________________
+|   |    /
+|   |   |       RX Dboard: B
+|   |   |   ID: RFX1800 (0x0034)
+|   |   |     _____________________________________________________
+|   |   |    /
+|   |   |   |       RX Frontend: 0
+|   |   |   |   Name: RFX1800 (0x0034) - 0
+|   |   |   |   Antennas: 
+|   |   |   |   Sensors: 
+|   |   |   |   Freq range: 0.000 to 0.000 MHz
+|   |   |   |   Gain Elements: None
+|   |   |   |   Bandwidth range: 0.0 to 0.0 step 0.0 Hz
+|   |   |   |   Connection Type: IQ
+|   |   |   |   Uses LO offset: No
+|   |   |     _____________________________________________________
+|   |   |    /
+|   |   |   |       RX Codec: B
+|   |   |   |   Name: ad9862
+|   |   |   |   Gain range pga: 0.0 to 20.0 step 1.0 dB
+|   |     _____________________________________________________
+|   |    /
+|   |   |       TX DSP: 0
+|   |   |   
+|   |   |   Freq range: -44.000 to 44.000 MHz
+|   |     _____________________________________________________
+|   |    /
+|   |   |       TX DSP: 1
+|   |   |   
+|   |   |   Freq range: -44.000 to 44.000 MHz
+|   |     _____________________________________________________
+|   |    /
+|   |   |       TX Dboard: A
+|   |   |   ID: RFX1800 (0x0035)
+|   |   |     _____________________________________________________
+|   |   |    /
+|   |   |   |       TX Frontend: 0
+|   |   |   |   Name: RFX1800 TX
+|   |   |   |   Antennas: TX/RX, CAL
+|   |   |   |   Sensors: lo_locked
+|   |   |   |   Freq range: 1500.000 to 2100.000 MHz
+|   |   |   |   Gain Elements: None
+|   |   |   |   Bandwidth range: 40000000.0 to 40000000.0 step 0.0 Hz
+|   |   |   |   Connection Type: IQ
+|   |   |   |   Uses LO offset: Yes
+|   |   |     _____________________________________________________
+|   |   |    /
+|   |   |   |       TX Codec: A
+|   |   |   |   Name: ad9862
+|   |   |   |   Gain range pga: -20.0 to 0.0 step 0.1 dB
+|   |     _____________________________________________________
+|   |    /
+|   |   |       TX Dboard: B
+|   |   |     _____________________________________________________
+|   |   |    /
+|   |   |   |       TX Frontend: 0
+|   |   |   |   Name: Unknown (0xffff) - 0
+|   |   |   |   Antennas: 
+|   |   |   |   Sensors: 
+|   |   |   |   Freq range: 0.000 to 0.000 MHz
+|   |   |   |   Gain Elements: None
+|   |   |   |   Bandwidth range: 0.0 to 0.0 step 0.0 Hz
+|   |   |   |   Connection Type: IQ
+|   |   |   |   Uses LO offset: No
+|   |   |     _____________________________________________________
+|   |   |    /
+|   |   |   |       TX Codec: B
+|   |   |   |   Name: ad9862
+|   |   |   |   Gain range pga: -20.0 to 0.0 step 0.1 dB
+

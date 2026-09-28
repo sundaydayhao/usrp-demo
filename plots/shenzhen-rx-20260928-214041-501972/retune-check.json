@@ -1,0 +1,50 @@
+[
+  {
+    "slot": "A",
+    "tune_mhz": 1890,
+    "peak_nominal_rf_hz": 1890621093.75,
+    "peak_offset_hz": 621093.75,
+    "peak_median_dbfs_per_hz": -100.20280733445576,
+    "source": "C:\\projects\\usrp-demo\\plots\\shenzhen-rx-20260928-214041-501972\\A-1890MHz-g60-spectrum.csv"
+  },
+  {
+    "slot": "A",
+    "tune_mhz": 1890.25,
+    "peak_nominal_rf_hz": 1890621093.75,
+    "peak_offset_hz": 371093.75,
+    "peak_median_dbfs_per_hz": -99.56592466955975,
+    "source": "C:\\projects\\usrp-demo\\plots\\shenzhen-rx-20260928-214314-571517\\A-1890.25MHz-g60-spectrum.csv"
+  },
+  {
+    "slot": "A",
+    "tune_mhz": 1890.5,
+    "peak_nominal_rf_hz": 1890621093.75,
+    "peak_offset_hz": 121093.75,
+    "peak_median_dbfs_per_hz": -99.13907557113302,
+    "source": "C:\\projects\\usrp-demo\\plots\\shenzhen-rx-20260928-214314-571517\\A-1890.5MHz-g60-spectrum.csv"
+  },
+  {
+    "slot": "B",
+    "tune_mhz": 1890,
+    "peak_nominal_rf_hz": 1890621093.75,
+    "peak_offset_hz": 621093.75,
+    "peak_median_dbfs_per_hz": -95.2088038310834,
+    "source": "C:\\projects\\usrp-demo\\plots\\shenzhen-rx-20260928-214041-501972\\B-1890MHz-g60-spectrum.csv"
+  },
+  {
+    "slot": "B",
+    "tune_mhz": 1890.25,
+    "peak_nominal_rf_hz": 1890621093.75,
+    "peak_offset_hz": 371093.75,
+    "peak_median_dbfs_per_hz": -94.21947126933767,
+    "source": "C:\\projects\\usrp-demo\\plots\\shenzhen-rx-20260928-214314-571517\\B-1890.25MHz-g60-spectrum.csv"
+  },
+  {
+    "slot": "B",
+    "tune_mhz": 1890.5,
+    "peak_nominal_rf_hz": 1890621093.75,
+    "peak_offset_hz": 121093.75,
+    "peak_median_dbfs_per_hz": -93.76785678069587,
+    "source": "C:\\projects\\usrp-demo\\plots\\shenzhen-rx-20260928-214314-571517\\B-1890.5MHz-g60-spectrum.csv"
+  }
+]

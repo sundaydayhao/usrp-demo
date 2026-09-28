@@ -1,0 +1,69 @@
+{
+  "uhd": "4.10.0.0-release",
+  "selected_slots": [
+    "A"
+  ],
+  "boards": {
+    "A": {
+      "rx_info": {
+        "mboard_id": "USRP1",
+        "mboard_name": "",
+        "mboard_serial": "",
+        "module_serial": "",
+        "rx_antenna": "",
+        "rx_id": "RFX1800 (0x0034)",
+        "rx_serial": "",
+        "rx_subdev_name": "RFX1800 (0x0034) - 0",
+        "rx_subdev_spec": "A:0"
+      },
+      "tx_info": {
+        "mboard_id": "USRP1",
+        "mboard_name": "",
+        "mboard_serial": "",
+        "module_serial": "",
+        "tx_antenna": "",
+        "tx_id": "Unknown (0xffff)",
+        "tx_serial": "",
+        "tx_subdev_name": "Unknown (0xffff) - 0",
+        "tx_subdev_spec": "A:0"
+      },
+      "rx": {
+        "sensors": [],
+        "freq_range_hz": [
+          0.0,
+          0.0
+        ],
+        "tuning": [],
+        "status": "frontend_not_initialized"
+      },
+      "tx": {
+        "sensors": [],
+        "freq_range_hz": [
+          0.0,
+          0.0
+        ],
+        "tuning": [],
+        "status": "frontend_not_initialized"
+      }
+    }
+  },
+  "tx_stream_started": false,
+  "rx_transport": {
+    "channels": [
+      "A:0"
+    ],
+    "rate_per_channel": 1000000.0,
+    "samples_per_channel": 0,
+    "elapsed_seconds": 5.045999999972992,
+    "metadata_errors": [
+      "ERROR_CODE_TIMEOUT",
+      "ERROR_CODE_TIMEOUT",
+      "ERROR_CODE_TIMEOUT",
+      "ERROR_CODE_TIMEOUT",
+      "ERROR_CODE_TIMEOUT"
+    ],
+    "limitation": "USRP1 lacks hardware timestamps and robust loss accounting; unknown frontends do not validate RF reception."
+  },
+  "identification_and_lo_checks_passed": false,
+  "rf_performance_verified": false
+}
